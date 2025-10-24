@@ -1,7 +1,7 @@
 #!/home/siris/2025CERCA01/2025CERCA01_env/bin/python3.10
 import sys
-from charset_normalizer.cli import cli_detect
+from datasets.commands.datasets_cli import main
 if __name__ == '__main__':
     if sys.argv[0].endswith('.exe'):
         sys.argv[0] = sys.argv[0][:-4]
-    sys.exit(cli_detect())
+    sys.exit(main())
