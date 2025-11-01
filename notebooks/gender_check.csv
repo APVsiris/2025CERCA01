@@ -1,841 +1,836 @@
-DOI,display_name,author_order,institution_id,COUNTRY_CODE,CERCA,Center,first_name,gender
-10.1093/ije/dyae063,Óscar J. Pozo,52.0,,,True,ResearchMar,Óscar,male
-10.1093/cid/ciac314,Íñigo González Farías,30.0,4210130874.0,ES,True,ResearchMar,Íñigo,male
-10.1002/dta.3615,Élida Alechaga,2.0,170486558.0,ES,True,ResearchMar,Élida,unknown
-10.1111/geb.13860,Écio Souza Diniz,3.0,4210129656.0,ES,True,CREAF,Écio,unknown
-10.1016/j.agee.2023.108601,Ângela Ribas,1.0,4210129656.0,ES,True,CREAF,Ângela,female
-10.2196/39003,Ángela Leis,1.0,4210130874.0,ES,True,ResearchMar,Ángela,female
-10.1038/s41598-023-40838-7,Ángel Ois,2.0,4210130874.0,ES,True,ResearchMar,Ángel,male
-10.1007/s00394-020-02415-w,Álvaro Hernáez,294.0,,,True,ResearchMar,Álvaro,male
-10.1093/jscr/rjab148,Álex Morera-Grau,1.0,4210130874.0,ES,True,ResearchMar,Álex,unknown
-10.1016/j.mex.2024.102969,Á. Bach,3.0,4210154894.0,ES,True,CREAF,Á.,unknown
-10.1016/j.ijrobp.2020.12.032,Àngels Pont,4.0,4210156109.0,ES,True,ResearchMar,Àngels,mostly_female
-10.1007/s10433-023-00769-8,Àngel Lavado,1.0,4210101563.0,ES,True,ResearchMar,Àngel,unknown
-10.1016/j.ecoenv.2023.115586,Àlex Gomez‐Gómez,1.0,4210130874.0,ES,True,ResearchMar,Àlex,unknown
-10.1093/ije/dyae063,Zoraida García,41.0,4210148332.0,ES,True,ResearchMar,Zoraida,female
-10.1016/j.cej.2022.136129,Zhifu Liang,1.0,4210128520.0,ES,True,ICN2,Zhifu,unknown
-10.1021/acsnano.2c05733,Zhi Li,3.0,4210093216.0,ES,True,ICN2,Zhi,andy
-10.1002/ecy.4375,Zhenhong Hu,1.0,4210105229.0,CN,True,CREAF,Zhenhong,unknown
-10.3390/toxics9030056,Zhaoyue Chen,4.0,4210148332.0,ES,True,ISGlobal,Zhaoyue,unknown
-10.1016/j.scitotenv.2023.167062,Zhaobin Mu,1.0,3018690959.0,CN,True,CREAF,Zhaobin,unknown
-10.3390/jcm12124158,Zenaida Piñeiro Agüín,11.0,4210130874.0,ES,True,ResearchMar,Zenaida,female
-10.1088/2053-1583/ac3378,Zeila Zanolli,2.0,4210093216.0,ES,True,ICN2,Zeila,unknown
-10.1177/11206721221080818,Zaida Vega-Lopez,2.0,4210111971.0,ES,True,ResearchMar,Zaida,female
-10.1016/j.oneear.2023.09.007,Z. K. Zeng,1.0,4210165038.0,CN,True,CREAF,Z.,unknown
-10.1371/journal.ppat.1009455,Yunuen Ávalos-Padilla,1.0,4210092306.0,DE,True,ISGlobal,Yunuen,unknown
-10.1021/jacs.3c05469,Yunhui Yang,1.0,123044942.0,ES,True,ICN2,Yunhui,unknown
-10.3390/ijms222413363,Yuly López,1.0,4210148332.0,ES,True,ISGlobal,Yuly,unknown
-10.3390/nu16142245,Yulibeth G. Curbelo,4.0,4210130874.0,ES,True,ResearchMar,Yulibeth,unknown
-10.1021/acs.chemmater.3c01592,Yu Jing,5.0,4210093216.0,ES,True,ICN2,Yu,andy
-10.1007/s00394-020-02415-w,Yolanda De la Fuente Robles,829.0,4210130874.0,ES,True,ResearchMar,Yolanda,female
-10.1183/23120541.00105-2022,Yingchen Xia,1.0,2801864671.0,ES,True,ResearchMar,Yingchen,unknown
-10.1063/5.0049036,Ying Liu,1.0,4210093216.0,ES,True,ICN2,Ying,andy
-10.1021/jacs.1c05363,Yang Liu,1.0,4210093216.0,ES,True,ICN2,Yang,andy
-10.1016/j.nrleng.2020.11.008,Y. Lin,2.0,4210133106.0,ES,True,ResearchMar,Y.,unknown
-10.1016/j.agee.2023.108528,Xènia Jaumejoan,1.0,4210129656.0,ES,True,CREAF,Xènia,unknown
-10.3390/biomedicines9080905,Xuejie Wang,1.0,4210133106.0,ES,True,ResearchMar,Xuejie,unknown
-10.1002/sstr.202200388,Xu Han,1.0,4210128520.0,ES,True,ICN2,Xu,andy
-10.1002/ldr.4313,Xin Song,1.0,4401200259.0,,True,CREAF,Xin,andy
-10.1016/j.neubiorev.2021.06.045,Ximena Goldberg,1.0,4210137168.0,ES,True,ISGlobal,Ximena,female
-10.3390/nano12071221,Xiaoman Mao,1.0,4210093216.0,ES,True,ICN2,Xiaoman,unknown
-10.1093/cid/ciab228,Xavier Durán,97.0,4210092868.0,ES,True,ResearchMar,Xavier,male
-10.1186/s12877-022-02811-3,Xavi Duran,4.0,4210130874.0,ES,True,ResearchMar,Xavi,male
-10.1093/nar/gkae950,Xabier de Martin,1.0,2801864671.0,ES,True,ResearchMar,Xabier,male
-10.1007/s00066-021-01803-3,X. Sanz,5.0,4210130874.0,ES,True,ResearchMar,X.,unknown
-10.1007/s00787-020-01521-8,Wilma L. Zijlema,1.0,2801864671.0,ES,True,ISGlobal,Wilma,female
-10.1055/s-0040-1716380,William Teodoro Bracamonte Salgado,4.0,123044942.0,ES,True,ResearchMar,William,male
-10.1002/alz.13450,Wiesje Pelkmans,1.0,4210156109.0,ES,True,ResearchMar,Wiesje,female
-10.1016/j.nrl.2017.11.006,Vıctor Puente,3.0,4210133106.0,ES,True,ResearchMar,Vıctor,unknown
-10.1016/j.psychres.2024.115800,Víctor Pérez,34.0,123044942.0,ES,True,ResearchMar,Víctor,male
-10.3390/jcm11010216,Vladimir Poposki,8.0,4210109530.0,ES,True,ResearchMar,Vladimir,male
-10.3390/md19120675,Virginio Cepas,1.0,4210148332.0,ES,True,ISGlobal,Virginio,male
-10.15252/emmm.202216554,Violeta García‐Hernández,1.0,4210158561.0,ES,True,ResearchMar,Violeta,female
-10.1016/j.scitotenv.2022.153832,Vijendra Ingole,1.0,170486558.0,ES,True,ResearchMar,Vijendra,unknown
-10.1007/s00134-023-07161-1,Victoria Alcaraz-Serrano,192.0,4210137412.0,ES,True,ResearchMar,Victoria,female
-10.3390/min11090949,Vicenç Carabassa,1.0,4210129656.0,ES,True,CREAF,Vicenç,unknown
-10.1016/j.chest.2020.06.079,Vicens Díaz-Brito,199.0,,,True,ResearchMar,Vicens,unknown
-10.1111/hsc.13094,Vibian Angwenyi,1.0,4210148332.0,ES,True,ISGlobal,Vibian,unknown
-10.1016/j.foreco.2020.118549,Verónica Sandoya,1.0,3130401523.0,EC,True,CREAF,Verónica,female
-10.1177/23969873231156260,Verònica Hidalgo,37.0,4210130874.0,ES,True,ResearchMar,Verònica,unknown
-10.1002/smll.202302136,Vernalyn Abarintos,2.0,4210093216.0,ES,True,ICN2,Vernalyn,unknown
-10.3390/nu13020369,Vanesa Dávalos‐Yerovi,1.0,4210156109.0,ES,True,ResearchMar,Vanesa,female
-10.1016/j.oftale.2021.07.006,V. Pospoki,5.0,4210133106.0,ES,True,ResearchMar,V.,unknown
-10.1159/000515169,Uxue Lazcano,2.0,4210130874.0,ES,True,ResearchMar,Uxue,unknown
-10.1002/aelm.202400102,Umair Saeed,1.0,4210093216.0,ES,True,ICN2,Umair,unknown
-10.3390/nu13093291,Ujué Fresán,1.0,4210148332.0,ES,True,ISGlobal,Ujué,unknown
-10.1371/journal.pntd.0009781,Tsige Ketema,1.0,4210148332.0,ES,True,ISGlobal,Tsige,unknown
-10.1080/02827581.2024.2398235,Tristan R.M. Bakx,1.0,4210129656.0,ES,True,CREAF,Tristan,male
-10.1093/eurpub/ckab066,Trenton M. White,1.0,4210148332.0,ES,True,ISGlobal,Trenton,male
-10.1038/s41419-023-05720-4,Travis H. Stracker,22.0,4210122345.0,ES,True,ResearchMar,Travis,male
-10.1371/journal.pbio.3002487,Toni Celià-Terrassa,1.0,4210130874.0,ES,True,ResearchMar,Toni,male
-10.1038/s41559-021-01436-w,Tong Zheng,1.0,47689461.0,CN,True,CREAF,Tong,andy
-10.1039/d1sc00749a,Tomasz Maciej Stępniewski,1.0,4210156109.0,ES,True,ResearchMar,Tomasz,male
-10.1039/d3dt00185g,Ting Zhang,1.0,4210093216.0,ES,True,ICN2,Ting,andy
-10.1088/2515-7639/ad4c06,Thomas Galvani,1.0,4210093216.0,ES,True,ICN2,Thomas,male
-10.1183/13993003.04656-2020,Theodore Lytras,15.0,4210148332.0,ES,True,ISGlobal,Theodore,male
-10.1002/anie.202013839,Thais Grancha,1.0,4210093216.0,ES,True,ICN2,Thais,unknown
-10.1111/pce.14415,Teresa E. Gimeno,1.0,4210092744.0,ES,True,CREAF,Teresa,female
-10.1007/s12119-021-09898-7,Taylor Sheridan,2.0,4210148332.0,ES,True,ISGlobal,Taylor,mostly_male
-10.1016/j.semerg.2023.102030,Taryn Cardenas,9.0,4210130874.0,ES,True,ResearchMar,Taryn,female
-10.1016/j.medcli.2020.06.034,Tarek Carlos Salman-Monte,1.0,4210133106.0,ES,True,ResearchMar,Tarek,male
-10.1038/s41567-023-02125-0,Tapas Bar,3.0,4210093216.0,ES,True,ICN2,Tapas,male
-10.1016/j.envres.2021.110988,Tamara Iungman,1.0,165283593.0,FR,True,ISGlobal,Tamara,female
-10.1136/bmjopen-2021-057632,Talita Duarte‐Salles,38.0,4210129525.0,ES,True,ResearchMar,Talita,unknown
-10.1001/jamaoncol.2021.4301,Sònia Servitja,35.0,,,True,ResearchMar,Sònia,unknown
-10.1093/bjs/znab247,Sílvia Salvans,605.0,,,True,ResearchMar,Sílvia,unknown
-10.1111/nyas.15205,Susanna Tello,12.0,4210156109.0,ES,True,ResearchMar,Susanna,female
-10.3390/jcm12020579,Susana Vázquez,1.0,4210130874.0,ES,True,ResearchMar,Susana,female
-10.1016/j.envres.2021.111828,Subhabrata Moitra,1.0,4210154894.0,ES,True,ResearchMar,Subhabrata,unknown
-10.1038/s41565-023-01570-5,Steven T. Walston,2.0,4210093216.0,ES,True,ICN2,Steven,male
-10.1088/2053-1583/ad64e2,Stephan Roche,1.0,4210093216.0,ES,True,ICN2,Stephan,male
-10.1136/thoraxjnl-2020-215884,Stefano Guerra,6.0,4210148332.0,ES,True,ISGlobal,Stefano,male
-10.1016/j.scitotenv.2021.149580,Stefania Mattana,2.0,149213910.0,BE,True,CREAF,Stefania,female
-10.1186/s12887-021-02725-w,Sophie Jullien,1.0,4210148332.0,ES,True,ISGlobal,Sophie,female
-10.1136/ard-2023-224460,Sonia Tejedor Vaquero,43.0,4210156109.0,ES,True,ResearchMar,Sonia,female
-10.1016/j.cej.2024.151873,Somalapura Prakasha Bharath,4.0,4210093216.0,ES,True,ICN2,Somalapura,unknown
-10.1093/brain/awac224,Sofía González‐Ortiz,56.0,4210130874.0,ES,True,ResearchMar,Sofía,female
-10.3389/fimmu.2021.686384,Sofya Pozdniakova,4.0,4210148332.0,ES,True,ISGlobal,Sofya,female
-10.3390/ijms222313093,Sofia Villanueva,2.0,4210156109.0,ES,True,ResearchMar,Sofia,female
-10.3390/antibiotics10121486,Soe Yu Naing,1.0,4210148332.0,ES,True,ISGlobal,Soe,unknown
-10.1021/acsanm.4c04071,Siyu Chen,4.0,51622183.0,CN,True,ICN2,Siyu,unknown
-10.1186/s12860-021-00363-9,Simone G. Moro,1.0,170486558.0,ES,True,ResearchMar,Simone,female
-10.12688/wellcomeopenres.16345.2,Simon J. Lloyd,6.0,4210148332.0,ES,True,ISGlobal,Simon,male
-10.1038/s41398-021-01480-x,Silvia Alemany,53.0,4210148332.0,ES,True,ISGlobal,Silvia,female
-10.1016/j.apcatb.2023.122601,Shunrui Luo,2.0,4210093216.0,ES,True,ICN2,Shunrui,unknown
-10.1093/ckj/sfad142,Sheila Bermejo,1.0,4210102407.0,ES,True,ResearchMar,Sheila,female
-10.1016/j.envres.2024.119557,Sewon Lee,2.0,4210154894.0,ES,True,ResearchMar,Sewon,unknown
-10.1111/gcb.16928,Sergio Albacete,1.0,4210129656.0,ES,True,CREAF,Sergio,male
-10.1088/1748-9326/ac4ebe,Sergi Herrando,42.0,4210117018.0,ES,True,CREAF,Sergi,male
-10.1017/s2040174421000441,Serena Fossati,2.0,4210148332.0,ES,True,ISGlobal,Serena,female
-10.3389/fimmu.2021.614246,Selena Alonso,1.0,4210148332.0,ES,True,ISGlobal,Selena,female
-10.1088/2515-7639/ac2060,Sebin Varghese,1.0,4210093216.0,ES,True,ICN2,Sebin,unknown
-10.1016/s2542-5196(21)00288-6,Sasha Khomenko,1.0,4210148332.0,ES,True,ISGlobal,Sasha,mostly_male
-10.1177/10497323211058164,Sarju Sing,1.0,865915315.0,NL,True,ISGlobal,Sarju,unknown
-10.1080/16078454.2021.1975957,Saray Rodriguez-Lopez,8.0,4210130874.0,ES,True,ResearchMar,Saray,andy
-10.1093/ije/dyae063,Sarah Koch,44.0,,,True,ResearchMar,Sarah,female
-10.3389/fpubh.2021.746052,Sara Ajanovic,1.0,4210148332.0,ES,True,ISGlobal,Sara,female
-10.1002/adma.202310198,Saptam Ganguly,1.0,4210093216.0,ES,True,ICN2,Saptam,unknown
-10.1016/j.injury.2024.111715,Santos Martínez-Díaz,97.0,4210133106.0,ES,True,ResearchMar,Santos,andy
-10.1038/s41586-023-05772-8,Santiago F. Gómez,493.0,4210099712.0,ES,True,ResearchMar,Santiago,male
-10.1007/s00402-020-03643-9,Santana Fernando,3.0,4210133106.0,ES,True,ResearchMar,Santana,female
-10.1111/jvs.13147,Sandra Nogué,1.0,43439940.0,GB,True,CREAF,Sandra,female
-10.1016/j.ccr.2021.213977,Salvio Suárez‐García,1.0,4210093216.0,ES,True,ICN2,Salvio,unknown
-10.1016/j.rec.2020.04.013,Salvatore Marsico,1.0,4210130874.0,ES,True,ResearchMar,Salvatore,male
-10.1177/11786329241258856,Salvador Herrera-Pérez,2.0,4210156109.0,ES,True,ResearchMar,Salvador,male
-10.1016/j.wneu.2023.08.103,Sally Allinson Marte Arias,2.0,4210130874.0,ES,True,ResearchMar,Sally,female
-10.1016/j.arbr.2020.08.007,Saida Sánchez Navas,5.0,4210130874.0,ES,True,ResearchMar,Saida,female
-10.1016/j.jhepr.2021.100260,S. Coll,67.0,4210130874.0,ES,True,ResearchMar,S.,unknown
-10.1186/s12877-024-05185-w,S Ortonobes Roig,1.0,4210115578.0,ES,True,ResearchMar,S,unknown
-10.3390/en15134685,Ryan C. Ng,1.0,4210093216.0,ES,True,ICN2,Ryan,mostly_male
-10.4269/ajtmh.19-0783,Ruth Aguilar,2.0,4210148332.0,ES,True,ISGlobal,Ruth,female
-10.25270/jic/23.00272,Rut Álvarez‐Velasco,3.0,4210130874.0,ES,True,ResearchMar,Rut,female
-10.1021/acs.analchem.1c04491,Ruslán Álvarez-Diduk,2.0,4210093216.0,ES,True,ICN2,Ruslán,unknown
-10.1016/j.scitotenv.2024.170719,Rubén Olmo-Gilabert,1.0,4210129656.0,ES,True,CREAF,Rubén,male
-10.1038/s41561-023-01364-3,Rossella Guerrieri,1.0,9360294.0,IT,True,CREAF,Rossella,female
-10.1038/s41467-024-48854-5,Roshana Thambyrajah,1.0,4210130874.0,ES,True,ResearchMar,Roshana,unknown
-10.1021/acs.nanolett.4c02853,Roshan Krishna Kumar,2.0,179630473.0,ES,True,ICN2,Roshan,male
-10.1016/j.jenvman.2023.118696,Roser Rotchés‐Ribalta,36.0,4210129656.0,ES,True,CREAF,Roser,female
-10.1093/cid/ciaa1721,Rosauro Varo,39.0,,,True,ISGlobal,Rosauro,unknown
-10.1093/cid/ciab228,Rosario Díez,80.0,4210101563.0,ES,True,ResearchMar,Rosario,male
-10.1186/s13054-022-03905-5,Rosana Muñoz-Bermúdez,44.0,4210130874.0,ES,True,ResearchMar,Rosana,female
-10.1053/j.ajkd.2020.11.011,Rosa M. Lillo Rodríguez,63.0,4210130874.0,ES,True,ResearchMar,Rosa,female
-10.1016/j.survophthal.2024.05.005,Ronell Fernández Hernández,1.0,4210133106.0,ES,True,ResearchMar,Ronell,unknown
-10.3390/jcm12062339,Ronald Octavio Morales Murillo,9.0,4210130874.0,ES,True,ResearchMar,Ronald,male
-10.1111/gcb.15892,Romà Ogaya,40.0,4401200259.0,,True,CREAF,Romà,unknown
-10.1515/ntrev-2024-0118,Roger Gómez-Herrera,1.0,4210093216.0,ES,True,ICN2,Roger,male
-10.1093/brain/awab362,Rodrigo Rocamora,35.0,4210130874.0,ES,True,ResearchMar,Rodrigo,male
-10.12961/aprl.2022.25.02.03,Rocío Villar,1.0,170486558.0,ES,True,ResearchMar,Rocío,mostly_female
-10.1038/s41591-023-02610-2,Roberto Elosúa,201.0,4210156109.0,ES,True,ResearchMar,Roberto,male
-10.1103/physrevb.109.125422,Roberta Farris,1.0,4210093216.0,ES,True,ICN2,Roberta,female
-10.1016/j.medcli.2024.06.003,Robert Güerri‐Fernández,1.0,170486558.0,ES,True,ResearchMar,Robert,male
-10.1371/journal.pntd.0009681,Rita Velez,2.0,4210148332.0,ES,True,ISGlobal,Rita,female
-10.1073/pnas.2021238118,Riccardo Zucca,2.0,4210147769.0,ES,True,ResearchMar,Riccardo,male
-10.1002/admi.202201997,Regina Galceran,1.0,4210093216.0,ES,True,ICN2,Regina,female
-10.1128/spectrum.01109-21,Rebeca Santano,1.0,4210148332.0,ES,True,ISGlobal,Rebeca,female
-10.1016/j.arthro.2023.08.081,Raúl Torres‐Claramunt,1.0,4210130874.0,ES,True,ResearchMar,Raúl,male
-10.1007/s00216-024-05398-3,Razia Batool,1.0,4210105141.0,ES,True,ICN2,Razia,female
-10.1007/s00406-022-01438-0,Raquel López-Carrilero,62.0,2801357902.0,ES,True,ResearchMar,Raquel,female
-10.1038/s41409-021-01429-0,Randa Ben-Azaiz,9.0,123044942.0,ES,True,ResearchMar,Randa,female
-10.1038/s41598-022-11392-5,Ramón M. Pujol,129.0,4210095887.0,ES,True,ResearchMar,Ramón,male
-10.3389/fimmu.2023.1129296,Ramon González-Rioja,1.0,4210093216.0,ES,True,ICN2,Ramon,male
-10.1016/j.jhepr.2022.100574,Ramiro Manzano-Núñez,2.0,4210102407.0,ES,True,ResearchMar,Ramiro,male
-10.1093/braincomms/fcad351,Raffaele Cacciaglia,52.0,,,True,ResearchMar,Raffaele,male
-10.1002/ajmg.b.32843,Rafaël Maldonado,1.0,4210156109.0,ES,True,ResearchMar,Rafaël,male
-10.1038/s41558-024-02057-4,Rafael Poyatos,52.0,4210129656.0,ES,True,CREAF,Rafael,male
-10.1016/j.lanepe.2023.100701,Rachel Lowe,88.0,4210089966.0,GB,True,CREAF,Rachel,female
-10.3390/biom14010093,R.M. Manero,2.0,4210156109.0,ES,True,ResearchMar,R.M.,unknown
-10.1007/s00394-020-02415-w,R. Castañer,291.0,4210130874.0,ES,True,ResearchMar,R.,unknown
-10.1016/j.vaccine.2020.12.038,R Suau,1.0,4210148332.0,ES,True,ISGlobal,R,unknown
-10.1016/j.bios.2024.116544,Qurat Ul Ain Bukhari,1.0,124326101.0,IT,True,ICN2,Qurat,unknown
-10.1371/journal.pmed.1003814,Quique Bassat,36.0,4210118037.0,MZ,True,ISGlobal,Quique,male
-10.1016/j.heliyon.2024.e34615,Quim Zaldo-Aubanell,1.0,4210117018.0,ES,True,BETA,Quim,unknown
-10.1016/j.bios.2022.114005,Qiuyue Yang,1.0,123044942.0,ES,True,ICN2,Qiuyue,unknown
-10.1111/ejss.13243,Qin Wang,1.0,4401200259.0,,True,CREAF,Qin,andy
-10.1186/s13054-022-03905-5,Purificación Pérez-Terán,46.0,4210130874.0,ES,True,ResearchMar,Purificación,female
-10.1177/00258024231182369,Priscila Giraldo,7.0,4210130874.0,ES,True,ResearchMar,Priscila,female
-10.1038/s42003-022-03954-0,Pol Fernández-López,1.0,4210101295.0,ES,True,CREAF,Pol,male
-10.1007/s11010-023-04807-y,Pilar Álvarez,1.0,4210130874.0,ES,True,ResearchMar,Pilar,female
-10.1016/j.jpsychires.2022.02.009,Philippe Mortier,102.0,4210156109.0,ES,True,ResearchMar,Philippe,male
-10.1093/cid/ciaa1721,Pere Millat,34.0,4210148332.0,ES,True,ISGlobal,Pere,male
-10.1016/j.edumed.2019.09.004,Percy Efrain Pantoja,17.0,4210115615.0,ES,True,ISGlobal,Percy,male
-10.1126/sciadv.abo3733,Pengyi Tang,2.0,4210093216.0,ES,True,ICN2,Pengyi,unknown
-10.1126/sciadv.adm8825,Peng Xiao,1.0,4210093216.0,ES,True,ICN2,Peng,andy
-10.1016/j.medin.2020.05.011,Pedro Guijo González,1.0,4210130874.0,ES,True,ResearchMar,Pedro,male
-10.1093/ije/dyae063,Payam Dadvand,1.0,170486558.0,ES,True,ResearchMar,Payam,male
-10.1093/ije/dyae063,Paula de Prado-Bert,37.0,,,True,ResearchMar,Paula,female
-10.1038/s41588-021-00936-6,Pau Cisteró,153.0,4210148332.0,ES,True,ISGlobal,Pau,male
-10.1016/j.agee.2024.109006,Patrícia Campdelacreu Rocabruna,1.0,4210129656.0,ES,True,CREAF,Patrícia,female
-10.1016/j.xpro.2021.100539,Patrick-Simon Welz,2.0,4210122345.0,ES,True,ResearchMar,Patrick-Simon,unknown
-10.1245/s10434-022-13054-2,Patricia Sánchez‐Velázquez,45.0,4210130874.0,ES,True,ResearchMar,Patricia,female
-10.1002/cctc.202301435,Partha Samanta,1.0,4210093216.0,ES,True,ICN2,Partha,unknown
-10.1017/s2040174421000441,Parisa Montazeri,1.0,4210148332.0,ES,True,ISGlobal,Parisa,female
-10.1016/j.geoderma.2023.116354,Paolo Zuccarini,1.0,4401200259.0,,True,CREAF,Paolo,male
-10.1136/ard-2023-224460,Paola Castillo,36.0,,,True,ResearchMar,Paola,female
-10.1186/s12913-024-11200-y,Paloma Garcimartín,2.0,4210133106.0,ES,True,ResearchMar,Paloma,female
-10.1016/j.bja.2024.05.019,Pablo Navarro,59.0,,,True,ResearchMar,Pablo,male
-10.1016/j.brachy.2021.05.164,P. Foro,3.0,4210156109.0,ES,True,ResearchMar,P.,unknown
-10.18176/jiaci.0833,P Ausín,3.0,4210130874.0,ES,True,ResearchMar,P,unknown
-10.1136/bmjgh-2021-005639,Otávio T. Ranzani,1.0,4210148332.0,ES,True,ISGlobal,Otávio,unknown
-10.1016/j.opresp.2022.100215,Oswaldo Antonio Caguana Vélez,1.0,4210133106.0,ES,True,ResearchMar,Oswaldo,male
-10.1093/jpe/rtac046,Oscar R. Lanuza,1.0,4210129656.0,ES,True,CREAF,Oscar,male
-10.1001/jamanetworkopen.2022.50921,Oriol Grau‐Rivera,144.0,,,True,ResearchMar,Oriol,male
-10.1136/sextrans-2020-054937,Orianna Marcantonio,1.0,4210133106.0,ES,True,ResearchMar,Orianna,unknown
-10.3390/ijerph18105418,Oriana Ramírez‐Rubio,2.0,4210148332.0,ES,True,ISGlobal,Oriana,female
-10.1039/d2nh00520d,Onurcan Kaya,1.0,82951845.0,AU,True,ICN2,Onurcan,male
-10.1007/s42729-022-00944-3,Omar Castaño-Sánchez,6.0,115304662.0,ES,True,BETA,Omar,male
-10.3389/fpubh.2024.1335265,Olivia Ferrández,1.0,4210130874.0,ES,True,ResearchMar,Olivia,female
-10.1038/s41583-023-00733-6,Olha Khymenets,6.0,4210130874.0,ES,True,ResearchMar,Olha,female
-10.1093/ageing/afab246,Olga Castañer,43.0,2801357902.0,ES,True,ResearchMar,Olga,female
-10.1016/j.ijrobp.2020.12.032,Olatz Garín,1.0,4210156109.0,ES,True,ResearchMar,Olatz,female
-10.1021/acsami.3c07213,Olalla Calvo-Lozano,1.0,4210093216.0,ES,True,ICN2,Olalla,female
-10.1038/s41565-022-01178-1,O. Florez,1.0,4210093216.0,ES,True,ICN2,O.,unknown
-10.1053/j.gastro.2020.09.026,Núria Cañete,54.0,4210136145.0,ES,True,ResearchMar,Núria,female
-10.4103/jcrt.jcrt_263_22,NuriaArgudo Aguirre,5.0,4210133106.0,ES,True,ResearchMar,NuriaArgudo,unknown
-10.1016/j.envint.2021.106469,Nuria Güil-Oumrait,1.0,4210148332.0,ES,True,ISGlobal,Nuria,female
-10.3390/cancers13236008,Nura Lutfi,1.0,4210130874.0,ES,True,ResearchMar,Nura,unknown
-10.1039/d3mh01935g,Nour Al Hoda Al Bast,2.0,4210093216.0,ES,True,ICN2,Nour,mostly_female
-10.1186/s13321-022-00661-0,Norberto Sánchez‐Cruz,18.0,4210156091.0,ES,True,ResearchMar,Norberto,male
-10.1016/j.ccr.2022.214459,Noemí Contreras‐Pereda,1.0,4210093216.0,ES,True,ICN2,Noemí,female
-10.1016/j.gaceta.2024.102409,Noelia Rolando,1.0,170486558.0,ES,True,ResearchMar,Noelia,female
-10.1016/j.carbon.2021.10.028,Nils Wittemeier,1.0,4210093216.0,ES,True,ICN2,Nils,male
-10.21037/tlcr-23-412,Nil Navarro,3.0,4210130874.0,ES,True,ResearchMar,Nil,female
-10.1177/17588359221139601,Nikaoly Ciriaco,1.0,123044942.0,ES,True,ResearchMar,Nikaoly,unknown
-10.3390/ph14070638,Nieves Martínez-Peinado,1.0,4210148332.0,ES,True,ISGlobal,Nieves,female
-10.2340/actadv.v104.40419,Nidia Planella‐Fontanillas,1.0,4210130874.0,ES,True,ResearchMar,Nidia,female
-10.1016/j.agrformet.2023.109716,Nicolas Delpierre,2.0,4210129656.0,ES,True,CREAF,Nicolas,male
-10.1186/s12916-021-02155-6,Nicolai Brachowicz,3.0,4210148332.0,ES,True,ISGlobal,Nicolai,male
-10.1002/slct.202201917,Ngoc Tran,2.0,3130697706.0,VN,True,ICN2,Ngoc,mostly_female
-10.1016/j.ebiom.2021.103797,Neus Martínez‐Bosch,1.0,4210156109.0,ES,True,ResearchMar,Neus,female
-10.1007/s00167-023-07456-2,Nerea Goicoechea,1.0,4210133106.0,ES,True,ResearchMar,Nerea,female
-10.3390/biomedicines12081666,Nazaret Infante,6.0,4210130874.0,ES,True,ResearchMar,Nazaret,unknown
-10.1093/cercor/bhac239,Natàlia Vilor‐Tejedor,42.0,,,True,ResearchMar,Natàlia,unknown
-10.1016/j.ijheh.2021.113772,Natalie Mueller,1.0,4210148332.0,ES,True,ISGlobal,Natalie,female
-10.3390/genes13010146,Natalia García‐Giralt,1.0,4210149569.0,ES,True,ResearchMar,Natalia,female
-10.3389/fpubh.2021.583667,Nandini Sarkar,1.0,4210148332.0,ES,True,ISGlobal,Nandini,female
-10.1016/j.jenvman.2022.114722,Nancy Peña,3.0,115304662.0,ES,True,BETA,Nancy,female
-10.1371/journal.pntd.0009076,Nana Aba Williams,2.0,4210148332.0,ES,True,ISGlobal,Nana,female
-10.1038/s41524-022-00710-0,Nakib H. Protik,1.0,4210093216.0,ES,True,ICN2,Nakib,unknown
-10.1016/j.ygyno.2021.06.019,Nadwa Kanjou,4.0,123044942.0,ES,True,ResearchMar,Nadwa,female
-10.3390/ijerph192013676,Nacho Sánchez-Valdivia,1.0,4210156109.0,ES,True,ResearchMar,Nacho,male
-10.1093/cid/ciab228,N. López Segura,9.0,4210147572.0,ES,True,ResearchMar,N.,unknown
-10.1016/j.eclinm.2023.102307,Münci Yağcı,113.0,4210130874.0,ES,True,ResearchMar,Münci,unknown
-10.1186/s13195-022-01068-7,Müge Akinci,1.0,4210128274.0,ES,True,ResearchMar,Müge,female
-10.1088/2515-7639/acc893,Mónica Lira‐Cantú,41.0,4210093216.0,ES,True,ICN2,Mónica,female
-10.1007/s00428-023-03608-4,Mònica Gonzàlez‐Farré,1.0,4210156109.0,ES,True,ResearchMar,Mònica,unknown
-10.1186/s12933-022-01657-8,Muriel Bourgeon-GhittoriLachgar,312.0,4210156109.0,ES,True,ResearchMar,Muriel,female
-10.1038/s43247-024-01385-9,Mukund Palat Rao,3.0,78577930.0,US,True,CREAF,Mukund,unknown
-10.1016/j.ijantimicag.2024.107202,Montserrat Sanmartí,101.0,4210153460.0,ES,True,ResearchMar,Montserrat,female
-10.1016/j.jpsychires.2022.02.009,Montse Ferrer,67.0,4210156109.0,ES,True,ResearchMar,Montse,female
-10.1136/bmjopen-2020-046346,Monique Messaggi-Sartor,1.0,4210095457.0,NZ,True,ResearchMar,Monique,female
-10.1016/j.ejvs.2023.02.078,Monica Lacambra,4.0,4210130874.0,ES,True,ResearchMar,Monica,female
-10.1016/j.mattod.2021.06.015,Mohammad Amin Farahmand Nejad,1.0,4210093216.0,ES,True,ICN2,Mohammad,male
-10.1192/j.eurpsy.2023.2460,Mitona Pujadas,5.0,4210130874.0,ES,True,ResearchMar,Mitona,unknown
-10.1111/1365-2664.14609,Miriam Selwyn,1.0,123044942.0,ES,True,CREAF,Miriam,female
-10.1016/j.ekir.2024.04.004,Miren Iriarte,5.0,4210130874.0,ES,True,ResearchMar,Miren,female
-10.1002/mnfr.202100363,Mireia Malcampo,50.0,,,True,ResearchMar,Mireia,female
-10.1002/smll.202102753,Mirco Panighel,7.0,4210093216.0,ES,True,ICN2,Mirco,male
-10.1038/s41586-023-05772-8,Miquel Porta,1127.0,4210156109.0,ES,True,ResearchMar,Miquel,male
-10.1111/codi.16454,Miguél Pera,35.0,4210156109.0,ES,True,ResearchMar,Miguél,unknown
-10.1007/s00394-020-02415-w,Miguel Camafort,525.0,,,True,ResearchMar,Miguel,male
-10.1021/acs.est.1c04455,Michiel A. van den Dries,1.0,4210148332.0,ES,True,ISGlobal,Michiel,male
-10.1016/j.rpsm.2021.02.005,Michelle S.W. Kusters,1.0,4210154894.0,ES,True,ISGlobal,Michelle,female
-10.1002/smll.202402328,Michele Gastaldo,6.0,4210093216.0,ES,True,ICN2,Michele,female
-10.1111/ele.14500,Michał Bogdziewicz,2.0,59411706.0,PL,True,CREAF,Michał,male
-10.3390/ijerph19106105,Michael Silva-Peñaherrera,1.0,4210133106.0,ES,True,ResearchMar,Michael,male
-10.3390/antibiotics10101149,Merçè Espona,1.0,4210130874.0,ES,True,ResearchMar,Merçè,unknown
-10.1038/s41598-022-19381-4,Meritxell Genovart,1.0,4210101295.0,ES,True,CREAF,Meritxell,unknown
-10.1186/s12957-021-02356-6,Mercè Comas,41.0,4210101151.0,ES,True,ResearchMar,Mercè,female
-10.1371/journal.pone.0248538,Mercy Opiyo,1.0,114292369.0,TZ,True,ISGlobal,Mercy,unknown
-10.2337/dc22-2521,Mercedes Rigla,9.0,123044942.0,ES,True,ResearchMar,Mercedes,female
-10.1016/j.socscimed.2022.115634,Melissa García‐Lamarca,3.0,123044942.0,ES,True,ResearchMar,Melissa,female
-10.3389/fcimb.2021.596104,Melisa Gualdrón‐López,1.0,4210137002.0,ES,True,ISGlobal,Melisa,female
-10.1093/cid/ciab760,Melania Ferrando,5.0,4210148332.0,ES,True,ISGlobal,Melania,female
-10.1016/j.ijhydene.2023.02.033,Mehdi Torabi Goodarzi,4.0,4210105141.0,ES,True,ICN2,Mehdi,male
-10.1016/j.dib.2020.106658,Meelan Thondoo,1.0,4210148332.0,ES,True,ISGlobal,Meelan,unknown
-10.1016/j.envres.2020.110446,Małgorzata J. Lubczyńska,1.0,170486558.0,ES,True,ISGlobal,Małgorzata,female
-10.1245/s10434-024-15846-0,Mayra Abad,3.0,170486558.0,ES,True,ResearchMar,Mayra,female
-10.1038/s41598-023-46126-8,Max Hardy-Werbin,1.0,4210136145.0,ES,True,ResearchMar,Max,male
-10.1073/pnas.2026733119,Maurizio Mencuccini,36.0,11932220.0,ES,True,CREAF,Maurizio,male
-10.1016/j.it.2023.04.003,Mauricio Guzmán,3.0,2801864671.0,ES,True,ResearchMar,Mauricio,male
-10.1016/j.carbon.2021.10.028,Matthieu J. Verstraete,2.0,4210130123.0,BE,True,ICN2,Matthieu,male
-10.1007/s12671-021-01794-3,Matilde Elices,1.0,4210133106.0,ES,True,ResearchMar,Matilde,female
-10.1016/j.compenvurbsys.2021.101653,Matilda van den Bosch,6.0,4210148332.0,ES,True,ISGlobal,Matilda,female
-10.1186/s12936-021-03690-6,Matiana González-Silva,1.0,4210148332.0,ES,True,ISGlobal,Matiana,unknown
-10.1016/j.gaceta.2024.102360,Mateu Serra‐Prat,2.0,4210101563.0,ES,True,ResearchMar,Mateu,male
-10.1002/smll.202306167,Massimo Urban,1.0,4210093216.0,ES,True,ICN2,Massimo,male
-10.1088/2515-7639/acc893,Masoud Karimipour,35.0,4210093216.0,ES,True,ICN2,Masoud,male
-10.1016/j.colsurfa.2023.131853,Marı́a Escudero-Escribano,3.0,4210093216.0,ES,True,ICN2,Marı́a,unknown
-10.1093/jac/dkab321,María‐Jesús Pinazo,58.0,,,True,ISGlobal,María‐Jesús,unknown
-10.1016/j.puhe.2024.02.010,María Dolores Zomeño,44.0,4210143378.0,ES,True,ResearchMar,María,mostly_female
-10.3390/foods10051059,Mary Cano‐Sarabia,2.0,4210093216.0,ES,True,ICN2,Mary,mostly_female
-10.1039/d2nr04100f,Martín Poblet,4.0,4210093216.0,ES,True,ICN2,Martín,male
-10.1016/j.jaci.2022.07.007,Martyna Filipska,2.0,4210156109.0,ES,True,ResearchMar,Martyna,female
-10.1111/acel.14194,Martine Vrijheid,52.0,4210154894.0,ES,True,ResearchMar,Martine,female
-10.1016/j.jaad.2020.10.046,Marta Ferrán Farrés,52.0,,,True,ResearchMar,Marta,female
-10.1007/s11356-021-18364-8,Mark Nieuwenhuijsen,1.0,4210154894.0,ES,True,ISGlobal,Mark,male
-10.3390/brainsci11020168,Marisol Picado,10.0,4210156109.0,ES,True,ResearchMar,Marisol,female
-10.3390/ijerph20043639,Marisa Baré,1.0,4210106003.0,ES,True,ResearchMar,Marisa,female
-10.1038/s41467-021-24558-y,Mariona Bustamante,34.0,4210154894.0,ES,True,ISGlobal,Mariona,unknown
-10.1093/hmg/ddac158,Mario Cáceres,328.0,4210104448.0,ES,True,ResearchMar,Mario,male
-10.1007/s00134-024-07509-1,Marine Clea Renard,24.0,4210130874.0,ES,True,ResearchMar,Marine,female
-10.1016/j.lanepe.2023.100701,Marina Romanello,42.0,170486558.0,ES,True,CREAF,Marina,female
-10.1016/j.arbres.2024.11.015,Mariela Alvarado-Miranda,1.0,4210133106.0,ES,True,ResearchMar,Mariela,female
-10.1111/ijlh.14000,Marie Solange Flores‐Morán,1.0,4210136145.0,ES,True,ResearchMar,Marie,female
-10.1007/s10113-024-02189-5,Maricel Jadith Móstiga Rodríguez,1.0,123044942.0,ES,True,CREAF,Maricel,male
-10.1038/s41586-023-05772-8,Maribel Casas,249.0,4210154894.0,ES,True,ResearchMar,Maribel,female
-10.1063/5.0130927,Marianna Sledzinska,1.0,4210093216.0,ES,True,ICN2,Marianna,female
-10.37201/req/037.2021,Mariana Fernández-Pittol,35.0,4210160192.0,ES,True,ISGlobal,Mariana,female
-10.1007/s13304-024-01859-7,Mariagiulia Dal Cero,807.0,,,True,ResearchMar,Mariagiulia,unknown
-10.3389/fsurg.2022.866041,Maria-Alejandra Guerrero,5.0,4210130874.0,ES,True,ResearchMar,Maria-Alejandra,unknown
-10.1007/s00394-020-02415-w,Maria del Mar Vila,540.0,,,True,ResearchMar,Maria,female
-10.1038/s41598-022-09771-z,Margarita Posso,51.0,4210130874.0,ES,True,ResearchMar,Margarita,female
-10.1016/s2542-5196(21)00211-4,Marcos Quijal-Zamorano,1.0,4210148332.0,ES,True,ISGlobal,Marcos,male
-10.1073/pnas.2123248119,Marco Telford,2.0,921990950.0,US,True,ResearchMar,Marco,male
-10.3390/cancers16020321,Marcio Andrade‐Campos,2.0,4210130874.0,ES,True,ResearchMar,Marcio,male
-10.1038/s43587-024-00731-y,Marc Suárez‐Calvet,52.0,4210086696.0,ES,True,ResearchMar,Marc,male
-10.3389/fpsyt.2023.1279688,Mara Dierssen,34.0,4210137962.0,ES,True,ResearchMar,Mara,female
-10.1093/bjs/znac322,Mar Iglesias,53.0,,,True,ResearchMar,Mar,female
-10.1016/j.agrformet.2022.109019,Manuela Balzarolo,2.0,4210129656.0,ES,True,CREAF,Manuela,female
-10.1093/jac/dkab321,Manuel Muñoz‐Torres,103.0,4210148332.0,ES,True,ISGlobal,Manuel,male
-10.1016/j.mrrev.2022.108415,Manolis Kogevinas,62.0,95457486.0,US,True,ResearchMar,Manolis,male
-10.1007/s12094-023-03272-9,Manel López,3.0,170486558.0,ES,True,ResearchMar,Manel,male
-10.1007/s00423-023-03063-4,Maite de Miguel-Palacio,1.0,123044942.0,ES,True,ResearchMar,Maite,female
-10.1186/s13195-022-01101-9,Mahnaz Shekari,47.0,,,True,ResearchMar,Mahnaz,female
-10.1007/s00394-020-02415-w,Magı́ Farré,310.0,,,True,ResearchMar,Magı́,unknown
-10.1093/jac/dkab321,Magdalena Muelas‐Fernandez,57.0,4210148332.0,ES,True,ISGlobal,Magdalena,female
-10.1038/s41586-023-05772-8,Magda Gasull,462.0,4210154894.0,ES,True,ResearchMar,Magda,female
-10.1016/j.jclepro.2021.128106,Mabel Mora,5.0,115304662.0,ES,True,BETA,Mabel,female
-10.1016/j.gim.2022.06.011,Ma Ángeles López-Vílchez,5.0,4210130874.0,ES,True,ResearchMar,Ma,andy
-10.1016/j.aca.2021.338276,M.‐Carmen Estévez,2.0,4210105141.0,ES,True,ICN2,M.‐Carmen,unknown
-10.1080/21678421.2021.2024856,M.Á. Rubio,43.0,4210130874.0,ES,True,ResearchMar,M.Á.,unknown
-10.1007/s00134-023-07161-1,M.P. Gracia,176.0,,,True,ResearchMar,M.P.,unknown
-10.1038/s41467-022-30554-7,M.J. Esplandiu,1.0,4210093216.0,ES,True,ICN2,M.J.,unknown
-10.1016/j.nrleng.2021.09.001,M.B. Beltrán Mármol,3.0,4210130874.0,ES,True,ResearchMar,M.B.,unknown
-10.3389/fcimb.2021.738223,M.A. Tejero,5.0,4210148332.0,ES,True,ISGlobal,M.A.,unknown
-10.1101/2024.10.29.620654,M. Mar Albà,35.0,4210130874.0,ES,True,ResearchMar,M.,unknown
-10.5271/sjweh.3980,M Ubalde-López,1.0,4210154894.0,ES,True,ISGlobal,M,unknown
-10.1016/j.aca.2021.338254,Lívia Neves Borgheti-Cardoso,3.0,4210148332.0,ES,True,ISGlobal,Lívia,female
-10.1073/pnas.2115033119,Lídia Vendrell-Puigmitjà,42.0,115304662.0,ES,True,BETA,Lídia,female
-10.1136/jnis-2023-021103,Léopoldo Guimaraens,1.0,4210119948.0,ES,True,ResearchMar,Léopoldo,unknown
-10.1016/j.mrrev.2022.108415,Léa Maître,34.0,1334415907.0,NL,True,ResearchMar,Léa,female
-10.1016/j.cireng.2023.11.024,Luís Grande,1.0,123044942.0,ES,True,ResearchMar,Luís,male
-10.1128/spectrum.02967-23,Luisa Sorlí,1.0,4210156109.0,ES,True,ResearchMar,Luisa,female
-10.1186/s13073-023-01214-2,Luis A. Pérez‐Jurado,43.0,4210130874.0,ES,True,ResearchMar,Luis,male
-10.1093/ibd/izab015,Luigi Melcarne,8.0,,,True,ResearchMar,Luigi,male
-10.1177/17562848231221713,Lucía Márquez,52.0,4210130874.0,ES,True,ResearchMar,Lucía,female
-10.1080/14767430.2022.2095121,Lucinda Cash‐Gibson,1.0,4387152686.0,,True,ResearchMar,Lucinda,female
-10.1002/pul2.12405,Lucilla Piccari,1.0,4210130874.0,ES,True,ResearchMar,Lucilla,female
-10.1007/s10021-021-00643-7,Luciana Jaime,1.0,4210129656.0,ES,True,CREAF,Luciana,female
-10.1093/ecco-jcc/jjae011,Lucia Marquez Mosquera,37.0,4210130874.0,ES,True,ResearchMar,Lucia,female
-10.1007/s13304-023-01488-6,Lucas Ilzarbe,467.0,,,True,ResearchMar,Lucas,male
-10.1016/j.agwat.2023.108613,Luca Da Sois,1.0,123044942.0,ES,True,CREAF,Luca,male
-10.3390/jfb14020063,Luana Vittoria Bauso,3.0,4210115082.0,ES,True,ResearchMar,Luana,female
-10.1021/acsanm.2c04915,Lourdes Rivas,1.0,4210093216.0,ES,True,ICN2,Lourdes,female
-10.1073/pnas.2115033119,Lorenzo Proia,35.0,115304662.0,ES,True,BETA,Lorenzo,male
-10.3390/pathogens10040412,Lorena Marimón,2.0,4210148332.0,ES,True,ISGlobal,Lorena,female
-10.3390/nu16234018,Loreley Betancourt,3.0,4210115578.0,ES,True,ResearchMar,Loreley,unknown
-10.1038/s41598-021-85485-y,Lola Madrid,3.0,4210148332.0,ES,True,ISGlobal,Lola,female
-10.3390/biomedicines9091278,Lluı́s Espinosa,1.0,4210156109.0,ES,True,ResearchMar,Lluı́s,unknown
-10.1038/s41467-024-50873-1,Lluís Gómez-Gener,48.0,4210129656.0,ES,True,CREAF,Lluís,unknown
-10.1016/j.eimce.2023.07.002,Lluisa Sorlí Redó,3.0,170486558.0,ES,True,ResearchMar,Lluisa,female
-10.1016/j.avsg.2022.12.077,Lluis Nieto Fernández,4.0,4210130874.0,ES,True,ResearchMar,Lluis,male
-10.4269/ajtmh.19-0783,Llorenç Quintó,3.0,4210148332.0,ES,True,ISGlobal,Llorenç,unknown
-10.3390/jcm10194534,Liyun Qin,1.0,4210133106.0,ES,True,ResearchMar,Liyun,unknown
-10.1016/j.envres.2020.110505,Livia Pierotti,4.0,2801357902.0,ES,True,ISGlobal,Livia,female
-10.1016/j.envint.2020.106278,Liudmila Liutsko,1.0,2801357902.0,ES,True,ISGlobal,Liudmila,female
-10.1111/cobi.14250,Lisieux Fuzessy,1.0,4210129656.0,ES,True,CREAF,Lisieux,unknown
-10.1021/jacs.4c07194,Lingxin Meng,1.0,4210093216.0,ES,True,ICN2,Lingxin,unknown
-10.1002/aelm.202201224,Linda‐Sheila Medondjio,2.0,4210093216.0,ES,True,ICN2,Linda‐Sheila,unknown
-10.1016/j.rcpeng.2024.10.004,Lina María Oviedo-Penuela,3.0,4210133106.0,ES,True,ResearchMar,Lina,female
-10.1021/acsami.4c01744,Liming Hu,1.0,4210093216.0,ES,True,ICN2,Liming,unknown
-10.2196/24433,Liliana Galindo,4.0,4210144468.0,GB,True,ResearchMar,Liliana,female
-10.1002/ejp.1930,Lilia I. Correa,2.0,4210130874.0,ES,True,ResearchMar,Lilia,female
-10.1111/bjh.17087,Lierni Fernández‐Ibarrondo,2.0,4210136145.0,ES,True,ResearchMar,Lierni,unknown
-10.1016/j.scitotenv.2023.163491,Liehua Tie,1.0,123044942.0,ES,True,CREAF,Liehua,unknown
-10.1093/braincomms/fcad351,Lidia C Gispert,53.0,4210130874.0,ES,True,ResearchMar,Lidia,female
-10.1007/s13304-024-01859-7,Leyre Lorente-Poch,415.0,,,True,ResearchMar,Leyre,unknown
-10.1016/j.wneu.2024.08.144,Leopoldo Guimaraens,2.0,4210119948.0,ES,True,ResearchMar,Leopoldo,male
-10.1038/s41408-023-00909-4,Leonor Arenillas,34.0,4210130874.0,ES,True,ResearchMar,Leonor,female
-10.1016/j.bonr.2022.101181,Leonardo Mellibovsky,2.0,4210149569.0,ES,True,ResearchMar,Leonardo,male
-10.1038/s41467-024-45171-9,Leire de Campos‐Mata,1.0,4210130874.0,ES,True,ResearchMar,Leire,female
-10.1016/j.geoderma.2021.115425,Lei Liu,1.0,4210129656.0,ES,True,CREAF,Lei,andy
-10.1002/celc.202300517,Leandro Nicolás Bengoa,1.0,4210093216.0,ES,True,ICN2,Leandro,male
-10.1186/s12890-022-01827-0,Leandra Domínguez Olivera,14.0,4210153292.0,ES,True,ResearchMar,Leandra,female
-10.1016/j.ejca.2021.11.032,Laura Visa,77.0,4210151833.0,NL,True,ResearchMar,Laura,female
-10.1186/s13148-021-01064-y,Lara Nonell,3.0,4210130874.0,ES,True,ResearchMar,Lara,female
-10.1177/21501351241247512,Laia Brunet‐Garcia,1.0,4210134155.0,ES,True,ResearchMar,Laia,female
-10.1371/journal.pone.0256918,LIuis Brotons,3.0,4210117018.0,ES,True,CREAF,LIuis,unknown
-10.1016/j.rceng.2022.03.009,L.E. Castillero-Díaz,7.0,4210130874.0,ES,True,ResearchMar,L.E.,unknown
-10.1111/bjd.20703,L. Soueid,1.0,4210148332.0,ES,True,ISGlobal,L.,unknown
-10.3389/fpubh.2024.1335265,L Río-No,8.0,4210130874.0,ES,True,ResearchMar,L,unknown
-10.1038/s41598-021-91275-3,Kyriaki Papantoniou,1.0,76134821.0,AT,True,ISGlobal,Kyriaki,female
-10.1002/ijc.34577,Kurt Straíf,2.0,103531236.0,US,True,ResearchMar,Kurt,male
-10.7554/elife.65655,Krijn P. Paaijmans,3.0,4210148332.0,ES,True,ISGlobal,Krijn,male
-10.1136/bmjgh-2020-003257,Koya C. Allen,1.0,4210148332.0,ES,True,ISGlobal,Koya,unknown
-10.1038/s44287-024-00020-1,Kostas Kostarelos,1.0,4210093216.0,ES,True,ICN2,Kostas,male
-10.1016/j.gim.2022.06.011,Klaus Langohr,3.0,4210130874.0,ES,True,ResearchMar,Klaus,male
-10.1016/j.arbres.2020.09.005,Klara Almagro,5.0,4210133106.0,ES,True,ResearchMar,Klara,female
-10.1038/s41377-022-01008-y,Klaas‐Jan Tielrooij,1.0,4210093216.0,ES,True,ICN2,Klaas‐Jan,unknown
-10.5498/wjp.v11.i10.854,Khadija El Abidi,1.0,4210133106.0,ES,True,ResearchMar,Khadija,female
-10.3390/rs13142806,Kevin Bórnez,1.0,4210129656.0,ES,True,CREAF,Kevin,male
-10.1088/2515-7639/acc893,Kenedy Tabah,37.0,4210093216.0,ES,True,ICN2,Kenedy,unknown
-10.3389/fpsyg.2021.681058,Kelly Safreed‐Harmon,2.0,4210148332.0,ES,True,ISGlobal,Kelly,mostly_female
-10.1016/j.envint.2024.108604,Kellie L.H.A. Crooijmans,1.0,170486558.0,ES,True,ResearchMar,Kellie,mostly_female
-10.1111/tmi.13714,Kate Whitfield,1.0,4210148332.0,ES,True,ISGlobal,Kate,female
-10.1007/s00204-023-03557-6,Karolina Kopańska,1.0,170486558.0,ES,True,ResearchMar,Karolina,female
-10.1016/j.atherosclerosis.2023.05.022,Karla Alejandra Pérez‐Vega,43.0,,,True,ResearchMar,Karla,female
-10.1001/jamanetworkopen.2022.50921,Karine Fauria,125.0,,,True,ResearchMar,Karine,female
-10.1186/s12955-022-01955-5,Karina Mayoral,1.0,4210130874.0,ES,True,ResearchMar,Karina,female
-10.3390/jcm11010216,Karen Nolivos,2.0,4210156109.0,ES,True,ResearchMar,Karen,female
-10.3390/plants10030554,Karel Klem,4.0,4210112497.0,CZ,True,CREAF,Karel,male
-10.1016/j.ese.2024.100445,Júlio C. López-Doval,3.0,115304662.0,ES,True,BETA,Júlio,male
-10.3390/nu13072471,Júlia Muñoz-Martínez,47.0,4210130874.0,ES,True,ResearchMar,Júlia,female
-10.1039/d3mh01935g,Jéssica Casandra Ramírez,3.0,123044942.0,ES,True,ICN2,Jéssica,unknown
-10.1002/adfm.202105767,Jérémie Maire,1.0,1294671590.0,FR,True,ICN2,Jérémie,male
-10.3390/nano11113089,Junda Zhang,1.0,4210093216.0,ES,True,ICN2,Junda,unknown
-10.1016/j.jcis.2022.04.170,Jun-Jie Zhu,1.0,4210093216.0,ES,True,ICN2,Jun-Jie,andy
-10.1093/ijnp/pyab051,Julián Andrés Mateus,2.0,4210156109.0,ES,True,ResearchMar,Julián,male
-10.1136/jnnp-2023-333295,Julio Pascual,53.0,13134134.0,ES,True,ResearchMar,Julio,male
-10.1002/hep.32237,Julieta Politi,1.0,4210121328.0,ES,True,ResearchMar,Julieta,female
-10.1002/advs.202104758,Juliana Jaramillo-Fernández,1.0,4210093216.0,ES,True,ICN2,Juliana,female
-10.1007/s40121-021-00416-8,Julian González-Martín,2.0,4210148332.0,ES,True,ISGlobal,Julian,male
-10.1016/j.scitotenv.2023.167713,Julia García‐Oteyza,1.0,4210129656.0,ES,True,CREAF,Julia,female
-10.1289/ehp9073,Julen Egiguren,1.0,170486558.0,ES,True,ISGlobal,Julen,male
-10.1186/s13054-022-03905-5,Judith Marín‐Corral,47.0,4210130874.0,ES,True,ResearchMar,Judith,female
-10.1007/s00134-023-07161-1,Judit Bigas,169.0,4210130874.0,ES,True,ResearchMar,Judit,female
-10.1080/09513590.2023.2242951,Juana-Antonia Flores-Le Roux,2.0,4210156109.0,ES,True,ResearchMar,Juana-Antonia,unknown
-10.3390/jcm10091937,Juana A. Flores‐Le Roux,2.0,4210156109.0,ES,True,ResearchMar,Juana,female
-10.1016/j.jval.2021.03.021,Juan Moróte,44.0,4210136145.0,ES,True,ResearchMar,Juan,male
-10.2337/dc20-2934,José-Miguel González-Clemente,1.0,2801357902.0,ES,True,ResearchMar,José-Miguel,unknown
-10.1136/ijgc-2024-005427,José-Antonio Pereira,4.0,170486558.0,ES,True,ResearchMar,José-Antonio,unknown
-10.1093/jac/dkab321,José Luís Blanco,34.0,,,True,ISGlobal,José,male
-10.1038/s41388-021-01879-2,Josune Alonso‐Marañón,1.0,4210158561.0,ES,True,ResearchMar,Josune,female
-10.3390/ijerph20085502,Josep‐Maria Solé‐Sedeño,1.0,170486558.0,ES,True,ResearchMar,Josep‐Maria,unknown
-10.1159/000513538,Josep M. Anto,39.0,4210148332.0,ES,True,ISGlobal,Josep,male
-10.1016/j.cej.2024.148674,Jose Bolaños-Cardet,1.0,4210093216.0,ES,True,ICN2,Jose,male
-10.1111/jpm.12831,Jorge D. Jiménez,1.0,4210133106.0,ES,True,ResearchMar,Jorge,male
-10.1249/mss.0000000000002578,Joren Buekers,1.0,4210148332.0,ES,True,ISGlobal,Joren,male
-10.1016/j.eimc.2021.03.016,Jordina Munrós,1.0,4210148332.0,ES,True,ISGlobal,Jordina,unknown
-10.1038/s41420-024-01857-z,Jordi Jiménez-Conde,40.0,4210156109.0,ES,True,ResearchMar,Jordi,male
-10.7554/elife.76344,Jolle W. Jolles,1.0,189712700.0,DE,True,CREAF,Jolle,male
-10.1680/jtran.19.00061,John E. Thornes,1.0,4210148332.0,ES,True,ISGlobal,John,male
-10.1111/1365-2745.13752,Jofre Carnicer,1.0,71999127.0,ES,True,CREAF,Jofre,unknown
-10.3390/coatings11060662,Joe Sakai,1.0,4210093216.0,ES,True,ICN2,Joe,male
-10.3390/cancers15041069,Joaquı́n Arribas,3.0,4210102407.0,ES,True,ResearchMar,Joaquı́n,unknown
-10.17843/rpmesp.2021.381.5750,Joaquı́m Ruiz,4.0,71999127.0,ES,True,ISGlobal,Joaquı́m,unknown
-10.1103/physrevlett.132.266301,Joaquín Medina Dueñas,1.0,4210093216.0,ES,True,ICN2,Joaquín,male
-10.1080/14787210.2021.1873130,Joaquím Gascón,2.0,4210148332.0,ES,True,ISGlobal,Joaquím,unknown
-10.1002/adfm.202404113,Joaquin Llacer‐Wintle,1.0,24943067.0,CN,True,ICN2,Joaquin,unknown
-10.1038/s41537-022-00309-w,Joaquim Raduà,41.0,4210090703.0,ES,True,ResearchMar,Joaquim,male
-10.1186/s40634-023-00656-2,Joan‐Carles Monllau,6.0,4210113109.0,ES,True,ResearchMar,Joan‐Carles,unknown
-10.5588/pha.21.0052,Joanna Ehrlich,1.0,4210148332.0,ES,True,ISGlobal,Joanna,female
-10.2340/actadv.v102.2417,Joana Vidal,2.0,,,True,ResearchMar,Joana,female
-10.1186/s13054-022-03905-5,Joan-Ramon Masclans,43.0,4210130874.0,ES,True,ResearchMar,Joan-Ramon,unknown
-10.2337/dc22-2521,Joan-Anton Vallés,10.0,4210153292.0,ES,True,ResearchMar,Joan-Anton,unknown
-10.1093/cid/ciad780,Joan Gómez‐Junyent,1039.0,,,True,ResearchMar,Joan,female
-10.1021/acsnano.4c05278,Jing Yu,1.0,4210128520.0,ES,True,ICN2,Jing,andy
-10.1016/j.mex.2024.102969,Jill Litt,11.0,4210154894.0,ES,True,CREAF,Jill,female
-10.1002/sstr.202100126,Jiemin Wang,1.0,4210093216.0,ES,True,ICN2,Jiemin,unknown
-10.1183/23120541.00105-2022,Jianhua Zha,2.0,4210133106.0,ES,True,ResearchMar,Jianhua,unknown
-10.1103/physrevb.105.224112,Jiahui Jia,1.0,4210093216.0,ES,True,ICN2,Jiahui,unknown
-10.1097/j.pain.0000000000003317,Jesús Pujol,60.0,4210130874.0,ES,True,ResearchMar,Jesús,mostly_male
-10.1136/jnis-2023-021103,Jesus Saldaña,2.0,4210119948.0,ES,True,ResearchMar,Jesus,mostly_male
-10.1186/s13054-024-04876-5,Jessica González,176.0,4210101691.0,ES,True,ResearchMar,Jessica,female
-10.1016/j.envint.2021.106700,Jeroen de Bont,1.0,4210154894.0,ES,True,ISGlobal,Jeroen,male
-10.3389/fcell.2020.621070,Jenniffer Linares,1.0,4210130874.0,ES,True,ResearchMar,Jenniffer,unknown
-10.1111/jvh.13412,Jeffrey V. Lazarus,37.0,4210148332.0,ES,True,ISGlobal,Jeffrey,male
-10.1016/j.cmi.2022.05.010,Javier Moreno,43.0,,,True,ResearchMar,Javier,mostly_male
-10.3390/land10020144,Jaume Terradas,72.0,123044942.0,ES,True,CREAF,Jaume,male
-10.1111/ina.12865,Jan‐Paul Zock,10.0,4210148332.0,ES,True,ISGlobal,Jan‐Paul,unknown
-10.3389/fimmu.2023.1282859,Janet Piñero,44.0,4210156109.0,ES,True,ResearchMar,Janet,female
-10.3389/fceng.2022.1084035,Jana Oliveras,1.0,4210093216.0,ES,True,ICN2,Jana,female
-10.1007/s42974-023-00148-4,Jamie Bookwalter,1.0,4210129656.0,ES,True,CREAF,Jamie,mostly_female
-10.1126/sciadv.adj1361,Jake D. Mehew,1.0,4210093216.0,ES,True,ICN2,Jake,male
-10.1136/ejhpharm-2020-002204,Jaime Barceló‐Vidal,1.0,4210130874.0,ES,True,ResearchMar,Jaime,male
-10.3389/fendo.2023.1076739,Jade Soldado-Folgado,1.0,4210130874.0,ES,True,ResearchMar,Jade,female
-10.1007/s00405-021-07127-3,Jacinto Garcı́a,2.0,4210130874.0,ES,True,ResearchMar,Jacinto,male
-10.1016/j.acuroe.2022.03.002,J.M. Abascal Junquera,1.0,4210130874.0,ES,True,ResearchMar,J.M.,unknown
-10.1016/j.gastrohep.2022.11.005,J.A. Carrión,1.0,170486558.0,ES,True,ResearchMar,J.A.,unknown
-10.1093/cid/ciac314,J. Morera,34.0,170486558.0,ES,True,ResearchMar,J.,unknown
-10.1016/j.semerg.2024.102274,J M Bellmunt,2.0,170486558.0,ES,True,ResearchMar,J,unknown
-10.1038/s43018-022-00339-4,Iván Pérez-Núñez,1.0,4210156109.0,ES,True,ResearchMar,Iván,male
-10.1007/s00428-021-03091-9,Ivonne Vázquez,1.0,123044942.0,ES,True,ResearchMar,Ivonne,female
-10.3390/rs15102570,Ivette Serral,3.0,4210129656.0,ES,True,CREAF,Ivette,female
-10.1001/jamanetworkopen.2022.50921,Iva Knezevic,176.0,,,True,ResearchMar,Iva,female
-10.1093/cid/ciac314,Itziar Arrieta‐Aldea,2.0,4210156109.0,ES,True,ResearchMar,Itziar,female
-10.1016/j.jpsychires.2022.02.009,Itxaso Alayo,36.0,4210154894.0,ES,True,ResearchMar,Itxaso,female
-10.1016/j.arr.2022.101814,Israel Contador,1.0,4210130874.0,ES,True,ResearchMar,Israel,male
-10.1371/journal.pcbi.1008936,Ismael Rodríguez‐Espigares,2.0,4210156109.0,ES,True,ResearchMar,Ismael,male
-10.1002/nop2.1777,Isidro Alcalá‐Jiménez,1.0,4210130874.0,ES,True,ResearchMar,Isidro,male
-10.1016/j.healthplace.2021.102698,Isabelle Anguelovski,1.0,123044942.0,ES,True,ResearchMar,Isabelle,female
-10.1016/j.chest.2020.11.013,Isabel Cirera Lorenzo,71.0,,,True,ResearchMar,Isabel,female
-10.1002/adfm.202409174,Isaac Alcón,1.0,4210093216.0,ES,True,ICN2,Isaac,male
-10.1371/journal.pone.0255226,Irène Jimeno,1.0,4210148332.0,ES,True,ISGlobal,Irène,female
-10.1016/j.watres.2023.119568,Iro Evlampidou,2.0,4210148332.0,ES,True,ResearchMar,Iro,female
-10.1098/rsos.230063,Irina V. Lebedeva,1.0,4210093216.0,ES,True,ICN2,Irina,female
-10.1136/lupus-2023-001096,Irene Carrión-Barberá,35.0,4210130874.0,ES,True,ResearchMar,Irene,female
-10.1002/smll.202207799,Irena Spasojević,1.0,4210093216.0,ES,True,ICN2,Irena,female
-10.3390/membranes13040450,Ipan Hidayat,1.0,115304662.0,ES,True,BETA,Ipan,unknown
-10.2105/ajph.2021.306260,Ione Ávila-Palència,2.0,4210148332.0,ES,True,ISGlobal,Ione,female
-10.3390/rs15082207,Iolanda Filella,1.0,4210129656.0,ES,True,CREAF,Iolanda,female
-10.1016/j.envint.2021.106662,Ioar Rivas,1.0,4210148332.0,ES,True,ISGlobal,Ioar,unknown
-10.1002/cmdc.202000740,Inés Bouzón‐Arnáiz,4.0,4210148332.0,ES,True,ISGlobal,Inés,female
-10.1093/cid/ciad780,Inmaculada López-Montesinos,1038.0,,,True,ResearchMar,Inmaculada,female
-10.1002/sstr.202100126,Inhar Imaz,2.0,4210093216.0,ES,True,ICN2,Inhar,unknown
-10.3390/su132313414,Indu Sharma,1.0,865915315.0,NL,True,ISGlobal,Indu,female
-10.4155/bio-2023-0118,Indira Anselmo,2.0,4210136145.0,ES,True,ResearchMar,Indira,female
-10.3389/fnbeh.2021.772734,Ilario De Toma,2.0,4210130874.0,ES,True,ResearchMar,Ilario,male
-10.1016/j.ijbiomac.2023.127253,Ikhlas Laasri,1.0,115304662.0,ES,True,BETA,Ikhlas,unknown
-10.21037/jss-23-147,Igor Radalov,1.0,4210130874.0,ES,True,ResearchMar,Igor,male
-10.1007/s11605-022-05322-z,Ignasi Poves,4.0,,,True,ResearchMar,Ignasi,male
-10.3390/jcm11071910,Ignacio Cabrera-Aguilera,1.0,4210130874.0,ES,True,ResearchMar,Ignacio,male
-10.12961/aprl.2021.24.03.03,Ignacia Chercoles López,1.0,4210133106.0,ES,True,ResearchMar,Ignacia,female
-10.1002/ece3.7734,Ifigenia Urbina,1.0,4210129656.0,ES,True,CREAF,Ifigenia,female
-10.1016/j.brachy.2021.05.164,I. Membrive,1.0,4210133106.0,ES,True,ResearchMar,I.,unknown
-10.25270/jic/23.00272,Héctor Cubero-Gallego,1.0,170486558.0,ES,True,ResearchMar,Héctor,male
-10.1080/09513590.2023.2242951,Humberto Navarro-Martinez,1.0,4210130874.0,ES,True,ResearchMar,Humberto,male
-10.1016/j.scitotenv.2024.171310,Huijun Ye,1.0,4210129656.0,ES,True,CREAF,Huijun,unknown
-10.1016/j.ufug.2022.127818,Hua‐Feng Wang,5.0,20942203.0,CN,True,CREAF,Hua‐Feng,unknown
-10.1016/j.surg.2020.10.002,Higinio Cao,2.0,4210130874.0,ES,True,ResearchMar,Higinio,male
-10.1016/j.envpol.2021.117220,Hicham Achebak,1.0,4210121658.0,ES,True,ISGlobal,Hicham,male
-10.37201/req/004.2022,Hernando Knobel,3.0,4210130874.0,ES,True,ResearchMar,Hernando,male
-10.3389/fnut.2022.1098269,Helmut Schröder,45.0,4210154894.0,ES,True,ResearchMar,Helmut,male
-10.1093/jac/dkab321,Helena Martí-Soler,56.0,4210115097.0,ES,True,ISGlobal,Helena,female
-10.1016/j.socscimed.2021.113907,Helen Cole,1.0,4210130874.0,ES,True,ResearchMar,Helen,female
-10.1186/s13063-021-05236-2,Hansel Mundaca,2.0,4210148332.0,ES,True,ISGlobal,Hansel,unknown
-10.1016/j.annepidem.2020.08.063,Haneen Khreis,1.0,4210148332.0,ES,True,ISGlobal,Haneen,unknown
-10.1088/2515-7639/acc893,Haibing Xie,40.0,180726961.0,CN,True,ICN2,Haibing,unknown
-10.1111/jon.12849,Gérardo Conesa,7.0,4210156109.0,ES,True,ResearchMar,Gérardo,unknown
-10.26508/lsa.202201692,Gustavo Deza,3.0,4210133106.0,ES,True,ResearchMar,Gustavo,male
-10.1103/physrevb.107.l140102,Gustau Catalán,2.0,123044942.0,ES,True,ICN2,Gustau,male
-10.1038/s41586-023-05772-8,Guillermo Sequera,1295.0,4210138422.0,PY,True,ResearchMar,Guillermo,male
-10.15252/embr.202254895,Guillem Fuertes,1.0,123044942.0,ES,True,ResearchMar,Guillem,male
-10.1126/science.abo3856,Guille Peguero,73.0,123044942.0,ES,True,CREAF,Guille,unknown
-10.1007/s10865-021-00254-6,Guillaume Chevance,1.0,4210148332.0,ES,True,ISGlobal,Guillaume,male
-10.1063/5.0170883,Guilhem Madiot,1.0,4210093216.0,ES,True,ICN2,Guilhem,male
-10.1039/d3mh01935g,Gubakhanim Shahnazarova,1.0,4210093216.0,ES,True,ICN2,Gubakhanim,unknown
-10.3389/fmed.2022.931867,Guadalupe Aguilar,5.0,4210130874.0,ES,True,ResearchMar,Guadalupe,female
-10.1186/s13195-021-00781-z,Grégory Operto,35.0,,,True,ResearchMar,Grégory,male
-10.1016/j.arbres.2020.07.028,Griselda Tudó,4.0,4210115097.0,ES,True,ISGlobal,Griselda,female
-10.1016/j.nrleng.2021.05.013,Greta García‐Escobar,1.0,4210130874.0,ES,True,ResearchMar,Greta,female
-10.1038/s41380-022-01436-7,Gonzalo Sánchez‐Benavides,38.0,4210107429.0,ES,True,ResearchMar,Gonzalo,male
-10.1007/s12325-023-02538-6,Glòria Villalba,5.0,4210130874.0,ES,True,ResearchMar,Glòria,unknown
-10.1002/erv.2895,Gloria Villalba‐Martínez,2.0,4210130874.0,ES,True,ResearchMar,Gloria,female
-10.1016/j.bios.2021.113737,Giulio Rosati,1.0,4210093216.0,ES,True,ICN2,Giulio,male
-10.1136/ard-2023-224460,Giuliana Magri,44.0,4210156109.0,ES,True,ResearchMar,Giuliana,female
-10.1016/j.pmedr.2020.101305,Giselle O’Connor,1.0,4210136145.0,ES,True,ISGlobal,Giselle,female
-10.1039/d2sd00082b,Gisela Ruiz‐Vega,1.0,4210105141.0,ES,True,ICN2,Gisela,female
-10.1016/j.remn.2021.05.005,Gina Parini,2.0,4210130874.0,ES,True,ResearchMar,Gina,female
-10.1039/d1ra00885d,Gil Jumbert,1.0,4210093216.0,ES,True,ICN2,Gil,male
-10.1016/j.ciresp.2020.10.007,Germán Mateu,2.0,4210130874.0,ES,True,ResearchMar,Germán,male
-10.1007/s11701-024-02162-8,Gerbrich E. van den Bosch,3.0,170486558.0,ES,True,ResearchMar,Gerbrich,female
-10.1093/ije/dyae063,Gerard Martínez‐Vilavella,49.0,,,True,ResearchMar,Gerard,male
-10.1016/j.nrl.2021.02.010,Georgina Figueras-Aguirre,2.0,4210130874.0,ES,True,ResearchMar,Georgina,female
-10.1093/jac/dkab321,Genoveva Cuesta,110.0,4210148332.0,ES,True,ISGlobal,Genoveva,female
-10.1186/s13195-022-01101-9,Gemma Salvadó,46.0,,,True,ResearchMar,Gemma,female
-10.1093/stcltm/szac071,Gayathri M Kartha,3.0,4210156109.0,ES,True,ResearchMar,Gayathri,unknown
-10.3390/genes13101686,Gardenia Vargas‐Parra,2.0,4210156109.0,ES,True,ResearchMar,Gardenia,unknown
-10.34133/2022/9764982,Gaofei Yin,1.0,4210129656.0,ES,True,CREAF,Gaofei,unknown
-10.1016/j.socscimed.2021.113907,Galia Shokry,6.0,4210130874.0,ES,True,ResearchMar,Galia,female
-10.1016/j.numecd.2021.02.007,Gala Freixer,45.0,2801724371.0,ES,True,ResearchMar,Gala,female
-10.1021/acsaelm.4c01533,Gabriele De Luca,4.0,4210093216.0,ES,True,ICN2,Gabriele,female
-10.1007/s00127-021-02151-4,Gabriela Barbaglia,59.0,,,True,ResearchMar,Gabriela,female
-10.1016/j.jnc.2024.126633,Gabriel Miret‐Minard,1.0,4210129656.0,ES,True,CREAF,Gabriel,male
-10.1039/d3cp03689h,G. Barucca,3.0,4210093216.0,ES,True,ICN2,G.,unknown
-10.1182/blood.2024023840,Félix López,13.0,4210130874.0,ES,True,ResearchMar,Félix,male
-10.1016/j.lanepe.2023.100701,Frederic Bartumeus,85.0,4210129656.0,ES,True,CREAF,Frederic,male
-10.1016/j.jpsychires.2022.02.009,Franco Amigo,40.0,4210156109.0,ES,True,ResearchMar,Franco,male
-10.3390/land10020144,Francisco Lloret,39.0,123044942.0,ES,True,CREAF,Francisco,male
-10.1016/j.jamda.2021.01.077,Francisca Sánchez-Martinez,2.0,4210130874.0,ES,True,ResearchMar,Francisca,female
-10.1016/j.drugalcdep.2023.109822,Francina Fonseca,38.0,4210164724.0,ES,True,ResearchMar,Francina,unknown
-10.1007/s00586-023-07870-7,Francesco Gualdi,1.0,4210156109.0,ES,True,ResearchMar,Francesco,male
-10.1016/j.arbres.2021.02.003,Francesca Sánchez,1.0,4210130874.0,ES,True,ResearchMar,Francesca,female
-10.1016/j.envint.2021.107069,Francesc Badia,52.0,4210151625.0,IT,True,ResearchMar,Francesc,male
-10.3390/ijerph18158221,Florence Gignac,1.0,4210154894.0,ES,True,ISGlobal,Florence,female
-10.1039/d2nr07157f,Flavio Della Pelle,1.0,4210093216.0,ES,True,ICN2,Flavio,male
-10.1021/acsami.3c09428,Filippos Perdikos,3.0,4210093216.0,ES,True,ICN2,Filippos,male
-10.1039/d4nh00282b,Fikret Taygun Duvan,1.0,4210093216.0,ES,True,ICN2,Fikret,male
-10.12688/f1000research.74502.2,Ferrán Sanz,45.0,4210156109.0,ES,True,ResearchMar,Ferrán,unknown
-10.1111/1346-8138.15662,Ferran Olmos‐Alpiste,1.0,4210133106.0,ES,True,ResearchMar,Ferran,male
-10.3390/cancers16091676,Fernando Burdío-Pinilla,35.0,4210130874.0,ES,True,ResearchMar,Fernando,male
-10.1016/j.jclepro.2024.142546,Felipe S. Campos,2.0,4210129656.0,ES,True,CREAF,Felipe,male
-10.1111/dmcn.15517,Federica Turrisi,3.0,4210130874.0,ES,True,ResearchMar,Federica,female
-10.17235/reed.2022.8409/2021,Faust Riu,3.0,4210130874.0,ES,True,ResearchMar,Faust,unknown
-10.1016/j.foreco.2024.121989,Faqrul Islam Chowdhury,1.0,123044942.0,ES,True,CREAF,Faqrul,unknown
-10.1088/2515-7639/acc893,Fanny Baumann,36.0,4210093216.0,ES,True,ICN2,Fanny,female
-10.1186/s13075-022-02942-3,Fabiola Ojeda,4.0,4210130874.0,ES,True,ResearchMar,Fabiola,female
-10.1039/d0ra09687c,Fabiana Nador,1.0,4210125789.0,AR,True,ICN2,Fabiana,female
-10.1016/j.drugalcdep.2023.109822,F. Dinamarca,41.0,4210164724.0,ES,True,ResearchMar,F.,unknown
-10.1039/d3na00862b,F Morabito,1.0,4210093216.0,ES,True,ICN2,F,unknown
-10.26508/lsa.202201692,Evelyn Andrades,1.0,4210130874.0,ES,True,ResearchMar,Evelyn,female
-10.1080/14735903.2024.2361578,Evan A.N. Marks,2.0,111262870.0,ES,True,BETA,Evan,male
-10.1007/s41999-024-01106-7,Eva-Maria Amor Fernandez,4.0,4210130874.0,ES,True,ResearchMar,Eva-Maria,unknown
-10.1016/j.eclinm.2023.102307,Eva Gimeno,36.0,4210134249.0,GR,True,ResearchMar,Eva,female
-10.1016/j.nefroe.2022.09.005,Eulàlia Solà-Porta,1.0,4210130874.0,ES,True,ResearchMar,Eulàlia,unknown
-10.26508/lsa.202201479,Eugènia Abella,1.0,170486558.0,ES,True,ResearchMar,Eugènia,unknown
-10.2337/dc20-2934,Eugenia Berlanga,5.0,4210137168.0,ES,True,ResearchMar,Eugenia,female
-10.1093/jtm/taab100,Ethel Sequeira‐Aymar,1.0,4210095887.0,ES,True,ISGlobal,Ethel,female
-10.1007/s00406-022-01438-0,Esther Pousa,79.0,2801795740.0,ES,True,ResearchMar,Esther,female
-10.1093/ckj/sfac159,Ester Marco,36.0,4210133106.0,ES,True,ResearchMar,Ester,female
-10.1186/s13017-024-00543-w,Estela Membrilla-Fernández,418.0,4210130874.0,ES,True,ResearchMar,Estela,female
-10.2196/31565,Estanislao Mur-Milà,4.0,4210156109.0,ES,True,ResearchMar,Estanislao,unknown
-10.1016/j.medcli.2022.03.005,Esperanza Cañas‐Ruano,1.0,4210130874.0,ES,True,ResearchMar,Esperanza,female
-10.1093/ckj/sfac159,Ernestina Junyent,8.0,4210130874.0,ES,True,ResearchMar,Ernestina,female
-10.3390/chemosensors9070162,Ernane de Freitas Martins,1.0,4210093216.0,ES,True,ICN2,Ernane,unknown
-10.1016/j.jjcc.2021.10.012,Ermengol Vallés,1.0,4210156109.0,ES,True,ResearchMar,Ermengol,unknown
-10.3390/cells10112928,Erika López‐Arribillaga,1.0,4210158561.0,ES,True,ResearchMar,Erika,female
-10.1186/s42408-023-00237-9,Erik de Boer,39.0,4210129656.0,ES,True,CREAF,Erik,male
-10.1093/ije/dyab115,Eric J. Duell,51.0,4210087039.0,ES,True,ResearchMar,Eric,male
-10.1038/s41597-023-02784-x,Enrique Doblas‐Miranda,35.0,123044942.0,ES,True,CREAF,Enrique,male
-10.1016/j.bios.2024.116315,Enric Calucho,1.0,123044942.0,ES,True,ICN2,Enric,male
-10.1093/cid/ciab789,Emílio Letang,1.0,4210130874.0,ES,True,ISGlobal,Emílio,male
-10.1038/s43587-021-00139-y,Emre Güney,1.0,4210156109.0,ES,True,ResearchMar,Emre,male
-10.1016/j.reumae.2023.07.003,Emma Beltrán Catalán,1.0,4210130874.0,ES,True,ResearchMar,Emma,female
-10.1111/ijd.15515,Emilio López-Trujillo,1.0,4210133106.0,ES,True,ResearchMar,Emilio,male
-10.1002/smll.202207949,Emilia Renzi,1.0,4210093216.0,ES,True,ICN2,Emilia,female
-10.1186/s13054-024-04876-5,Emili Dı́az,141.0,4210099160.0,ES,True,ResearchMar,Emili,female
-10.3390/foods11091304,Emigdio Chávez‐Ángel,1.0,4210093216.0,ES,True,ICN2,Emigdio,unknown
-10.1136/jnis-2023-021103,Elío Vivas,3.0,4210119948.0,ES,True,ResearchMar,Elío,unknown
-10.3390/nano11123365,Elzbieta Pach,2.0,4210093216.0,ES,True,ICN2,Elzbieta,unknown
-10.1016/j.msard.2024.105634,Elvira Munteis,1.0,4210130874.0,ES,True,ResearchMar,Elvira,female
-10.1186/s13058-023-01736-y,Elsa Tusquets-Uxó,2.0,4210130874.0,ES,True,ResearchMar,Elsa,female
-10.1089/hs.2020.0209,Ellen P. Carlin,1.0,4210148332.0,ES,True,ISGlobal,Ellen,female
-10.1016/j.socscimed.2022.115634,Ella O’Neill,1.0,4210156109.0,ES,True,ResearchMar,Ella,female
-10.1186/s12877-022-02811-3,Elizabeth da Costa,7.0,4210130874.0,ES,True,ResearchMar,Elizabeth,female
-10.1007/s10557-020-07137-z,Elisenda Climent,1.0,4210130874.0,ES,True,ResearchMar,Elisenda,female
-10.1016/j.jmoldx.2022.02.003,Elisabeth Gabau,54.0,,,True,ResearchMar,Elisabeth,female
-10.1038/s41564-021-00940-w,Elisabet Tintó-Font,1.0,71999127.0,ES,True,ISGlobal,Elisabet,female
-10.1038/s41588-021-00936-6,Elisa Rubio,167.0,4210148332.0,ES,True,ISGlobal,Elisa,female
-10.1002/ana.26881,Eleni Palpatzis,1.0,4210148332.0,ES,True,ResearchMar,Eleni,female
-10.1093/cid/ciad780,Elena Sendra,1036.0,,,True,ResearchMar,Elena,female
-10.1093/ajcn/nqab016,Eider M. Arenaza‐Urquijo,2.0,4210156109.0,ES,True,ResearchMar,Eider,female
-10.1007/s00268-021-06051-1,Edurne Lecumberri,1.0,4210130874.0,ES,True,ResearchMar,Edurne,female
-10.1016/j.nefro.2020.12.016,Eduardo Mateos Torres,1.0,4210156109.0,ES,True,ResearchMar,Eduardo,male
-10.1088/1741-2552/abecf3,Eduard Masvidal‐Codina,1.0,4210105141.0,ES,True,ICN2,Eduard,male
-10.1002/mp.15120,E. Fernández-Velilla,1.0,4210156109.0,ES,True,ResearchMar,E.,unknown
-10.1136/ejhpharm-2021-002963,E González-Colominas,1.0,4210133106.0,ES,True,ResearchMar,E,unknown
-10.1089/brain.2020.0844,Dídac Macià,3.0,4210130874.0,ES,True,ResearchMar,Dídac,male
-10.3389/fmed.2022.988080,Dàlia Raϊch‐Regué,1.0,4210130874.0,ES,True,ResearchMar,Dàlia,unknown
-10.1016/j.jaip.2023.09.002,Dulce Soto,4.0,123044942.0,ES,True,ResearchMar,Dulce,female
-10.1038/s41391-022-00532-7,Dora Romaguera,35.0,4210148332.0,ES,True,ResearchMar,Dora,female
-10.1021/jacs.4c09077,Dongsik Nam,1.0,123044942.0,ES,True,ICN2,Dongsik,unknown
-10.1016/j.nedt.2022.105653,Dolors Giró‐Formatger,3.0,4210133106.0,ES,True,ResearchMar,Dolors,female
-10.3389/fnut.2022.897089,Dolores Zomeño,40.0,4210115082.0,ES,True,ResearchMar,Dolores,female
-10.1038/s41598-021-85945-5,Dilson Juan,1.0,4210093216.0,ES,True,ICN2,Dilson,unknown
-10.1016/j.bas.2023.102682,Diego A. Rodríguez,1.0,4210130874.0,ES,True,ResearchMar,Diego,male
-10.1186/s12890-022-02134-4,Diana Badenes‐Bonet,1.0,4210130874.0,ES,True,ResearchMar,Diana,female
-10.1016/j.rpsm.2019.12.002,Devi Treen,3.0,4210130874.0,ES,True,ResearchMar,Devi,female
-10.1002/joc.6744,Desislava Petrova,1.0,4210148332.0,ES,True,ISGlobal,Desislava,female
-10.1038/s41467-021-24673-w,Denise Naniche,34.0,4210148332.0,ES,True,ISGlobal,Denise,female
-10.1186/s12877-022-02811-3,Delky Meza-Valderrama,1.0,4210130874.0,ES,True,ResearchMar,Delky,unknown
-10.3390/antibiotics10050585,Dawid Rozenkiewicz,1.0,4210156109.0,ES,True,ResearchMar,Dawid,male
-10.1186/s12916-021-01994-7,Davide Rasella,1.0,4210148332.0,ES,True,ISGlobal,Davide,male
-10.1016/j.jaci.2023.07.019,David Pesqué,82.0,170486558.0,ES,True,ResearchMar,David,male
-10.1016/j.bios.2024.116142,Danilo Echeverri,1.0,35961687.0,CO,True,ICN2,Danilo,male
-10.1016/j.drugpo.2021.103320,Danielle Guy,2.0,71999127.0,ES,True,ISGlobal,Danielle,female
-10.1007/s00330-022-08834-z,Daniela Perez-Leon,1.0,4210156109.0,ES,True,ResearchMar,Daniela,female
-10.1186/s13063-023-07537-0,Daniel Guinart,44.0,,,True,ResearchMar,Daniel,male
-10.3390/ani12233236,Dani Villero,1.0,4210117018.0,ES,True,CREAF,Dani,male
-10.1038/s41565-023-01570-5,Damià Viana,1.0,4210093216.0,ES,True,ICN2,Damià,unknown
-10.3390/molecules26040973,Damaris Navio,5.0,4210156109.0,ES,True,ResearchMar,Damaris,female
-10.1016/j.foreco.2021.119970,Daijun Liu,1.0,4210129656.0,ES,True,CREAF,Daijun,unknown
-10.1007/s11367-023-02168-8,D. Egas,1.0,115304662.0,ES,True,BETA,D.,unknown
-10.1016/j.eururo.2023.04.020,Cònsol Serra,50.0,,,True,ResearchMar,Cònsol,unknown
-10.1021/jacs.3c00173,César Moreno,1.0,13134134.0,ES,True,ICN2,César,male
-10.1021/acs.est.1c01452,Cyntia B. Manzano-Salgado,4.0,4210148332.0,ES,True,ISGlobal,Cyntia,female
-10.1016/j.jpsychires.2022.02.009,Cristina Rius,126.0,4210121328.0,ES,True,ResearchMar,Cristina,female
-10.1093/gbe/evae126,Covadonga Vara,1.0,4210130874.0,ES,True,ResearchMar,Covadonga,unknown
-10.1371/journal.pntd.0009831,Cornelius Benecke,2.0,4210148332.0,ES,True,ISGlobal,Cornelius,male
-10.1021/jacs.4c00407,Cornelia von Baeckmann,1.0,4210093216.0,ES,True,ICN2,Cornelia,female
-10.3390/ijms24032580,Coral Ampurdanés,4.0,4210136145.0,ES,True,ResearchMar,Coral,female
-10.1007/s10980-021-01347-y,Constantí Stefanescu,2.0,4210111059.0,ES,True,CREAF,Constantí,unknown
-10.12961/aprl.2022.25.04.01,Consol Serra Pujadas,1.0,170486558.0,ES,True,ResearchMar,Consol,unknown
-10.1182/bloodadvances.2021005316,Concepción Fernández‐Rodríguez,1.0,4210130874.0,ES,True,ResearchMar,Concepción,mostly_female
-10.3390/pathogens10080917,Cláudia Gomes,1.0,4210148332.0,ES,True,ISGlobal,Cláudia,female
-10.1016/j.ijchp.2022.100303,Clàudia Prats,2.0,4210156109.0,ES,True,ResearchMar,Clàudia,unknown
-10.3390/bs14020097,Clos Enríquez Montserrat,20.0,4210156109.0,ES,True,ResearchMar,Clos,unknown
-10.1016/j.cmi.2020.07.006,Climent Casals‐Pascual,2.0,4210148332.0,ES,True,ISGlobal,Climent,unknown
-10.1016/j.trechm.2022.03.005,Claudio Parolo,2.0,4210148332.0,ES,True,ICN2,Claudio,male
-10.12961/aprl.2022.25.03.07,Claudia Palma-Vásquez,1.0,170486558.0,ES,True,ResearchMar,Claudia,female
-10.3389/fmed.2020.607786,Clara Barrios,50.0,4210156109.0,ES,True,ResearchMar,Clara,female
-10.4269/ajtmh.19-0783,Cinta Moraleda,1.0,4210148332.0,ES,True,ISGlobal,Cinta,female
-10.1186/s13063-021-05621-x,Chukwuemeka Onwuchekwa,3.0,4210148332.0,ES,True,ISGlobal,Chukwuemeka,unknown
-10.1007/s00420-024-02057-z,Christophe Vanroelen,1.0,13469542.0,BE,True,ResearchMar,Christophe,male
-10.1063/5.0059930,Christina Stefani,1.0,4210093216.0,ES,True,ICN2,Christina,female
-10.1002/adom.202102423,Christian Bellacanzone,1.0,4210093216.0,ES,True,ICN2,Christian,male
-10.1016/j.tig.2023.02.001,Chris Papadopoulos,1.0,4210130874.0,ES,True,ResearchMar,Chris,mostly_male
-10.1039/d1ta10296f,Chloé Wulles,2.0,1294671590.0,FR,True,ICN2,Chloé,female
-10.1016/j.envint.2021.107069,Chelsea E. Langer,48.0,4210148332.0,ES,True,ResearchMar,Chelsea,female
-10.3390/cells10092436,Charlotte Denhard,2.0,2801357902.0,ES,True,ResearchMar,Charlotte,female
-10.1016/j.envint.2020.106174,Charline Warembourg,1.0,4210148332.0,ES,True,ISGlobal,Charline,female
-10.3390/cells13161351,Cesar Jessé Enríquez-Rodríguez,1.0,4210099160.0,ES,True,ResearchMar,Cesar,male
-10.1002/adma.202006104,Celia Fuentes‐Chust,1.0,4210093216.0,ES,True,ICN2,Celia,female
-10.1016/j.envpol.2024.125129,Celeste Azpiazu,1.0,88060688.0,ES,True,CREAF,Celeste,female
-10.1016/j.envint.2021.106614,Cecília Persavento,3.0,170486558.0,ES,True,ISGlobal,Cecília,female
-10.1016/j.envres.2020.110482,Cathryn Tonne,1.0,4210154894.0,ES,True,ISGlobal,Cathryn,female
-10.1016/j.soilbio.2021.108453,Catherine Preece,1.0,4210129656.0,ES,True,CREAF,Catherine,female
-10.1002/chem.202301945,Caterina Caules,6.0,4210093216.0,ES,True,ICN2,Caterina,female
-10.3390/ijerph19052591,Catalina Lizano-Barrantes,1.0,170486558.0,ES,True,ResearchMar,Catalina,female
-10.1016/j.ijheh.2021.113772,Carolyn Daher,2.0,170486558.0,ES,True,ISGlobal,Carolyn,female
-10.3390/jpm12091410,Carolina Soriano‐Tárraga,44.0,4210156109.0,ES,True,ResearchMar,Carolina,female
-10.1007/s11060-024-04668-5,Carmen Balañá,37.0,4210107147.0,ES,True,ResearchMar,Carmen,female
-10.1093/jac/dkab321,Carme Subirá,61.0,4210115097.0,ES,True,ISGlobal,Carme,female
-10.1093/bjsopen/zrae080,Carlota Hidalgo López,56.0,,,True,ResearchMar,Carlota,female
-10.1186/s12957-021-02356-6,Carlos Placer,43.0,4210116848.0,ES,True,ResearchMar,Carlos,male
-10.1016/j.recot.2020.10.003,Carlo Gamba,2.0,4210133106.0,ES,True,ResearchMar,Carlo,male
-10.1186/s12957-021-02356-6,Carles Pericay,59.0,4210115082.0,ES,True,ResearchMar,Carles,male
-10.1002/glia.24171,Carla Ramon‐Duaso,1.0,4210130874.0,ES,True,ResearchMar,Carla,female
-10.1039/d4ta03068k,Camilo A. Mesa,2.0,4210093216.0,ES,True,ICN2,Camilo,male
-10.1002/ijc.34577,Camille Lassale,36.0,2801724371.0,ES,True,ResearchMar,Camille,mostly_female
-10.1038/s41598-021-96350-3,Camila A. Picchio,1.0,71999127.0,ES,True,ISGlobal,Camila,female
-10.1016/j.jval.2021.03.021,C. Ferrer,36.0,4210154894.0,ES,True,ResearchMar,C.,unknown
-10.1016/j.recesp.2022.09.016,C Gonzalez Matos,4.0,4210130874.0,ES,True,ResearchMar,C,unknown
-10.1016/j.rio.2022.100285,Bárbara D. Lisboa,2.0,4210105141.0,ES,True,ICN2,Bárbara,female
-10.1016/j.jinf.2021.04.009,Bàrbara Baró,1.0,4210148332.0,ES,True,ISGlobal,Bàrbara,unknown
-10.1016/j.phrs.2024.107536,Busquets Garcia Arnau,9.0,4210130874.0,ES,True,ResearchMar,Busquets,unknown
-10.1186/s13063-023-07537-0,Bridget Hogg,40.0,,,True,ResearchMar,Bridget,female
-10.1016/j.ejmech.2024.116616,Brian Medel-Lacruz,3.0,4210156109.0,ES,True,ResearchMar,Brian,male
-10.1038/s41375-020-0917-7,Brayan Merchán,34.0,4210127641.0,ES,True,ResearchMar,Brayan,male
-10.1039/d3sc04406h,Borja Ortín‐Rubio,1.0,123044942.0,ES,True,ICN2,Borja,male
-10.1103/physrevb.105.064107,Bogdan Guster,1.0,4210130123.0,BE,True,ICN2,Bogdan,male
-10.1093/cercor/bhac239,Blanca Rodríguez‐Fernández,35.0,,,True,ResearchMar,Blanca,female
-10.1136/ijgc-2024-005427,Berta Fabregó,1.0,4210130874.0,ES,True,ResearchMar,Berta,female
-10.1093/nargab/lqab027,Bernat Anton,1.0,170486558.0,ES,True,ResearchMar,Bernat,unknown
-10.1016/j.jpsychires.2022.02.009,Benedikt L. Amann,39.0,,,True,ResearchMar,Benedikt,male
-10.1016/j.pan.2022.07.007,Benedetto Ielpo,49.0,4210130874.0,ES,True,ResearchMar,Benedetto,male
-10.1093/bjs/znab247,Ben Creavin,108.0,,,True,ResearchMar,Ben,male
-10.1016/j.ultsonch.2020.105425,Belén Pepió,1.0,4210093216.0,ES,True,ICN2,Belén,female
-10.1016/j.rec.2021.12.001,Begoña Benito,1.0,4210102407.0,ES,True,ResearchMar,Begoña,female
-10.1038/s41375-020-01107-y,Beatríz Bellosillo,44.0,4210130874.0,ES,True,ResearchMar,Beatríz,unknown
-10.1093/hmg/ddaa257,Beatriz Calvo-Serra,1.0,4210154894.0,ES,True,ISGlobal,Beatriz,female
-10.1016/j.electacta.2021.138657,Batoul Hosseinzadeh,1.0,4210093216.0,ES,True,ICN2,Batoul,female
-10.5271/sjweh.3991,Barbara N. Harding,1.0,4210148332.0,ES,True,ResearchMar,Barbara,female
-10.1186/s12936-021-03687-1,Baltazar Candrinho,4.0,4210135400.0,MZ,True,ISGlobal,Baltazar,male
-10.1093/nar/gkae950,Baldomero Oliva,2.0,170486558.0,ES,True,ResearchMar,Baldomero,male
-10.1007/978-1-0716-3350-2_18,Baldo Oliva,2.0,170486558.0,ES,True,ResearchMar,Baldo,male
-10.1016/j.jamda.2020.09.032,B. De,84.0,4210133106.0,ES,True,ResearchMar,B.,unknown
-10.1016/j.rec.2023.03.019,B Vaquerizo-Montilla,18.0,4210130874.0,ES,True,ResearchMar,B,unknown
-10.1016/j.cmi.2024.07.002,Aída Ramirez,4.0,4210130874.0,ES,True,ResearchMar,Aída,unknown
-10.3389/fpubh.2021.583667,Azucena Bardají,2.0,4210148332.0,ES,True,ISGlobal,Azucena,female
-10.3390/nano13060992,Aziz Genç,1.0,123044942.0,ES,True,ICN2,Aziz,male
-10.1111/tan.14231,Aura Muntasell,2.0,4210156109.0,ES,True,ResearchMar,Aura,female
-10.1016/j.ajem.2021.08.046,August Supervía,1.0,4210130874.0,ES,True,ResearchMar,August,male
-10.1016/j.envint.2020.106170,Asya Dimitrova,1.0,2801864671.0,ES,True,ISGlobal,Asya,female
-10.1016/j.gaceta.2021.08.002,Astrid Escrig-Piñol,3.0,170486558.0,ES,True,ResearchMar,Astrid,female
-10.1002/aenm.202301959,Ashitha Paingott Parambil,2.0,4210093216.0,ES,True,ICN2,Ashitha,unknown
-10.1016/j.mex.2024.102969,Ashby Lavelle Sachs,1.0,4210121328.0,ES,True,CREAF,Ashby,unknown
-10.1080/09581596.2019.1682124,Arsenii Alenichev,1.0,887064364.0,NL,True,ISGlobal,Arsenii,unknown
-10.1016/j.jconrel.2021.01.028,Arnau Biosca,1.0,4210148332.0,ES,True,ISGlobal,Arnau,unknown
-10.3897/bdj.10.e81282,Arnald Marcer,1.0,4210129656.0,ES,True,CREAF,Arnald,unknown
-10.1088/2053-1583/ac3378,Armando Pezo,1.0,4210093216.0,ES,True,ICN2,Armando,male
-10.1021/acsnano.2c05733,Aritz Lafuente,2.0,123044942.0,ES,True,ICN2,Aritz,unknown
-10.3390/ma16041413,Arindom Chatterjee,1.0,123044942.0,ES,True,ICN2,Arindom,unknown
-10.1093/ije/dyae063,Ariadna Pinar Martí,51.0,4210148332.0,ES,True,ResearchMar,Ariadna,female
-10.1016/j.redare.2022.07.005,Areli Montes-Pérez,3.0,4210130874.0,ES,True,ResearchMar,Areli,unknown
-10.1039/d4nh00226a,Arben Merkoçi,34.0,4210093216.0,ES,True,ICN2,Arben,male
-10.1186/s13054-022-03905-5,Arantxa Mas,48.0,4210130874.0,ES,True,ResearchMar,Arantxa,female
-10.3390/ijerph182413306,Apolline Saucy,4.0,4210148332.0,ES,True,ISGlobal,Apolline,female
-10.1039/d3se00955f,Anukriti Pokhriyal,1.0,4210093216.0,ES,True,ICN2,Anukriti,unknown
-10.1016/j.arth.2021.02.005,Antônio Montes,3.0,4210136145.0,ES,True,ResearchMar,Antônio,unknown
-10.1093/ije/dyae063,Antònia Valentín,59.0,,,True,ResearchMar,Antònia,unknown
-10.1111/ene.15312,Antía Moreira,1.0,4210117512.0,ES,True,ResearchMar,Antía,unknown
-10.3390/molecules26164904,Antonio Penedo-Vázquez,1.0,170486558.0,ES,True,ResearchMar,Antonio,male
-10.1093/infdis/jiaa696,Antoni Trilla,35.0,71999127.0,ES,True,ISGlobal,Antoni,male
-10.1016/j.foreco.2022.120379,Anselm Rodrigo,3.0,4210129656.0,ES,True,CREAF,Anselm,male
-10.1002/ijgo.13685,Anne‐Elie Carsin,2.0,4210148332.0,ES,True,ISGlobal,Anne‐Elie,unknown
-10.3390/environments8090093,Annelies Broekman,2.0,4210129656.0,ES,True,CREAF,Annelies,female
-10.1016/j.envint.2021.106933,Anne-Claire Binter,1.0,4210154894.0,ES,True,ResearchMar,Anne-Claire,unknown
-10.1021/acssensors.2c01782,Annalisa Scroccarello,1.0,4210093216.0,ES,True,ICN2,Annalisa,female
-10.1111/all.14422,Annabelle Bédard,58.0,4210154894.0,ES,True,ISGlobal,Annabelle,female
-10.1016/j.euroneuro.2024.05.006,Anna Mané,34.0,4210090703.0,ES,True,ResearchMar,Anna,female
-10.3389/fnhum.2024.1411246,Angélique Lebert,1.0,123044942.0,ES,True,ResearchMar,Angélique,female
-10.3390/land12081509,Angham Daiyoub,1.0,4210129656.0,ES,True,CREAF,Angham,female
-10.37201/req/074.2021,Angely Román,3.0,4210115097.0,ES,True,ISGlobal,Angely,female
-10.1093/jtm/taab100,Angeline Cruz,2.0,4210148332.0,ES,True,ISGlobal,Angeline,female
-10.1002/pds.5809,Angela Leis Machín,14.0,4210130874.0,ES,True,ResearchMar,Angela,female
-10.1186/s13054-024-05092-x,Andrés Parrilla-Gómez,4.0,4210130874.0,ES,True,ResearchMar,Andrés,male
-10.1039/d4lc00697f,Andrew Piper,2.0,4210093216.0,ES,True,ICN2,Andrew,male
-10.1038/s41588-021-00936-6,Andrea Alemany,158.0,4210160872.0,ES,True,ISGlobal,Andrea,female
-10.1128/mbio.01636-21,Anastasia K. Pickford,1.0,4210148332.0,ES,True,ISGlobal,Anastasia,female
-10.3390/environments8090093,Anabel Sánchez,1.0,4210129656.0,ES,True,CREAF,Anabel,female
-10.1016/j.gim.2022.06.011,Ana Pozueta,58.0,4210156109.0,ES,True,ResearchMar,Ana,female
-10.3390/bios14080382,Amirhossein Sarreshtehdari,1.0,170486558.0,ES,True,ResearchMar,Amirhossein,unknown
-10.1080/20008066.2023.2263151,Amira Trabsa,1.0,4210130874.0,ES,True,ResearchMar,Amira,female
-10.1177/23969873231220218,Amer Ghrouz,1.0,4210133106.0,ES,True,ResearchMar,Amer,male
-10.1136/bmjopen-2020-040480,Amaya Ayala‐García,1.0,4210154894.0,ES,True,ISGlobal,Amaya,female
-10.1007/s13304-024-01859-7,Amalia Pelegrina,446.0,,,True,ResearchMar,Amalia,female
-10.1117/12.2590747,Amador Pérez‐Tomás,1.0,4210093216.0,ES,True,ICN2,Amador,male
-10.1021/acs.analchem.0c04330,Amadeo Sena‐Torralba,1.0,4210093216.0,ES,True,ICN2,Amadeo,male
-10.1016/j.envres.2024.118195,Alícia Josa-Culleré,1.0,4210148332.0,ES,True,ResearchMar,Alícia,female
-10.1016/j.adro.2023.101177,Alvaro A. Martinez,2.0,4210133106.0,ES,True,ResearchMar,Alvaro,male
-10.1088/2053-1583/ac2e51,Aloïs Arrighi,1.0,123044942.0,ES,True,ICN2,Aloïs,mostly_male
-10.1111/nph.19138,Alistair S. Jump,3.0,12093191.0,GB,True,CREAF,Alistair,male
-10.1177/17085381221078176,Alina Velescu,2.0,4210130874.0,ES,True,ResearchMar,Alina,female
-10.1093/ecco-jcc/jjac108,Alicia López-García,50.0,4210130874.0,ES,True,ResearchMar,Alicia,female
-10.1158/1055-9965.epi-20-0732,Alice Hinchliffe,1.0,4210148332.0,ES,True,ISGlobal,Alice,female
-10.1038/s41588-021-00936-6,Alfredo Mayor,149.0,71999127.0,ES,True,ISGlobal,Alfredo,male
-10.1016/j.rx.2021.06.006,Alfonso Rodríguez‐Baeza,3.0,123044942.0,ES,True,ResearchMar,Alfonso,male
-10.1016/j.ijcard.2021.01.051,Alfons Aguirre,74.0,4210157094.0,ES,True,ResearchMar,Alfons,male
-10.1093/bioinformatics/btaa964,Alexia Giannoula,1.0,4210156109.0,ES,True,ResearchMar,Alexia,female
-10.1038/s41699-022-00311-x,Alexandros El Sachat,1.0,4210093216.0,ES,True,ICN2,Alexandros,male
-10.3389/fcell.2020.621070,Alexandre Calon,4.0,4210156109.0,ES,True,ResearchMar,Alexandre,male
-10.1038/s41565-021-00957-6,Alexander Block,1.0,179630473.0,ES,True,ICN2,Alexander,male
-10.1093/jac/dkab321,Alex Almuedo-Riera,64.0,4210148332.0,ES,True,ISGlobal,Alex,male
-10.1016/j.gim.2022.06.011,Alessandro Príncipe,36.0,,,True,ResearchMar,Alessandro,male
-10.1016/j.rec.2022.05.023,Aleksandra Mas‐Stachurska,1.0,4210156109.0,ES,True,ResearchMar,Aleksandra,female
-10.1080/02656736.2021.1894358,Aleksandar Radosevic,1.0,170486558.0,ES,True,ResearchMar,Aleksandar,male
-10.1016/j.clgc.2022.06.001,Alejo Rodríguez‐Vida,35.0,4210130874.0,ES,True,ResearchMar,Alejo,male
-10.1186/s12893-021-01243-x,Alejandro Bravo-Salvá,1.0,4210133106.0,ES,True,ResearchMar,Alejandro,male
-10.1111/gcb.15745,Alejandra Morán‐Ordóñez,1.0,4210117018.0,ES,True,CREAF,Alejandra,female
-10.34133/2022/9764982,Aleixandre Verger,2.0,4210111077.0,ES,True,CREAF,Aleixandre,unknown
-10.1093/cercor/bhac239,Aleix Sala‐Vila,36.0,,,True,ResearchMar,Aleix,unknown
-10.1088/2053-1583/abc7f8,Aleandro Antidormi,1.0,11932220.0,ES,True,ICN2,Aleandro,male
-10.1093/infdis/jiaa696,Alberto L. García‐Basteiro,38.0,4210154894.0,ES,True,ISGlobal,Alberto,male
-10.1007/s00394-020-02415-w,Albert Sanllorente,317.0,,,True,ResearchMar,Albert,male
-10.1016/j.euroneuro.2024.05.006,Alba Toll,35.0,4210156109.0,ES,True,ResearchMar,Alba,female
-10.3390/ijgi10030141,Alaitz Zabala,1.0,4210129656.0,ES,True,CREAF,Alaitz,female
-10.1021/jacs.2c06131,Akim Khobotov‐Bakishev,1.0,4210093216.0,ES,True,ICN2,Akim,male
-10.3390/cells11060998,Akash Tariq,1.0,4210103115.0,CN,True,CREAF,Akash,male
-10.1111/1365-2745.13591,Aitziber Zufiaurre,1.0,4210129656.0,ES,True,CREAF,Aitziber,unknown
-10.1016/j.jad.2024.01.191,Aitana García-Estela,1.0,4210130874.0,ES,True,ResearchMar,Aitana,female
-10.1016/j.enfcle.2023.02.007,Ainoa Biurrún-Garrido,1.0,4210130874.0,ES,True,ResearchMar,Ainoa,unknown
-10.1007/s41999-020-00415-x,Ainhoa Baztan,5.0,4210153292.0,ES,True,ResearchMar,Ainhoa,female
-10.3389/fneur.2020.589901,Ainara Barguilla,1.0,4210130874.0,ES,True,ResearchMar,Ainara,female
-10.1111/1755-0998.13862,Aina Garcia‐Raventós,1.0,4210129656.0,ES,True,CREAF,Aina,female
-10.1038/s41588-021-00936-6,Aida Peiró-Mestres,168.0,4210148332.0,ES,True,ISGlobal,Aida,female
-10.1002/ueg2.12325,Agustín Seoane,2.0,4210133106.0,ES,True,ResearchMar,Agustín,male
-10.26508/lsa.202201692,Agustí Toll,2.0,4210136145.0,ES,True,ResearchMar,Agustí,unknown
-10.1186/s12931-023-02462-x,Adrián Ceccato,35.0,4210099160.0,ES,True,ResearchMar,Adrián,male
-10.5194/essd-16-5111-2024,Adrià Descals,1.0,4210129656.0,ES,True,CREAF,Adrià,unknown
-10.3390/jcm11051431,Adriana Sierra,1.0,4210156109.0,ES,True,ResearchMar,Adriana,female
-10.1038/s41380-024-02531-7,Adrian Morales Pastor,6.0,4210136145.0,ES,True,ResearchMar,Adrian,male
-10.1007/s00402-021-03991-0,Adolfo Díez‐Pérez,2.0,123044942.0,ES,True,ResearchMar,Adolfo,male
-10.1016/j.jhepr.2021.100234,Adam Palayew,2.0,5023651.0,CA,True,ISGlobal,Adam,male
-10.1016/j.schres.2022.08.007,Ada I. Ruiz,4.0,4210130874.0,ES,True,ResearchMar,Ada,female
-10.1016/j.surfin.2021.101494,Achille Francone,1.0,4210093216.0,ES,True,ICN2,Achille,male
-10.1111/jdv.19847,Abora Rial‐Villavecchia,2.0,4210130874.0,ES,True,ResearchMar,Abora,unknown
-10.1016/j.nrleng.2020.10.004,Abel Alejandro Sanabria Sanchinel,1.0,4210130874.0,ES,True,ResearchMar,Abel,male
-10.1186/s13054-024-04876-5,Aaron Blandino Ortíz,105.0,189268942.0,ES,True,ResearchMar,Aaron,male
-10.18176/jiaci.0820,A.M. Giménez-Arnau,1.0,170486558.0,ES,True,ResearchMar,A.M.,unknown
-10.1016/j.jfo.2023.01.008,A. Matheu,1.0,4210133106.0,ES,True,ResearchMar,A.,unknown
-10.1016/j.recot.2024.11.015,A Portes,1.0,4210133106.0,ES,True,ResearchMar,A,unknown
+DOI,display_name,author_order,author_position,is_corresponding,institution_id,COUNTRY_CODE,CERCA,Center,first_name,gender
+10.1016/j.lanepe.2023.100701,Αntonios Michaelakis,44.0,middle,False,4210122450.0,GR,True,CREAF,Αntonios,unknown
+10.1093/ije/dyae063,Óscar J. Pozo,52.0,middle,False,,,True,ResearchMar,Óscar,male
+10.1093/cid/ciac314,Íñigo González Farías,30.0,middle,False,4210130874.0,ES,True,ResearchMar,Íñigo,male
+10.1016/j.aca.2024.343313,Élida Alechaga,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Élida,unknown
+10.1111/geb.13860,Écio Souza Diniz,3.0,middle,False,123044942.0,ES,True,CREAF,Écio,unknown
+10.1016/j.agee.2023.108601,Ângela Ribas,1.0,first,False,123044942.0,ES,True,CREAF,Ângela,female
+10.1016/j.envres.2021.111392,Ángela Zumel-Marne,1.0,first,False,4210154894.0,ES,True,ISGlobal,Ángela,female
+10.1038/s41598-023-40838-7,Ángel Ois,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Ángel,male
+10.1007/s00394-020-02415-w,Álvaro Hernáez,294.0,middle,False,,,True,ResearchMar,Álvaro,male
+10.1016/j.mex.2024.102969,Á. Bach,3.0,middle,False,4210148332.0,ES,True,CREAF,Á.,unknown
+10.1016/j.jval.2021.03.021,Àngels Pont,4.0,middle,False,4210156109.0,ES,True,ResearchMar,Àngels,mostly_female
+10.1007/s10433-023-00769-8,Àngel Lavado,1.0,first,False,4210101563.0,ES,True,ResearchMar,Àngel,unknown
+10.1016/j.jpba.2021.114450,Àlex Gomez‐Gómez,1.0,first,False,4210156109.0,ES,True,ResearchMar,Àlex,unknown
+10.1002/ehf2.13696,Zorba Blázquez‐Bermejo,1.0,first,True,4210130874.0,ES,True,ResearchMar,Zorba,unknown
+10.1002/adfm.202106349,Zhifu Liang,1.0,first,False,4210128520.0,ES,True,ICN2,Zhifu,unknown
+10.1021/acsnano.2c05733,Zhi Li,3.0,middle,False,4210093216.0,ES,True,ICN2,Zhi,andy
+10.1002/ecy.4375,Zhenhong Hu,1.0,first,False,4210129656.0,ES,True,CREAF,Zhenhong,unknown
+10.1016/j.ecoenv.2021.112481,Zhaoyue Chen,4.0,middle,False,4210148332.0,ES,True,ISGlobal,Zhaoyue,unknown
+10.1016/j.scitotenv.2024.175708,Zhaobin Mu,1.0,first,False,4210103115.0,CN,True,CREAF,Zhaobin,unknown
+10.3390/jcm12124158,Zenaida Piñeiro Agüín,11.0,middle,False,170486558.0,ES,True,ResearchMar,Zenaida,female
+10.1002/qute.202000118,Zeila Zanolli,2.0,middle,False,4210130123.0,BE,True,ICN2,Zeila,unknown
+10.1177/11206721221080818,Zaida Vega-Lopez,2.0,middle,False,4210111971.0,ES,True,ResearchMar,Zaida,female
+10.1016/j.oneear.2023.09.007,Z. K. Zeng,1.0,first,False,4210165038.0,CN,True,CREAF,Z.,unknown
+10.1371/journal.ppat.1009455,Yunuen Ávalos-Padilla,1.0,first,True,4210092306.0,DE,True,ISGlobal,Yunuen,unknown
+10.1021/jacs.3c05469,Yunhui Yang,1.0,first,False,123044942.0,ES,True,ICN2,Yunhui,unknown
+10.3390/ijms222413363,Yuly López,1.0,first,True,4210148332.0,ES,True,ISGlobal,Yuly,unknown
+10.3390/nu16142245,Yulibeth G. Curbelo,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Yulibeth,unknown
+10.1021/acs.chemmater.3c01592,Yu Jing,5.0,middle,False,4210093216.0,ES,True,ICN2,Yu,andy
+10.3390/land10020144,Yolanda Melero,44.0,middle,False,4210129656.0,ES,True,CREAF,Yolanda,female
+10.1007/s00068-021-01767-0,Yislenz Narváez-Martínez,12.0,middle,False,4210133106.0,ES,True,ResearchMar,Yislenz,unknown
+10.1183/23120541.00105-2022,Yingchen Xia,1.0,first,False,4210164024.0,CN,True,ResearchMar,Yingchen,unknown
+10.1063/5.0049036,Ying Liu,1.0,first,False,129604602.0,AU,True,ICN2,Ying,andy
+10.1021/jacs.1c05363,Yang Liu,1.0,first,False,4210093216.0,ES,True,ICN2,Yang,andy
+10.1111/jorc.12348,Yaiza Martínez‐Delgado,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Yaiza,unknown
+10.1016/j.nrleng.2020.11.008,Y. Lin,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Y.,unknown
+10.1016/j.rh.2024.100871,Y G Curbelo-Peña,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Y,unknown
+10.1016/j.agee.2023.108528,Xènia Jaumejoan,1.0,first,True,4210129656.0,ES,True,CREAF,Xènia,unknown
+10.3390/biomedicines10051044,Xuejie Wang,1.0,first,False,4210133106.0,ES,True,ResearchMar,Xuejie,unknown
+10.1002/adfm.202112902,Xu Han,1.0,first,False,4210093216.0,ES,True,ICN2,Xu,andy
+10.1016/j.jenvman.2022.116346,Xin Song,1.0,first,False,4210129656.0,ES,True,CREAF,Xin,andy
+10.1007/s00127-022-02303-0,Ximena Goldberg,1.0,first,True,4210148332.0,ES,True,ResearchMar,Ximena,female
+10.3390/nano12071221,Xiaoman Mao,1.0,first,False,4210093216.0,ES,True,ICN2,Xiaoman,unknown
+10.1002/clt2.12062,Xavier Basagaña,52.0,middle,False,4210154894.0,ES,True,ISGlobal,Xavier,male
+10.1186/s12877-022-02811-3,Xavi Duran,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Xavi,male
+10.1093/nar/gkae950,Xabier de Martin,1.0,first,False,2801864671.0,ES,True,ResearchMar,Xabier,male
+10.1007/s10705-022-10240-2,X. Serra,6.0,middle,False,115304662.0,ES,True,BETA,X.,unknown
+10.1007/s00787-020-01521-8,Wilma L. Zijlema,1.0,first,False,2801864671.0,ES,True,ISGlobal,Wilma,female
+10.1055/s-0040-1716380,William Teodoro Bracamonte Salgado,4.0,middle,False,123044942.0,ES,True,ResearchMar,William,male
+10.1002/alz.13450,Wiesje Pelkmans,1.0,first,True,4210128274.0,ES,True,ResearchMar,Wiesje,female
+10.1016/j.nrl.2017.11.006,Vıctor Puente,3.0,middle,False,4210133106.0,ES,True,ResearchMar,Vıctor,unknown
+10.1186/s13643-024-02569-2,Víctor Pérez,60.0,middle,False,,,True,ResearchMar,Víctor,male
+10.3390/jcm11010216,Vladimir Poposki,8.0,middle,False,4210109530.0,ES,True,ResearchMar,Vladimir,male
+10.3390/md19120675,Virginio Cepas,1.0,first,False,4210148332.0,ES,True,ISGlobal,Virginio,male
+10.15252/emmm.202216554,Violeta García‐Hernández,1.0,first,False,4210158561.0,ES,True,ResearchMar,Violeta,female
+10.1016/j.scitotenv.2022.153832,Vijendra Ingole,1.0,first,False,4210133106.0,ES,True,ResearchMar,Vijendra,unknown
+10.1016/j.jinf.2022.12.027,Victoria Alcaraz-Serrano,177.0,middle,False,4210115097.0,ES,True,ResearchMar,Victoria,female
+10.3390/min11090949,Vicenç Carabassa,1.0,first,False,4210129656.0,ES,True,CREAF,Vicenç,unknown
+10.1016/j.ijantimicag.2024.107202,Vicens Díaz-Brito,102.0,middle,False,,,True,ResearchMar,Vicens,unknown
+10.1111/hsc.13094,Vibian Angwenyi,1.0,first,True,865915315.0,NL,True,ISGlobal,Vibian,unknown
+10.1007/s10980-021-01249-z,Verónica Cruz‐Alonso,1.0,first,True,4210129656.0,ES,True,CREAF,Verónica,female
+10.1177/23969873231156260,Verònica Hidalgo,37.0,middle,False,4210130874.0,ES,True,ResearchMar,Verònica,unknown
+10.1016/j.rh.2024.100862,Vanesa Dávalos‐Yerovi,1.0,first,False,4210156109.0,ES,True,ResearchMar,Vanesa,female
+10.1007/s00415-020-10148-3,Uxue Lazcano,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Uxue,unknown
+10.1002/aelm.202400102,Umair Saeed,1.0,first,True,4210093216.0,ES,True,ICN2,Umair,unknown
+10.2196/41443,Ujué Fresán,1.0,first,True,4210148332.0,ES,True,ResearchMar,Ujué,unknown
+10.1371/journal.pntd.0009781,Tsige Ketema,1.0,first,True,4210148332.0,ES,True,ISGlobal,Tsige,unknown
+10.1080/02827581.2024.2398235,Tristan R.M. Bakx,1.0,first,False,4210129656.0,ES,True,CREAF,Tristan,male
+10.1093/eurpub/ckab066,Trenton M. White,1.0,first,False,4210148332.0,ES,True,ISGlobal,Trenton,male
+10.1038/s41419-023-05720-4,Travis H. Stracker,22.0,last,False,4210140884.0,US,True,ResearchMar,Travis,male
+10.1371/journal.pbio.3002487,Toni Celià-Terrassa,1.0,first,True,4210130874.0,ES,True,ResearchMar,Toni,male
+10.1038/s41559-021-01436-w,Tong Zheng,1.0,first,False,47689461.0,CN,True,CREAF,Tong,andy
+10.1039/d1sc00749a,Tomasz Maciej Stępniewski,1.0,first,False,4210156109.0,ES,True,ResearchMar,Tomasz,male
+10.1039/d3dt00185g,Ting Zhang,1.0,first,False,4210093216.0,ES,True,ICN2,Ting,andy
+10.1021/acs.nanolett.3c03291,Thomas Guillet,1.0,first,False,4210093216.0,ES,True,ICN2,Thomas,male
+10.1183/13993003.04656-2020,Theodore Lytras,15.0,middle,False,4210148332.0,ES,True,ISGlobal,Theodore,male
+10.1002/anie.202013839,Thais Grancha,1.0,first,True,4210093216.0,ES,True,ICN2,Thais,unknown
+10.3390/antiox12030765,Tetyana Yudina,5.0,middle,False,4210093216.0,ES,True,ICN2,Tetyana,female
+10.1111/pce.14415,Teresa E. Gimeno,1.0,first,False,4210092744.0,ES,True,CREAF,Teresa,female
+10.1007/s12119-021-09898-7,Taylor Sheridan,2.0,last,False,4210148332.0,ES,True,ISGlobal,Taylor,mostly_male
+10.1016/j.semerg.2023.102030,Taryn Cardenas,9.0,middle,False,4210130874.0,ES,True,ResearchMar,Taryn,female
+10.1016/j.medcli.2020.06.034,Tarek Carlos Salman-Monte,1.0,first,True,4210156109.0,ES,True,ResearchMar,Tarek,male
+10.1038/s41567-023-02125-0,Tapas Bar,3.0,middle,False,4210093216.0,ES,True,ICN2,Tapas,male
+10.1016/j.envres.2021.110988,Tamara Iungman,1.0,first,False,4210148332.0,ES,True,ISGlobal,Tamara,female
+10.1136/bmjopen-2021-057632,Talita Duarte‐Salles,38.0,last,True,4210129525.0,ES,True,ResearchMar,Talita,unknown
+10.1001/jamaoncol.2021.4301,Sònia Servitja,35.0,middle,False,,,True,ResearchMar,Sònia,unknown
+10.1038/s41408-022-00676-8,Sílvia de Sanjosé,42.0,middle,False,4210154894.0,ES,True,ResearchMar,Sílvia,unknown
+10.3390/jcm12020579,Susana Vázquez,1.0,first,True,4210147572.0,ES,True,ResearchMar,Susana,female
+10.1016/j.envres.2021.111828,Subhabrata Moitra,1.0,first,False,4210154894.0,ES,True,ResearchMar,Subhabrata,unknown
+10.1038/s41565-023-01570-5,Steven T. Walston,2.0,middle,False,4210093216.0,ES,True,ICN2,Steven,male
+10.1088/2053-1583/ad64e2,Stephan Roche,1.0,first,False,4210093216.0,ES,True,ICN2,Stephan,male
+10.1136/thoraxjnl-2020-215884,Stefano Guerra,6.0,middle,False,4210148332.0,ES,True,ISGlobal,Stefano,male
+10.1016/j.scitotenv.2021.149580,Stefania Mattana,2.0,middle,False,149213910.0,BE,True,CREAF,Stefania,female
+10.1186/s12887-021-02536-z,Sophie Jullien,1.0,first,True,4210148332.0,ES,True,ISGlobal,Sophie,female
+10.1176/appi.ps.20230414,Sook Ning Chua,9.0,middle,False,4210115082.0,ES,True,ResearchMar,Sook,mostly_female
+10.1136/ard-2023-224460,Sonia Tejedor Vaquero,43.0,middle,False,4210156109.0,ES,True,ResearchMar,Sonia,female
+10.1016/j.cej.2024.151873,Somalapura Prakasha Bharath,4.0,middle,False,4210093216.0,ES,True,ICN2,Somalapura,unknown
+10.1093/brain/awac224,Sofía González‐Ortiz,56.0,middle,False,4210130874.0,ES,True,ResearchMar,Sofía,female
+10.3389/fimmu.2021.686384,Sofya Pozdniakova,4.0,middle,False,75951250.0,DE,True,ISGlobal,Sofya,female
+10.1007/s13304-024-01808-4,Sofia-Maria Jaume-Boettcher,3.0,middle,False,170486558.0,ES,True,ResearchMar,Sofia-Maria,unknown
+10.3390/antibiotics10121486,Soe Yu Naing,1.0,first,False,4210148332.0,ES,True,ISGlobal,Soe,unknown
+10.1021/acsanm.4c04071,Siyu Chen,4.0,middle,False,51622183.0,CN,True,ICN2,Siyu,unknown
+10.1186/s12860-021-00363-9,Simone G. Moro,1.0,first,False,4210156109.0,ES,True,ResearchMar,Simone,female
+10.12688/wellcomeopenres.16345.2,Simon J. Lloyd,6.0,middle,True,4210148332.0,ES,True,ISGlobal,Simon,male
+10.1016/j.jpsychires.2022.02.009,Silvia Sola,140.0,middle,False,4210090703.0,ES,True,ResearchMar,Silvia,female
+10.1016/j.apcatb.2023.122601,Shunrui Luo,2.0,middle,False,4210093216.0,ES,True,ICN2,Shunrui,unknown
+10.1186/s12889-021-10568-4,Sheila Martínez Fernández,2.0,middle,False,4210118037.0,MZ,True,ISGlobal,Sheila,female
+10.1016/j.envres.2024.119557,Sewon Lee,2.0,middle,False,4210154894.0,ES,True,ResearchMar,Sewon,unknown
+10.1371/journal.pone.0299736,Sergio Muñoz-Villaverde,1.0,first,True,4210136145.0,ES,True,ResearchMar,Sergio,male
+10.1088/1748-9326/ac4ebe,Sergi Herrando,42.0,middle,False,1338063350.0,ES,True,CREAF,Sergi,male
+10.1017/s2040174421000441,Serena Fossati,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Serena,female
+10.1016/j.jinf.2021.02.024,Selena Alonso,1.0,first,False,4210148332.0,ES,True,ISGlobal,Selena,female
+10.1063/5.0102855,Sebin Varghese,1.0,first,False,4210093216.0,ES,True,ICN2,Sebin,unknown
+10.1016/s2542-5196(21)00288-6,Sasha Khomenko,1.0,first,False,4210148332.0,ES,True,ISGlobal,Sasha,mostly_male
+10.1080/17441692.2020.1850834,Sarju Sing,1.0,first,True,4210148332.0,ES,True,ISGlobal,Sarju,unknown
+10.1093/ije/dyae063,Sarah Koch,44.0,middle,False,,,True,ResearchMar,Sarah,female
+10.1038/s41467-022-31778-3,Sara Martí‐Sánchez,1.0,first,False,4210093216.0,ES,True,ICN2,Sara,female
+10.1002/adma.202310198,Saptam Ganguly,1.0,first,True,4210093216.0,ES,True,ICN2,Saptam,unknown
+10.1016/j.injury.2024.111715,Santos Martínez-Díaz,97.0,middle,False,4210133106.0,ES,True,ResearchMar,Santos,andy
+10.1038/s41586-023-05772-8,Santiago F. Gómez,493.0,middle,False,4210099712.0,ES,True,ResearchMar,Santiago,male
+10.1007/s00402-020-03643-9,Santana Fernando,3.0,middle,False,4210133106.0,ES,True,ResearchMar,Santana,female
+10.1111/jvs.13147,Sandra Nogué,1.0,first,True,4210129656.0,ES,True,CREAF,Sandra,female
+10.1016/j.ccr.2020.213716,Salvio Suárez‐García,1.0,first,False,4210093216.0,ES,True,ICN2,Salvio,unknown
+10.1016/j.recesp.2020.04.011,Salvatore Marsico,1.0,first,True,4210130874.0,ES,True,ResearchMar,Salvatore,male
+10.1177/11786329241258856,Salvador Herrera-Pérez,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Salvador,male
+10.1016/j.wneu.2023.08.103,Sally Allinson Marte Arias,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Sally,female
+10.1016/j.arbr.2020.08.007,Saida Sánchez Navas,5.0,middle,False,4210130874.0,ES,True,ResearchMar,Saida,female
+10.1016/j.jhepr.2021.100260,S. Coll,67.0,middle,False,4210136145.0,ES,True,ResearchMar,S.,unknown
+10.1186/s12877-024-05185-w,S Ortonobes Roig,1.0,first,False,4210115578.0,ES,True,ResearchMar,S,unknown
+10.1039/d2nr04100f,Ryan C. Ng,1.0,first,True,4210093216.0,ES,True,ICN2,Ryan,mostly_male
+10.3389/fimmu.2022.776917,Ruth Aguilar,2.0,middle,False,4210148332.0,ES,True,ResearchMar,Ruth,female
+10.25270/jic/23.00272,Rut Álvarez‐Velasco,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Rut,female
+10.1016/j.jhazmat.2020.124434,Ruslán Álvarez-Diduk,2.0,middle,False,4210093216.0,ES,True,ICN2,Ruslán,unknown
+10.1016/j.scitotenv.2024.170719,Rubén Olmo-Gilabert,1.0,first,True,4210129656.0,ES,True,CREAF,Rubén,male
+10.1111/1365-2435.13787,Rossella Guerrieri,1.0,first,True,9360294.0,IT,True,CREAF,Rossella,female
+10.1093/cid/ciab044,Ross Cranston,12.0,middle,False,4210148332.0,ES,True,ISGlobal,Ross,male
+10.3390/cells11030358,Roshana Thambyrajah,1.0,first,True,4210156109.0,ES,True,ResearchMar,Roshana,unknown
+10.1021/acs.nanolett.4c02853,Roshan Krishna Kumar,2.0,middle,False,4210093216.0,ES,True,ICN2,Roshan,male
+10.1016/j.jenvman.2023.118696,Roser Rotchés‐Ribalta,36.0,middle,False,4210129656.0,ES,True,CREAF,Roser,female
+10.1093/cid/ciaa1721,Rosauro Varo,39.0,last,False,,,True,ISGlobal,Rosauro,unknown
+10.1016/j.gaceta.2024.102360,Rosario Moreno-Carmona,1.0,first,False,4210134155.0,ES,True,ResearchMar,Rosario,male
+10.1016/j.jinf.2022.12.027,Rosana Muñoz-Bermúdez,149.0,middle,False,4210130874.0,ES,True,ResearchMar,Rosana,female
+10.1016/j.jpsychires.2022.02.009,Rosa Corcoy i Plá,112.0,middle,False,4210154894.0,ES,True,ResearchMar,Rosa,female
+10.1016/j.survophthal.2024.05.005,Ronell Fernández Hernández,1.0,first,True,4210133106.0,ES,True,ResearchMar,Ronell,unknown
+10.31083/j.rcm2203075,Ronald O. Morales,1.0,first,False,4210130874.0,ES,True,ResearchMar,Ronald,male
+10.1073/pnas.2309881120,Romà Ogaya,118.0,middle,False,4210129656.0,ES,True,CREAF,Romà,unknown
+10.1186/s13071-021-04874-4,Roger Eritja,1.0,first,False,4210129656.0,ES,True,CREAF,Roger,male
+10.1093/brain/awab362,Rodrigo Rocamora,98.0,middle,False,4210130874.0,ES,True,ResearchMar,Rodrigo,male
+10.12961/aprl.2022.25.02.03,Rocío Villar,1.0,first,False,170486558.0,ES,True,ResearchMar,Rocío,mostly_female
+10.1038/s41591-023-02610-2,Roberto Elosúa,201.0,middle,False,4210156109.0,ES,True,ResearchMar,Roberto,male
+10.1103/physrevb.109.125422,Roberta Farris,1.0,first,False,4210093216.0,ES,True,ICN2,Roberta,female
+10.1016/j.medcli.2024.06.003,Robert Güerri‐Fernández,1.0,first,False,170486558.0,ES,True,ResearchMar,Robert,male
+10.1371/journal.pntd.0009681,Rita Velez,2.0,middle,True,4210148332.0,ES,True,ISGlobal,Rita,female
+10.1667/rade-20-00231.1,Richard W Harbron,11.0,middle,False,4210148332.0,ES,True,ISGlobal,Richard,male
+10.1016/j.eplepsyres.2023.107145,Riccardo Zucca,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Riccardo,male
+10.1016/j.jinf.2021.02.024,Reyes Balcells,8.0,middle,False,4210118037.0,MZ,True,ISGlobal,Reyes,female
+10.1063/5.0054865,Regina Galceran,1.0,first,False,4210093216.0,ES,True,ICN2,Regina,female
+10.1038/s41598-021-98296-y,Rebeca Santano,1.0,first,True,4210148332.0,ES,True,ISGlobal,Rebeca,female
+10.1111/gcb.15529,Raúl García‐Valdés,1.0,first,True,4210129656.0,ES,True,CREAF,Raúl,male
+10.1016/j.bios.2023.115137,Razia Batool,1.0,first,False,4210093216.0,ES,True,ICN2,Razia,female
+10.1111/oik.10465,Raquel Díaz Borrego,1.0,first,True,4210129656.0,ES,True,CREAF,Raquel,female
+10.26508/lsa.202201479,Randa Ben Azaiz Ben Lahsen,6.0,middle,False,4210130874.0,ES,True,ResearchMar,Randa,female
+10.1038/s41598-022-11392-5,Ramón M. Pujol,129.0,middle,False,4210095887.0,ES,True,ResearchMar,Ramón,male
+10.1038/s41467-020-20546-w,Ramon Garcia‐Cortadella,1.0,first,False,4210093216.0,ES,True,ICN2,Ramon,male
+10.1016/j.jhepr.2022.100574,Ramiro Manzano-Núñez,2.0,middle,False,4210102407.0,ES,True,ResearchMar,Ramiro,male
+10.1093/braincomms/fcad351,Raffaele Cacciaglia,52.0,middle,False,,,True,ResearchMar,Raffaele,male
+10.1016/j.neuropharm.2021.108466,Rafaël Maldonado,1.0,first,True,4210130874.0,ES,True,ResearchMar,Rafaël,male
+10.1016/j.ajcnut.2023.05.032,Rafael de la Torre,44.0,middle,False,170486558.0,ES,True,ResearchMar,Rafael,male
+10.1016/j.lanepe.2023.100701,Rachel Lowe,34.0,middle,False,4210089966.0,GB,True,CREAF,Rachel,female
+10.3390/biom14010093,R.M. Manero,2.0,middle,False,4210156109.0,ES,True,ResearchMar,R.M.,unknown
+10.1103/physrevb.104.195104,R. Cuadrado,1.0,first,False,4210093216.0,ES,True,ICN2,R.,unknown
+10.1186/s12992-023-00948-3,R Ciurana,49.0,middle,False,2801357902.0,ES,True,ResearchMar,R,unknown
+10.1016/j.bios.2024.116544,Qurat Ul Ain Bukhari,1.0,first,False,4210093216.0,ES,True,ICN2,Qurat,unknown
+10.1371/journal.pmed.1003814,Quique Bassat,36.0,middle,True,4210148332.0,ES,True,ISGlobal,Quique,male
+10.1007/s10980-021-01209-7,Quim Canelles,1.0,first,True,4210129656.0,ES,True,CREAF,Quim,unknown
+10.1021/acsestwater.1c00192,Qiuyue Yang,1.0,first,False,4210093216.0,ES,True,BETA,Qiuyue,unknown
+10.1111/ejss.13243,Qin Wang,1.0,first,False,4210129656.0,ES,True,CREAF,Qin,andy
+10.1186/s13054-022-03905-5,Purificación Pérez-Terán,46.0,middle,False,4210130874.0,ES,True,ResearchMar,Purificación,female
+10.1177/00258024231182369,Priscila Giraldo,7.0,middle,False,4210130874.0,ES,True,ResearchMar,Priscila,female
+10.1038/s42003-022-03954-0,Pol Fernández-López,1.0,first,False,4210101295.0,ES,True,CREAF,Pol,male
+10.1016/j.gim.2022.06.011,Pilar Sáez-López,42.0,middle,False,4210130874.0,ES,True,ResearchMar,Pilar,female
+10.1016/j.jpsychires.2022.02.009,Philippe Mortier,102.0,middle,True,4210156109.0,ES,True,ResearchMar,Philippe,male
+10.1093/cid/ciaa1721,Pere Millat,34.0,middle,False,4210148332.0,ES,True,ISGlobal,Pere,male
+10.1016/j.edumed.2019.09.004,Percy Efrain Pantoja,17.0,middle,False,4210115615.0,ES,True,ISGlobal,Percy,male
+10.1126/sciadv.abo3733,Pengyi Tang,2.0,middle,True,4210147322.0,CN,True,ICN2,Pengyi,unknown
+10.1126/sciadv.adm8825,Peng Xiao,1.0,first,True,4210093216.0,ES,True,ICN2,Peng,andy
+10.1016/j.medin.2020.05.011,Pedro Guijo González,1.0,first,True,4210130874.0,ES,True,ResearchMar,Pedro,male
+10.1093/ije/dyae063,Payam Dadvand,1.0,first,False,4210154894.0,ES,True,ResearchMar,Payam,male
+10.1093/ije/dyae063,Paula de Prado-Bert,37.0,middle,False,,,True,ResearchMar,Paula,female
+10.1038/s41588-021-00936-6,Pau Cisteró,153.0,middle,False,4210148332.0,ES,True,ISGlobal,Pau,male
+10.1016/j.agee.2024.109006,Patrícia Campdelacreu Rocabruna,1.0,first,True,4210129656.0,ES,True,CREAF,Patrícia,female
+10.1016/j.xpro.2021.100539,Patrick-Simon Welz,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Patrick-Simon,unknown
+10.1245/s10434-023-13161-8,Patricia Sánchez‐Velázquez,45.0,last,False,4210130874.0,ES,True,ResearchMar,Patricia,female
+10.1002/cctc.202301435,Partha Samanta,1.0,first,False,4210093216.0,ES,True,ICN2,Partha,unknown
+10.1017/s2040174421000441,Parisa Montazeri,1.0,first,False,4210154894.0,ES,True,ISGlobal,Parisa,female
+10.1016/j.geoderma.2023.116354,Paolo Zuccarini,1.0,first,True,4401200259.0,,True,CREAF,Paolo,male
+10.1002/nop2.1937,Paloma Garcimartín,2.0,middle,True,4210130874.0,ES,True,ResearchMar,Paloma,female
+10.1016/j.cmi.2022.07.006,Pablo M. De Salazar,34.0,middle,False,1338678786.0,US,True,ResearchMar,Pablo,male
+10.1111/jdv.17460,P. Monreal,2.0,middle,False,4210156109.0,ES,True,ResearchMar,P.,unknown
+10.1093/bjs/znab247,P O Sillas Arevalos,550.0,middle,False,4210133106.0,ES,True,ResearchMar,P,unknown
+10.1136/bmjgh-2021-005639,Otávio T. Ranzani,1.0,first,False,170486558.0,ES,True,ISGlobal,Otávio,unknown
+10.1159/000536064,Oswaldo Antonio Caguana Vélez,1.0,first,False,4210136145.0,ES,True,ResearchMar,Oswaldo,male
+10.1093/jpe/rtac046,Oscar R. Lanuza,1.0,first,True,4210129656.0,ES,True,CREAF,Oscar,male
+10.1001/jamanetworkopen.2022.50921,Oriol Grau‐Rivera,144.0,middle,False,,,True,ResearchMar,Oriol,male
+10.1136/sextrans-2020-054937,Orianna Marcantonio,1.0,first,True,4210133106.0,ES,True,ResearchMar,Orianna,unknown
+10.1007/s00467-020-04595-3,Oriana Ramírez‐Rubio,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Oriana,female
+10.1088/2515-7639/ad367b,Onurcan Kaya,1.0,first,False,4210093216.0,ES,True,ICN2,Onurcan,male
+10.1007/s42729-022-00944-3,Omar Castaño-Sánchez,6.0,middle,False,115304662.0,ES,True,BETA,Omar,male
+10.3389/fpubh.2024.1335265,Olivia Ferrández,1.0,first,False,4210130874.0,ES,True,ResearchMar,Olivia,female
+10.3390/nu16162631,Olga Castañer,46.0,middle,False,,,True,ResearchMar,Olga,female
+10.1016/j.ijrobp.2020.12.032,Olatz Garín,1.0,first,False,4210154894.0,ES,True,ResearchMar,Olatz,female
+10.1021/acs.analchem.1c03850,Olalla Calvo-Lozano,1.0,first,False,4210105141.0,ES,True,ICN2,Olalla,female
+10.1038/s41565-022-01178-1,O. Florez,1.0,first,True,4210093216.0,ES,True,ICN2,O.,unknown
+10.1053/j.gastro.2020.09.026,Núria Cañete,54.0,middle,False,4210136145.0,ES,True,ResearchMar,Núria,female
+10.1016/j.scitotenv.2021.149308,Nuria Jiménez Elvira,1.0,first,True,4210129656.0,ES,True,CREAF,Nuria,female
+10.3390/cancers13236008,Nura Lutfi,1.0,first,False,4210156109.0,ES,True,ResearchMar,Nura,unknown
+10.1039/d3mh01935g,Nour Al Hoda Al Bast,2.0,middle,False,4210093216.0,ES,True,ICN2,Nour,mostly_female
+10.1186/s13321-022-00661-0,Norberto Sánchez‐Cruz,18.0,middle,False,4210156091.0,ES,True,ResearchMar,Norberto,male
+10.1016/j.ccr.2022.214459,Noemí Contreras‐Pereda,1.0,first,False,4210093216.0,ES,True,ICN2,Noemí,female
+10.3389/fpubh.2024.1335265,Noelia Torres Rius,12.0,middle,False,4210130874.0,ES,True,ResearchMar,Noelia,female
+10.1088/2515-7639/ac84ad,Nils Wittemeier,1.0,first,True,4210093216.0,ES,True,ICN2,Nils,male
+10.21037/tlcr-23-412,Nil Navarro,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Nil,female
+10.1177/17588359221139601,Nikaoly Ciriaco,1.0,first,False,4210130874.0,ES,True,ResearchMar,Nikaoly,unknown
+10.1183/13993003.01426-2022,Nieves Carbonell,66.0,middle,False,4210094406.0,ES,True,ResearchMar,Nieves,female
+10.2340/actadv.v104.40419,Nidia Planella‐Fontanillas,1.0,first,False,4210130874.0,ES,True,ResearchMar,Nidia,female
+10.1016/j.agrformet.2023.109716,Nicolas Delpierre,2.0,middle,False,4210091490.0,FR,True,CREAF,Nicolas,male
+10.1002/slct.202201917,Ngoc Tran,2.0,middle,False,4388891809.0,,True,ICN2,Ngoc,mostly_female
+10.1016/j.ebiom.2021.103797,Neus Martínez‐Bosch,1.0,first,False,4210130874.0,ES,True,ResearchMar,Neus,female
+10.1089/derm.2023.0155,Nerea Manzanares,1.0,first,False,170486558.0,ES,True,ResearchMar,Nerea,female
+10.3390/biomedicines12081666,Nazaret Infante,6.0,middle,False,4210130874.0,ES,True,ResearchMar,Nazaret,unknown
+10.1093/cercor/bhac239,Natàlia Vilor‐Tejedor,42.0,last,False,,,True,ResearchMar,Natàlia,unknown
+10.1016/j.ijheh.2021.113772,Natalie Mueller,1.0,first,False,4210148332.0,ES,True,ISGlobal,Natalie,female
+10.1093/cid/ciab812,Natalia Rakislova,1.0,first,False,4210148332.0,ES,True,ISGlobal,Natalia,female
+10.3389/fpubh.2021.583667,Nandini Sarkar,1.0,first,True,865915315.0,NL,True,ISGlobal,Nandini,female
+10.1016/j.jenvman.2022.114722,Nancy Peña,3.0,middle,False,115304662.0,ES,True,BETA,Nancy,female
+10.1371/journal.pntd.0009076,Nana Aba Williams,2.0,middle,True,4210148332.0,ES,True,ISGlobal,Nana,female
+10.1038/s41524-022-00710-0,Nakib H. Protik,1.0,first,True,4210093216.0,ES,True,ICN2,Nakib,unknown
+10.1016/j.ygyno.2021.06.019,Nadwa Kanjou,4.0,middle,False,123044942.0,ES,True,ResearchMar,Nadwa,female
+10.3390/ijerph192013676,Nacho Sánchez-Valdivia,1.0,first,True,4210156109.0,ES,True,ResearchMar,Nacho,male
+10.1093/cid/ciab228,N. López Segura,9.0,middle,False,4210147572.0,ES,True,ResearchMar,N.,unknown
+10.1007/s00330-022-08835-y,N Arenas,1.0,first,False,4210130874.0,ES,True,ResearchMar,N,unknown
+10.1016/j.eclinm.2023.102307,Münci Yağcı,113.0,middle,False,4210130874.0,ES,True,ResearchMar,Münci,unknown
+10.1186/s13195-022-01068-7,Müge Akinci,1.0,first,False,4210128274.0,ES,True,ResearchMar,Müge,female
+10.1088/2515-7639/acc893,Mónica Lira‐Cantú,41.0,middle,False,4210093216.0,ES,True,ICN2,Mónica,female
+10.1007/s00428-023-03608-4,Mònica Gonzàlez‐Farré,1.0,first,True,4210130874.0,ES,True,ResearchMar,Mònica,unknown
+10.1186/s12933-022-01657-8,Muriel Rolland,76.0,middle,False,4210156109.0,ES,True,ResearchMar,Muriel,female
+10.1038/s43247-024-01385-9,Mukund Palat Rao,3.0,middle,False,152304114.0,US,True,CREAF,Mukund,unknown
+10.1016/j.ijantimicag.2024.107202,Montserrat Sanmartí,101.0,middle,True,4210153460.0,ES,True,ResearchMar,Montserrat,female
+10.1186/s12894-023-01344-0,Montse Ferrer,39.0,middle,False,4210154894.0,ES,True,ResearchMar,Montse,female
+10.1136/bmjopen-2020-046346,Monique Messaggi-Sartor,1.0,first,False,123044942.0,ES,True,ResearchMar,Monique,female
+10.1016/j.mattod.2021.06.015,Mohammad Amin Farahmand Nejad,1.0,first,False,4210093216.0,ES,True,ICN2,Mohammad,male
+10.1111/1365-2664.14609,Miriam Selwyn,1.0,first,True,4210129656.0,ES,True,CREAF,Miriam,female
+10.3390/jcm12062339,Miren Vicente Elcano,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Miren,female
+10.1002/mnfr.202100363,Mireia Malcampo,50.0,middle,False,,,True,ResearchMar,Mireia,female
+10.1002/smll.202102753,Mirco Panighel,7.0,middle,False,4210093216.0,ES,True,ICN2,Mirco,male
+10.1038/s41591-023-02610-2,Miquel Porta,559.0,middle,False,4210156109.0,ES,True,ResearchMar,Miquel,male
+10.1111/codi.16454,Miguél Pera,35.0,middle,False,4210156109.0,ES,True,ResearchMar,Miguél,unknown
+10.1007/s00394-020-02415-w,Miguel A. Rubio,851.0,middle,False,,,True,ResearchMar,Miguel,male
+10.1021/acs.est.1c04455,Michiel A. van den Dries,1.0,first,False,4210148332.0,ES,True,ISGlobal,Michiel,male
+10.1016/j.rpsm.2021.02.005,Michelle S.W. Kusters,1.0,first,False,2801952686.0,NL,True,ISGlobal,Michelle,female
+10.1002/smll.202402328,Michele Gastaldo,6.0,middle,False,4210127897.0,CZ,True,ICN2,Michele,female
+10.1111/ele.14500,Michał Bogdziewicz,2.0,middle,False,59411706.0,PL,True,CREAF,Michał,male
+10.1002/alz.14059,Michalis Kassinopoulos,4.0,middle,False,4210128274.0,ES,True,ResearchMar,Michalis,male
+10.1136/bmjopen-2020-044920,Michael Silva-Peñaherrera,1.0,first,True,170486558.0,ES,True,ResearchMar,Michael,male
+10.3390/antibiotics10101149,Merçè Espona,1.0,first,False,4210130874.0,ES,True,ResearchMar,Merçè,unknown
+10.1007/s00027-021-00810-x,Meritxell Abril,1.0,first,True,115304662.0,ES,True,BETA,Meritxell,unknown
+10.1186/s12912-021-00716-x,Mercè Soler-Font,1.0,first,False,4210156109.0,ES,True,ResearchMar,Mercè,female
+10.1371/journal.pone.0248538,Mercy Opiyo,1.0,first,True,114292369.0,TZ,True,ISGlobal,Mercy,unknown
+10.2337/dc22-2521,Mercedes Rigla,9.0,middle,False,4210137168.0,ES,True,ResearchMar,Mercedes,female
+10.1016/j.socscimed.2022.115634,Melissa García‐Lamarca,3.0,middle,False,4210156109.0,ES,True,ResearchMar,Melissa,female
+10.1093/jac/dkac040,Melisa Barrantes-González,1.0,first,False,4210156109.0,ES,True,ResearchMar,Melisa,female
+10.1016/j.ijhydene.2023.02.033,Mehdi Torabi Goodarzi,4.0,middle,False,4210093216.0,ES,True,ICN2,Mehdi,male
+10.1016/j.dib.2020.106658,Meelan Thondoo,1.0,first,True,4210148332.0,ES,True,ISGlobal,Meelan,unknown
+10.1016/j.envres.2020.110446,Małgorzata J. Lubczyńska,1.0,first,False,4210154894.0,ES,True,ISGlobal,Małgorzata,female
+10.1371/journal.pone.0266305,Mayra Orillo Sarmiento,18.0,middle,True,4210130874.0,ES,True,ResearchMar,Mayra,female
+10.1038/s41598-023-46126-8,Max Hardy-Werbin,1.0,first,False,4210130874.0,ES,True,ResearchMar,Max,male
+10.1073/pnas.2026733119,Maurizio Mencuccini,36.0,middle,False,4210129656.0,ES,True,CREAF,Maurizio,male
+10.1016/j.it.2023.04.003,Mauricio Guzmán,3.0,middle,False,4210156109.0,ES,True,ResearchMar,Mauricio,male
+10.1016/j.carbon.2021.10.028,Matthieu J. Verstraete,2.0,middle,False,4210130123.0,BE,True,ICN2,Matthieu,male
+10.1016/j.oftale.2021.07.006,Matthias Marti,4.0,middle,False,4210133106.0,ES,True,ResearchMar,Matthias,male
+10.1007/s12671-021-01794-3,Matilde Elices,1.0,first,False,4210156109.0,ES,True,ResearchMar,Matilde,female
+10.1016/j.compenvurbsys.2021.101653,Matilda van den Bosch,6.0,last,False,2801357902.0,ES,True,ISGlobal,Matilda,female
+10.1186/s12936-021-03690-6,Matiana González-Silva,1.0,first,False,4210148332.0,ES,True,ISGlobal,Matiana,unknown
+10.1016/j.gaceta.2024.102360,Mateu Serra‐Prat,2.0,middle,True,4210101563.0,ES,True,ResearchMar,Mateu,male
+10.1002/smll.202306167,Massimo Urban,1.0,first,False,4210093216.0,ES,True,ICN2,Massimo,male
+10.1088/2515-7639/acc893,Masoud Karimipour,35.0,middle,False,4210093216.0,ES,True,ICN2,Masoud,male
+10.1016/j.colsurfa.2023.131853,Marı́a Escudero-Escribano,3.0,middle,False,4210093216.0,ES,True,ICN2,Marı́a,unknown
+10.1093/jac/dkab321,María‐Jesús Pinazo,58.0,middle,False,,,True,ISGlobal,María‐Jesús,unknown
+10.1007/s00423-023-03063-4,María-José Pons-Fragero,4.0,middle,False,4210130874.0,ES,True,ResearchMar,María-José,unknown
+10.1016/j.mrrev.2022.108415,María Foraster,35.0,middle,False,4210154894.0,ES,True,ResearchMar,María,mostly_female
+10.3390/foods10051059,Mary Cano‐Sarabia,2.0,middle,False,4210093216.0,ES,True,ICN2,Mary,mostly_female
+10.1021/acsphotonics.1c01614,Martín F. Colombano,2.0,middle,False,4210093216.0,ES,True,ICN2,Martín,male
+10.1016/j.jaci.2022.07.007,Martyna Filipska,2.0,middle,False,2801864671.0,ES,True,ResearchMar,Martyna,female
+10.1007/s10654-021-00733-9,Martine Vrijheid,35.0,middle,False,4210148332.0,ES,True,ISGlobal,Martine,female
+10.1016/j.jaad.2020.10.046,Marta Ferrán Farrés,52.0,middle,False,,,True,ResearchMar,Marta,female
+10.1007/s11356-021-18364-8,Mark Nieuwenhuijsen,1.0,first,False,170486558.0,ES,True,ISGlobal,Mark,male
+10.1088/2053-1583/ac6fec,Marius V. Costache,3.0,middle,False,4210093216.0,ES,True,ICN2,Marius,male
+10.3389/fmicb.2022.935378,Marisol Felip,2.0,middle,False,4210129656.0,ES,True,CREAF,Marisol,female
+10.1186/s12877-021-02715-8,Marisa Baré,1.0,first,False,4210115578.0,ES,True,ResearchMar,Marisa,female
+10.1111/acel.14194,Mariona Bustamante,57.0,middle,False,4210154894.0,ES,True,ResearchMar,Mariona,unknown
+10.1093/hmg/ddac158,Mario Cáceres,328.0,middle,False,4210104448.0,ES,True,ResearchMar,Mario,male
+10.1007/s00134-024-07509-1,Marine Clea Renard,24.0,middle,False,4210136145.0,ES,True,ResearchMar,Marine,female
+10.3390/land10020144,Marina Palmero‐Iniesta,50.0,middle,False,4210129656.0,ES,True,CREAF,Marina,female
+10.1016/j.arbres.2024.11.015,Mariela Alvarado-Miranda,1.0,first,False,4210133106.0,ES,True,ResearchMar,Mariela,female
+10.1007/s10113-024-02189-5,Maricel Jadith Móstiga Rodríguez,1.0,first,False,123044942.0,ES,True,CREAF,Maricel,male
+10.1038/s41586-023-05772-8,Maribel Casas,249.0,middle,False,4210148332.0,ES,True,ResearchMar,Maribel,female
+10.1016/j.bios.2024.116079,Marianna Rossetti,1.0,first,True,4210093216.0,ES,True,ICN2,Marianna,female
+10.37201/req/037.2021,Mariana Fernández-Pittol,35.0,middle,False,4210160192.0,ES,True,ISGlobal,Mariana,female
+10.1007/s13304-024-01859-7,Mariagiulia Dal Cero,807.0,middle,False,,,True,ResearchMar,Mariagiulia,unknown
+10.1093/ije/dyae063,Maria Elías,35.0,middle,False,4210148332.0,ES,True,ResearchMar,Maria,female
+10.1038/s41598-022-09771-z,Margarita Posso,51.0,middle,False,4210130874.0,ES,True,ResearchMar,Margarita,female
+10.1016/j.jmoldx.2022.02.003,Marcos López‐Sánchez,86.0,middle,False,,,True,ResearchMar,Marcos,male
+10.1016/j.gie.2022.12.013,Marco Antonio Álvarez,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Marco,male
+10.1002/jmd2.12342,Marcio Andrade‐Campos,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Marcio,male
+10.1007/s13304-024-01859-7,Marc Beisani,381.0,middle,False,123338534.0,IT,True,ResearchMar,Marc,male
+10.3389/fpsyt.2023.1279688,Mara Dierssen,34.0,last,False,4210137962.0,ES,True,ResearchMar,Mara,female
+10.1093/bjs/znac322,Mar Iglesias,53.0,middle,False,,,True,ResearchMar,Mar,female
+10.1016/j.agrformet.2022.109019,Manuela Balzarolo,2.0,middle,False,4210129656.0,ES,True,CREAF,Manuela,female
+10.1016/j.jpsychires.2022.02.009,Manuel Alonso,37.0,middle,False,4210154894.0,ES,True,ResearchMar,Manuel,male
+10.1016/j.ebiom.2023.104616,Manolis Kogevinas,60.0,middle,False,4210148332.0,ES,True,ResearchMar,Manolis,male
+10.1007/s12094-023-03272-9,Manel López,3.0,middle,False,170486558.0,ES,True,ResearchMar,Manel,male
+10.1007/s00423-023-03063-4,Maite de Miguel-Palacio,1.0,first,True,123044942.0,ES,True,ResearchMar,Maite,female
+10.1001/jamanetworkopen.2022.50921,Mahnaz Shekari,287.0,middle,False,,,True,ResearchMar,Mahnaz,female
+10.1186/s13195-021-00810-x,Magdalena Arnal,4.0,middle,False,4210136145.0,ES,True,ResearchMar,Magdalena,female
+10.1038/s41591-023-02610-2,Magda Gasull,236.0,middle,False,4210154894.0,ES,True,ResearchMar,Magda,female
+10.1093/bjsopen/zrae080,Ma de Gracia García Ramírez,82.0,middle,False,4210130874.0,ES,True,ResearchMar,Ma,andy
+10.1080/21678421.2021.2024856,M.Á. Rubio,43.0,middle,False,4210130874.0,ES,True,ResearchMar,M.Á.,unknown
+10.1016/j.jinf.2022.12.027,M.P. Gracia,155.0,middle,False,4210130874.0,ES,True,ResearchMar,M.P.,unknown
+10.1016/j.jfo.2021.01.037,M.J. Quiroz Quiroga,1.0,first,False,4210133106.0,ES,True,ResearchMar,M.J.,unknown
+10.1016/j.nrleng.2021.09.001,M.B. Beltrán Mármol,3.0,middle,False,4210130874.0,ES,True,ResearchMar,M.B.,unknown
+10.1016/j.nrl.2020.12.001,M.A. Rubio,3.0,last,True,4210130874.0,ES,True,ResearchMar,M.A.,unknown
+10.1001/jamanetworkopen.2022.50921,M. Castilla,75.0,middle,False,,,True,ResearchMar,M.,unknown
+10.1007/s00394-020-02415-w,M Bello,661.0,middle,False,4210130874.0,ES,True,ResearchMar,M,unknown
+10.1016/j.aca.2021.338254,Lívia Neves Borgheti-Cardoso,3.0,middle,False,4210147769.0,ES,True,ISGlobal,Lívia,female
+10.1073/pnas.2115033119,Lídia Vendrell-Puigmitjà,42.0,middle,False,115304662.0,ES,True,BETA,Lídia,female
+10.1136/jnis-2023-021103,Léopoldo Guimaraens,1.0,first,False,4210119948.0,ES,True,ResearchMar,Léopoldo,unknown
+10.1093/ije/dyae063,Léa Maître,48.0,middle,False,,,True,ResearchMar,Léa,female
+10.1111/epi.17033,Luísa Panadés‐de Oliveira,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Luísa,female
+10.1038/s41467-021-24979-9,Luís Izquierdo,35.0,middle,False,4210148332.0,ES,True,ISGlobal,Luís,male
+10.1128/spectrum.02967-23,Luisa Sorlí,1.0,first,False,4210130874.0,ES,True,ResearchMar,Luisa,female
+10.3390/ijerph19063628,Luis-Eugenio López,6.0,middle,False,4210133106.0,ES,True,ResearchMar,Luis-Eugenio,unknown
+10.1016/j.jval.2021.03.021,Luis Gları́a,47.0,middle,False,4210136145.0,ES,True,ResearchMar,Luis,male
+10.1093/ibd/izab015,Luigi Melcarne,8.0,middle,False,,,True,ResearchMar,Luigi,male
+10.1177/17562848231221713,Lucía Márquez,52.0,middle,False,4210130874.0,ES,True,ResearchMar,Lucía,female
+10.1177/20458940211018074,Lucilla Piccari,1.0,first,False,4210130874.0,ES,True,ResearchMar,Lucilla,female
+10.1186/s12966-024-01639-x,Luciana Pons-Muzzo,1.0,first,False,4210148332.0,ES,True,ResearchMar,Luciana,female
+10.1093/ecco-jcc/jjae011,Lucia Marquez Mosquera,37.0,middle,False,4210130874.0,ES,True,ResearchMar,Lucia,female
+10.1016/j.pan.2022.07.007,Lucas Ilzarbe,535.0,middle,False,,,True,ResearchMar,Lucas,male
+10.1016/j.agwat.2023.108613,Luca Da Sois,1.0,first,True,4210129656.0,ES,True,CREAF,Luca,male
+10.1021/acsanm.2c04915,Lourdes Rivas,1.0,first,True,4210093216.0,ES,True,ICN2,Lourdes,female
+10.1073/pnas.2115033119,Lorenzo Proia,35.0,middle,False,115304662.0,ES,True,BETA,Lorenzo,male
+10.3390/diagnostics11091634,Lorena Marimón,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Lorena,female
+10.3390/nu16234018,Loreley Betancourt,3.0,middle,False,4210115578.0,ES,True,ResearchMar,Loreley,unknown
+10.1038/s41598-021-85485-y,Lola Madrid,3.0,middle,False,4210148332.0,ES,True,ISGlobal,Lola,female
+10.3390/biomedicines9091278,Lluı́s Espinosa,1.0,first,True,4210158561.0,ES,True,ResearchMar,Lluı́s,unknown
+10.1038/s41467-024-50873-1,Lluís Gómez-Gener,48.0,middle,False,4210129656.0,ES,True,CREAF,Lluís,unknown
+10.1016/j.eimce.2023.07.002,Lluisa Sorlí Redó,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Lluisa,female
+10.1016/j.avsg.2022.12.077,Lluis Nieto Fernández,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Lluis,male
+10.4269/ajtmh.19-0783,Llorenç Quintó,3.0,middle,False,4210148332.0,ES,True,ISGlobal,Llorenç,unknown
+10.3390/biomedicines9101347,Liyun Qin,1.0,first,False,170486558.0,ES,True,ResearchMar,Liyun,unknown
+10.1016/j.envres.2020.110505,Livia Pierotti,4.0,middle,False,170486558.0,ES,True,ISGlobal,Livia,female
+10.1016/j.envint.2020.106278,Liudmila Liutsko,1.0,first,True,2801357902.0,ES,True,ISGlobal,Liudmila,female
+10.1111/cobi.14250,Lisieux Fuzessy,1.0,first,True,879563668.0,BR,True,CREAF,Lisieux,unknown
+10.1021/jacs.4c07194,Lingxin Meng,1.0,first,False,4210093216.0,ES,True,ICN2,Lingxin,unknown
+10.1002/aelm.202201224,Linda‐Sheila Medondjio,2.0,middle,False,4210093216.0,ES,True,ICN2,Linda‐Sheila,unknown
+10.1021/acsami.4c01744,Liming Hu,1.0,first,False,4210093216.0,ES,True,ICN2,Liming,unknown
+10.1038/s41598-023-42495-2,Lilian Marie Boll,1.0,first,False,4210130874.0,ES,True,ResearchMar,Lilian,female
+10.1002/ejp.1930,Lilia I. Correa,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Lilia,female
+10.1111/bjh.17087,Lierni Fernández‐Ibarrondo,2.0,middle,False,4210136145.0,ES,True,ResearchMar,Lierni,unknown
+10.1016/j.scitotenv.2023.163491,Liehua Tie,1.0,first,False,178232147.0,CN,True,CREAF,Liehua,unknown
+10.1093/braincomms/fcad351,Lidia C Gispert,53.0,middle,False,4210128274.0,ES,True,ResearchMar,Lidia,female
+10.1007/s13304-024-01859-7,Leyre Lorente-Poch,415.0,middle,False,,,True,ResearchMar,Leyre,unknown
+10.1016/j.wneu.2024.08.144,Leopoldo Guimaraens,2.0,middle,False,4210119948.0,ES,True,ResearchMar,Leopoldo,male
+10.1038/s41408-023-00909-4,Leonor Arenillas,34.0,middle,False,4210130874.0,ES,True,ResearchMar,Leonor,female
+10.1016/j.bonr.2022.101181,Leonardo Mellibovsky,2.0,middle,False,2801357902.0,ES,True,ResearchMar,Leonardo,male
+10.1038/s41467-024-45171-9,Leire de Campos‐Mata,1.0,first,False,4210130874.0,ES,True,ResearchMar,Leire,female
+10.1021/acsami.2c20859,Lei Zhao,1.0,first,False,4210093216.0,ES,True,ICN2,Lei,andy
+10.1002/celc.202300517,Leandro Nicolás Bengoa,1.0,first,True,4210093216.0,ES,True,ICN2,Leandro,male
+10.1186/s12890-022-01827-0,Leandra Domínguez Olivera,14.0,middle,False,4210153292.0,ES,True,ResearchMar,Leandra,female
+10.1186/s13054-021-03727-x,Laura Rodríguez,197.0,middle,False,4210151664.0,ES,True,ResearchMar,Laura,female
+10.1186/s13195-021-00810-x,Lara Nonell,3.0,middle,False,4210156109.0,ES,True,ResearchMar,Lara,female
+10.1016/j.nefroe.2023.02.007,Laia Sans,1.0,first,False,4210130874.0,ES,True,ResearchMar,Laia,female
+10.1371/journal.pone.0256918,LIuis Brotons,3.0,middle,True,4210129656.0,ES,True,CREAF,LIuis,unknown
+10.1016/j.rceng.2022.03.009,L.E. Castillero-Díaz,7.0,middle,False,4210130874.0,ES,True,ResearchMar,L.E.,unknown
+10.1111/bjd.20703,L. Soueid,1.0,first,False,4210148332.0,ES,True,ISGlobal,L.,unknown
+10.1016/j.envres.2023.116965,L Campi,4.0,middle,False,4210130874.0,ES,True,ResearchMar,L,unknown
+10.1038/s41598-021-91275-3,Kyriaki Papantoniou,1.0,first,True,76134821.0,AT,True,ISGlobal,Kyriaki,female
+10.1002/ijc.34577,Kurt Straíf,2.0,middle,False,103531236.0,US,True,ResearchMar,Kurt,male
+10.7554/elife.65655,Krijn P. Paaijmans,3.0,middle,False,4210148332.0,ES,True,ISGlobal,Krijn,male
+10.1136/bmjgh-2020-003257,Koya C. Allen,1.0,first,True,4210148332.0,ES,True,ISGlobal,Koya,unknown
+10.1038/s44287-024-00020-1,Kostas Kostarelos,1.0,first,False,4210093216.0,ES,True,ICN2,Kostas,male
+10.3389/fnut.2022.967967,Klaus Langohr,3.0,middle,False,9617848.0,ES,True,ResearchMar,Klaus,male
+10.1016/j.arbres.2020.09.005,Klara Almagro,5.0,middle,False,4210133106.0,ES,True,ResearchMar,Klara,female
+10.1038/s41377-022-01008-y,Klaas‐Jan Tielrooij,1.0,first,True,4210093216.0,ES,True,ICN2,Klaas‐Jan,unknown
+10.5498/wjp.v11.i10.854,Khadija El Abidi,1.0,first,False,4210133106.0,ES,True,ResearchMar,Khadija,female
+10.3390/rs13142806,Kevin Bórnez,1.0,first,True,4210129656.0,ES,True,CREAF,Kevin,male
+10.1088/2515-7639/acc893,Kenedy Tabah,37.0,middle,False,4210093216.0,ES,True,ICN2,Kenedy,unknown
+10.1038/s41467-021-24673-w,Kelly Safreed‐Harmon,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Kelly,mostly_female
+10.1016/j.envint.2024.108604,Kellie L.H.A. Crooijmans,1.0,first,False,2801357902.0,ES,True,ResearchMar,Kellie,mostly_female
+10.1111/tmi.13714,Kate Whitfield,1.0,first,True,4210148332.0,ES,True,ISGlobal,Kate,female
+10.1159/000536064,Karys Khilzi,2.0,middle,False,4210136145.0,ES,True,ResearchMar,Karys,unknown
+10.1007/s00204-023-03557-6,Karolina Kopańska,1.0,first,False,170486558.0,ES,True,ResearchMar,Karolina,female
+10.1007/s00394-020-02415-w,Karla Alejandra Pérez‐Vega,299.0,middle,False,,,True,ResearchMar,Karla,female
+10.1001/jamanetworkopen.2022.50921,Karine Fauria,125.0,middle,False,,,True,ResearchMar,Karine,female
+10.1186/s12955-022-01955-5,Karina Mayoral,1.0,first,False,4210154894.0,ES,True,ResearchMar,Karina,female
+10.3390/jcm11010216,Karen Nolivos,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Karen,female
+10.1021/acsnano.4c05278,Kapil Gupta,5.0,middle,False,4210093216.0,ES,True,ICN2,Kapil,male
+10.1016/j.ese.2024.100445,Júlio C. López-Doval,3.0,middle,False,115304662.0,ES,True,BETA,Júlio,male
+10.3390/nu13072471,Júlia Muñoz-Martínez,47.0,middle,False,4210156109.0,ES,True,ResearchMar,Júlia,female
+10.1039/d3mh01935g,Jéssica Casandra Ramírez,3.0,middle,False,4210093216.0,ES,True,ICN2,Jéssica,unknown
+10.1002/adfm.202105767,Jérémie Maire,1.0,first,True,4210160189.0,FR,True,ICN2,Jérémie,male
+10.3390/nano11113089,Junda Zhang,1.0,first,False,4210093216.0,ES,True,ICN2,Junda,unknown
+10.1016/j.jcis.2022.04.170,Jun-Jie Zhu,1.0,first,True,4210093216.0,ES,True,ICN2,Jun-Jie,andy
+10.1016/j.arbres.2020.07.021,Jun Tang,1.0,first,False,4210133106.0,ES,True,ResearchMar,Jun,mostly_male
+10.1093/ijnp/pyab051,Julián Andrés Mateus,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Julián,male
+10.3389/fmed.2020.607786,Julio Pascual,46.0,middle,False,4210156109.0,ES,True,ResearchMar,Julio,male
+10.1002/hep.32237,Julieta Politi,1.0,first,False,2801357902.0,ES,True,ResearchMar,Julieta,female
+10.1002/advs.202104758,Juliana Jaramillo-Fernández,1.0,first,True,4210093216.0,ES,True,ICN2,Juliana,female
+10.1007/s40121-021-00416-8,Julian González-Martín,2.0,middle,False,71999127.0,ES,True,ISGlobal,Julian,male
+10.1016/j.scitotenv.2023.167713,Julia García‐Oteyza,1.0,first,True,4210129656.0,ES,True,CREAF,Julia,female
+10.1289/ehp9073,Julen Egiguren,1.0,first,False,4210148332.0,ES,True,ISGlobal,Julen,male
+10.1016/j.jinf.2022.12.027,Judith Marín‐Corral,144.0,middle,False,2802353815.0,ES,True,ResearchMar,Judith,female
+10.1016/j.jinf.2022.12.027,Judit Bigas,148.0,middle,False,4210130874.0,ES,True,ResearchMar,Judit,female
+10.1080/09513590.2023.2242951,Juana-Antonia Flores-Le Roux,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Juana-Antonia,unknown
+10.1016/j.jhazmat.2020.124256,Juana María Delgado-Saborit,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Juana,female
+10.1038/s41380-020-00987-x,Juan R. González,45.0,middle,False,4210148332.0,ES,True,ISGlobal,Juan,male
+10.2337/dc22-2344,José-Miguel González-Clemente,1.0,first,True,2801357902.0,ES,True,ResearchMar,José-Miguel,unknown
+10.1136/ijgc-2024-005427,José-Antonio Pereira,4.0,middle,False,4210130874.0,ES,True,ResearchMar,José-Antonio,unknown
+10.1016/j.ijcard.2021.01.051,José Vicente Brasó Aznar,72.0,middle,False,4210115956.0,ES,True,ResearchMar,José,male
+10.1038/s41388-021-01879-2,Josune Alonso‐Marañón,1.0,first,False,4210158561.0,ES,True,ResearchMar,Josune,female
+10.3390/ijerph20085502,Josep‐Maria Solé‐Sedeño,1.0,first,False,170486558.0,ES,True,ResearchMar,Josep‐Maria,unknown
+10.1016/j.eururo.2023.04.020,Josep Lloreta,53.0,middle,False,1334819555.0,US,True,ResearchMar,Josep,male
+10.1016/j.cej.2024.148674,Jose Bolaños-Cardet,1.0,first,False,4210093216.0,ES,True,ICN2,Jose,male
+10.1039/d1cc07034g,Jorge Albalad,1.0,first,True,5681781.0,AU,True,ICN2,Jorge,male
+10.1249/mss.0000000000002578,Joren Buekers,1.0,first,True,4210148332.0,ES,True,ISGlobal,Joren,male
+10.1016/j.eimc.2021.03.016,Jordina Munrós,1.0,first,False,4210148332.0,ES,True,ISGlobal,Jordina,unknown
+10.1038/s41597-022-01774-9,Jordi Sardans,119.0,middle,False,4210129656.0,ES,True,CREAF,Jordi,male
+10.1016/j.reuma.2020.04.008,Jone Llorente‐Onaindia,2.0,middle,True,4210156109.0,ES,True,ResearchMar,Jone,female
+10.7554/elife.76344,Jolle W. Jolles,1.0,first,False,4210129656.0,ES,True,CREAF,Jolle,male
+10.1680/jtran.19.00061,John E. Thornes,1.0,first,True,2803054517.0,IN,True,ISGlobal,John,male
+10.1111/1365-2745.13752,Jofre Carnicer,1.0,first,True,71999127.0,ES,True,CREAF,Jofre,unknown
+10.3390/coatings11060662,Joe Sakai,1.0,first,True,4210093216.0,ES,True,ICN2,Joe,male
+10.3390/cancers15041069,Joaquı́n Arribas,3.0,last,True,4387155398.0,,True,ResearchMar,Joaquı́n,unknown
+10.17843/rpmesp.2021.381.5750,Joaquı́m Ruiz,4.0,middle,False,4210148332.0,ES,True,ISGlobal,Joaquı́m,unknown
+10.1103/physrevlett.132.266301,Joaquín Medina Dueñas,1.0,first,False,4210093216.0,ES,True,ICN2,Joaquín,male
+10.1080/14787210.2021.1873130,Joaquím Gascón,2.0,middle,False,71999127.0,ES,True,ISGlobal,Joaquím,unknown
+10.1002/adfm.202404113,Joaquin Llacer‐Wintle,1.0,first,False,4210159154.0,CN,True,ICN2,Joaquin,unknown
+10.1093/jac/dkab321,Joaquim Fernández‐Solà,76.0,middle,False,71999127.0,ES,True,ISGlobal,Joaquim,male
+10.1186/s40634-023-00656-2,Joan‐Carles Monllau,6.0,last,False,170486558.0,ES,True,ResearchMar,Joan‐Carles,unknown
+10.5588/pha.21.0052,Joanna Ehrlich,1.0,first,False,4210148332.0,ES,True,ISGlobal,Joanna,female
+10.3390/cancers13122869,Joana Vidal,2.0,middle,False,4210136145.0,ES,True,ResearchMar,Joana,female
+10.1186/s13054-022-03905-5,Joan-Ramon Masclans,43.0,middle,False,4210130874.0,ES,True,ResearchMar,Joan-Ramon,unknown
+10.2337/dc22-2521,Joan-Anton Vallés,10.0,middle,False,4210153292.0,ES,True,ResearchMar,Joan-Anton,unknown
+10.1016/j.drugalcdep.2023.109822,Joan Ignasi Mestre-Pintó,39.0,middle,False,,,True,ResearchMar,Joan,female
+10.1021/acsenergylett.4c02703,Jing Yu,1.0,first,False,4210093216.0,ES,True,ICN2,Jing,andy
+10.1016/j.mex.2024.102969,Jill Litt,11.0,middle,False,2801864671.0,ES,True,CREAF,Jill,female
+10.1002/sstr.202100126,Jiemin Wang,1.0,first,False,4210093216.0,ES,True,ICN2,Jiemin,unknown
+10.1183/23120541.00105-2022,Jianhua Zha,2.0,middle,False,4210164024.0,CN,True,ResearchMar,Jianhua,unknown
+10.1103/physrevb.105.224112,Jiahui Jia,1.0,first,False,4210093216.0,ES,True,ICN2,Jiahui,unknown
+10.1097/j.pain.0000000000003317,Jesús Pujol,60.0,middle,False,4210130874.0,ES,True,ResearchMar,Jesús,mostly_male
+10.1183/13993003.01426-2022,Jessica González,67.0,middle,False,4210133944.0,ES,True,ResearchMar,Jessica,female
+10.1016/j.rec.2021.07.002,Jeroen de Bont,1.0,first,False,4210148332.0,ES,True,ISGlobal,Jeroen,male
+10.1021/acs.jmedchem.2c01717,Jenniffer Linares,1.0,first,False,4210156109.0,ES,True,ResearchMar,Jenniffer,unknown
+10.1111/jvh.13412,Jeffrey V. Lazarus,37.0,middle,False,4210148332.0,ES,True,ISGlobal,Jeffrey,male
+10.1053/j.ajkd.2020.11.011,Javier Gimeno,58.0,middle,False,4210126021.0,ES,True,ResearchMar,Javier,mostly_male
+10.3390/land10020144,Jaume Terradas,72.0,middle,False,123044942.0,ES,True,CREAF,Jaume,male
+10.1111/ina.12865,Jan‐Paul Zock,10.0,middle,False,4210148332.0,ES,True,ISGlobal,Jan‐Paul,unknown
+10.3389/fimmu.2023.1282859,Janet Piñero,44.0,middle,False,4210156109.0,ES,True,ResearchMar,Janet,female
+10.3389/fceng.2022.1084035,Jana Oliveras,1.0,first,False,4210093216.0,ES,True,ICN2,Jana,female
+10.1007/s42974-023-00148-4,Jamie Bookwalter,1.0,first,True,4210129656.0,ES,True,CREAF,Jamie,mostly_female
+10.1126/sciadv.adj1361,Jake D. Mehew,1.0,first,False,4210093216.0,ES,True,ICN2,Jake,male
+10.1136/ejhpharm-2020-002204,Jaime Barceló‐Vidal,1.0,first,False,4210130874.0,ES,True,ResearchMar,Jaime,male
+10.1093/cid/ciac314,Jade Soldado Folgado,35.0,last,False,170486558.0,ES,True,ResearchMar,Jade,female
+10.1007/s00405-021-07127-3,Jacinto Garcı́a,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Jacinto,male
+10.1016/j.acuroe.2022.03.002,J.M. Abascal Junquera,1.0,first,True,4210130874.0,ES,True,ResearchMar,J.M.,unknown
+10.1007/s00428-023-03608-4,J.F. Borrego Masso,6.0,middle,False,4210130874.0,ES,True,ResearchMar,J.F.,unknown
+10.1016/j.gastrohep.2022.11.005,J.A. Carrión,1.0,first,True,4210156109.0,ES,True,ResearchMar,J.A.,unknown
+10.1093/cid/ciac314,J. Morera,34.0,middle,False,170486558.0,ES,True,ResearchMar,J.,unknown
+10.1016/j.semerg.2024.102274,J M Bellmunt,2.0,middle,False,170486558.0,ES,True,ResearchMar,J,unknown
+10.1038/s43018-022-00339-4,Iván Pérez-Núñez,1.0,first,False,4210156109.0,ES,True,ResearchMar,Iván,male
+10.1007/s00428-021-03091-9,Ivonne Vázquez,1.0,first,False,4210156109.0,ES,True,ResearchMar,Ivonne,female
+10.3390/rs15102570,Ivette Serral,3.0,last,False,4210129656.0,ES,True,CREAF,Ivette,female
+10.1093/rheumatology/kead223,Ivan Camilo Garcia-Duitama,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Ivan,male
+10.1111/ijd.15515,Itziar Arrieta Aldea,4.0,middle,False,4210133106.0,ES,True,ResearchMar,Itziar,female
+10.1016/j.jpsychires.2022.02.009,Itxaso Alayo,36.0,middle,False,4210154894.0,ES,True,ResearchMar,Itxaso,female
+10.1016/j.arr.2022.101814,Israel Contador,1.0,first,True,4210130874.0,ES,True,ResearchMar,Israel,male
+10.1371/journal.pcbi.1008936,Ismael Rodríguez‐Espigares,2.0,middle,True,4210156109.0,ES,True,ResearchMar,Ismael,male
+10.1002/nop2.1777,Isidro Alcalá‐Jiménez,1.0,first,False,4210156109.0,ES,True,ResearchMar,Isidro,male
+10.1667/rade-20-00231.1,Isabelle Thierry-Chef,1.0,first,False,170486558.0,ES,True,ISGlobal,Isabelle,female
+10.1016/j.ijcard.2021.01.051,Isabel Cirera Lorenzo,75.0,middle,False,4210158107.0,ES,True,ResearchMar,Isabel,female
+10.1021/jacs.2c11185,Isaac Alcón,1.0,first,True,4210093216.0,ES,True,ICN2,Isaac,male
+10.1371/journal.pone.0255226,Irène Jimeno,1.0,first,True,4210148332.0,ES,True,ISGlobal,Irène,female
+10.1016/j.watres.2023.119568,Iro Evlampidou,2.0,middle,False,4210148332.0,ES,True,ResearchMar,Iro,female
+10.1098/rsos.230063,Irina V. Lebedeva,1.0,first,True,4210117190.0,ES,True,ICN2,Irina,female
+10.1136/lupus-2023-001096,Irene Carrión-Barberá,35.0,middle,False,4210130874.0,ES,True,ResearchMar,Irene,female
+10.1002/aelm.202100650,Irena Spasojević,1.0,first,False,123044942.0,ES,True,ICN2,Irena,female
+10.2105/ajph.2021.306260,Ione Ávila-Palència,2.0,last,False,72816309.0,US,True,ISGlobal,Ione,female
+10.3390/rs15082207,Iolanda Filella,1.0,first,True,4401200259.0,,True,CREAF,Iolanda,female
+10.1016/j.envint.2021.106662,Ioar Rivas,1.0,first,True,183935753.0,GB,True,ISGlobal,Ioar,unknown
+10.1016/j.jclinepi.2023.04.011,Inés Cobo,3.0,middle,False,170486558.0,ES,True,ResearchMar,Inés,female
+10.1093/cid/ciad780,Inmaculada López-Montesinos,1038.0,middle,False,,,True,ResearchMar,Inmaculada,female
+10.1002/sstr.202100126,Inhar Imaz,2.0,middle,True,4210093216.0,ES,True,ICN2,Inhar,unknown
+10.3390/su132313414,Indu Sharma,1.0,first,True,865915315.0,NL,True,ISGlobal,Indu,female
+10.4155/bio-2023-0118,Indira Anselmo,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Indira,female
+10.1016/j.isci.2023.106886,Ilario De Toma,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Ilario,male
+10.21037/jss-23-147,Igor Radalov,1.0,first,False,4210130874.0,ES,True,ResearchMar,Igor,male
+10.1111/ans.18649,Ignasi Poves,4.0,middle,False,4210147572.0,ES,True,ResearchMar,Ignasi,male
+10.1016/j.jmoldx.2022.02.003,Ignacio Blanco,66.0,middle,False,,,True,ResearchMar,Ignacio,male
+10.12961/aprl.2021.24.03.03,Ignacia Chercoles López,1.0,first,False,4210133106.0,ES,True,ResearchMar,Ignacia,female
+10.1002/ece3.7734,Ifigenia Urbina,1.0,first,True,4210129656.0,ES,True,CREAF,Ifigenia,female
+10.1016/j.ad.2024.09.019,I. García-Doval,34.0,middle,False,2802353815.0,ES,True,ResearchMar,I.,unknown
+10.25270/jic/23.00272,Héctor Cubero-Gallego,1.0,first,False,170486558.0,ES,True,ResearchMar,Héctor,male
+10.1016/j.scitotenv.2024.171310,Huijun Ye,1.0,first,False,178232147.0,CN,True,CREAF,Huijun,unknown
+10.1016/j.ufug.2022.127818,Hua‐Feng Wang,5.0,last,True,20942203.0,CN,True,CREAF,Hua‐Feng,unknown
+10.1016/j.surg.2020.10.002,Higinio Cao,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Higinio,male
+10.1016/j.envpol.2021.117220,Hicham Achebak,1.0,first,True,4210121658.0,ES,True,ISGlobal,Hicham,male
+10.37201/req/004.2022,Hernando Knobel,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Hernando,male
+10.1038/s41430-022-01124-3,Helmut Schröder,47.0,middle,False,4210154894.0,ES,True,ResearchMar,Helmut,male
+10.1093/jac/dkab321,Helena Martí-Soler,56.0,middle,False,4210160192.0,ES,True,ISGlobal,Helena,female
+10.1016/j.socscimed.2021.113907,Helen Cole,1.0,first,True,4210130874.0,ES,True,ResearchMar,Helen,female
+10.1186/s13063-021-05236-2,Hansel Mundaca,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Hansel,unknown
+10.1016/j.annepidem.2020.08.063,Haneen Khreis,1.0,first,True,4210154894.0,ES,True,ISGlobal,Haneen,unknown
+10.1088/2515-7639/acc893,Haibing Xie,40.0,middle,False,180726961.0,CN,True,ICN2,Haibing,unknown
+10.1111/jon.12849,Gérardo Conesa,7.0,middle,False,4210130874.0,ES,True,ResearchMar,Gérardo,unknown
+10.26508/lsa.202201692,Gustavo Deza,3.0,middle,False,4210133106.0,ES,True,ResearchMar,Gustavo,male
+10.1103/physrevb.107.l140102,Gustau Catalán,2.0,middle,False,4210093216.0,ES,True,ICN2,Gustau,male
+10.1038/s41586-023-05772-8,Guillermo Sequera,1295.0,middle,False,4210138422.0,PY,True,ResearchMar,Guillermo,male
+10.15252/embr.202254895,Guillem Fuertes,1.0,first,False,4210156109.0,ES,True,ResearchMar,Guillem,male
+10.1126/science.abo3856,Guille Peguero,73.0,middle,False,123044942.0,ES,True,CREAF,Guille,unknown
+10.1016/j.smrv.2024.101915,Guillaume Chevance,1.0,first,True,4210148332.0,ES,True,ResearchMar,Guillaume,male
+10.1103/physrevlett.130.106903,Guilhem Madiot,1.0,first,False,4210093216.0,ES,True,ICN2,Guilhem,male
+10.1039/d3mh01935g,Gubakhanim Shahnazarova,1.0,first,False,4210093216.0,ES,True,ICN2,Gubakhanim,unknown
+10.3389/fmed.2022.931867,Guadalupe Aguilar,5.0,middle,False,4210130874.0,ES,True,ResearchMar,Guadalupe,female
+10.1186/s13195-021-00781-z,Grégory Operto,35.0,middle,False,,,True,ResearchMar,Grégory,male
+10.37201/req/074.2021,Griselda Tudó Vilanova,4.0,middle,False,4210148332.0,ES,True,ISGlobal,Griselda,female
+10.1016/j.nrleng.2022.02.006,Greta García‐Escobar,1.0,first,True,4210130874.0,ES,True,ResearchMar,Greta,female
+10.3390/jcm13092657,Gregorio Ruiz Morales,4.0,middle,False,4210133106.0,ES,True,ResearchMar,Gregorio,male
+10.1038/s41380-022-01436-7,Gonzalo Sánchez‐Benavides,38.0,middle,False,4210128274.0,ES,True,ResearchMar,Gonzalo,male
+10.1007/s12325-023-02538-6,Glòria Villalba,5.0,middle,False,4210130874.0,ES,True,ResearchMar,Glòria,unknown
+10.1002/erv.2895,Gloria Villalba‐Martínez,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Gloria,female
+10.1038/s41598-024-80840-1,Giulio Rosati,1.0,first,True,4210093216.0,ES,True,ICN2,Giulio,male
+10.1136/ard-2023-224460,Giuliana Magri,44.0,middle,False,4210156109.0,ES,True,ResearchMar,Giuliana,female
+10.1111/jvh.13718,Giulia Pagano,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Giulia,female
+10.1016/j.pmedr.2020.101305,Giselle O’Connor,1.0,first,False,4210148332.0,ES,True,ISGlobal,Giselle,female
+10.1039/d2sd00082b,Gisela Ruiz‐Vega,1.0,first,False,4210105141.0,ES,True,ICN2,Gisela,female
+10.1016/j.remnie.2022.05.011,Gina Parini,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Gina,female
+10.1039/d1ra00885d,Gil Jumbert,1.0,first,False,4210093216.0,ES,True,ICN2,Gil,male
+10.1016/j.ciresp.2020.10.007,Germán Mateu,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Germán,male
+10.1016/j.fas.2023.04.002,Gerardo Ledermann,8.0,last,True,4210133106.0,ES,True,ResearchMar,Gerardo,male
+10.1093/ije/dyae063,Gerard Martínez‐Vilavella,49.0,middle,False,,,True,ResearchMar,Gerard,male
+10.1016/j.nrl.2021.02.010,Georgina Figueras-Aguirre,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Georgina,female
+10.1001/jamanetworkopen.2022.50921,Gemma Salvadó,274.0,middle,False,,,True,ResearchMar,Gemma,female
+10.3390/genes13101686,Gardenia Vargas‐Parra,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Gardenia,unknown
+10.1016/j.agrformet.2023.109698,Gaofei Yin,1.0,first,False,4800084.0,CN,True,CREAF,Gaofei,unknown
+10.1021/acsaelm.4c01533,Gabriele De Luca,4.0,middle,False,4210093216.0,ES,True,ICN2,Gabriele,female
+10.1007/s00127-021-02151-4,Gabriela Barbaglia,59.0,middle,False,,,True,ResearchMar,Gabriela,female
+10.1093/dote/doab005,Gabriel Gil‐Gómez,1.0,first,False,4210130874.0,ES,True,ResearchMar,Gabriel,male
+10.1016/j.jenvman.2024.122982,G. A. Casas,2.0,middle,False,115304662.0,ES,True,BETA,G.,unknown
+10.1182/blood.2024023840,Félix López,13.0,middle,False,4210130874.0,ES,True,ResearchMar,Félix,male
+10.1016/j.lanepe.2023.100701,Frederic Bartumeus,85.0,middle,False,4210101295.0,ES,True,CREAF,Frederic,male
+10.1016/j.jpsychires.2022.02.009,Franco Amigo,40.0,middle,False,4210154894.0,ES,True,ResearchMar,Franco,male
+10.3390/land10020144,Francisco Lloret,39.0,middle,False,4210129656.0,ES,True,CREAF,Francisco,male
+10.1016/j.eimce.2022.05.019,Francisca Sánchez-Martínez,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Francisca,female
+10.1016/j.drugalcdep.2023.109822,Francina Fonseca,38.0,middle,False,4210164724.0,ES,True,ResearchMar,Francina,unknown
+10.1016/j.scitotenv.2020.144792,Francesco Barbero,1.0,first,False,4210093216.0,ES,True,ICN2,Francesco,male
+10.1016/j.arbres.2021.02.003,Francesca Sánchez,1.0,first,False,4210130874.0,ES,True,ResearchMar,Francesca,female
+10.1038/s41380-023-02149-1,Francesc Colom,124.0,middle,False,4210136145.0,ES,True,ResearchMar,Francesc,male
+10.3390/ijerph18158221,Florence Gignac,1.0,first,False,4210148332.0,ES,True,ISGlobal,Florence,female
+10.1039/d2nr07157f,Flavio Della Pelle,1.0,first,False,4210093216.0,ES,True,ICN2,Flavio,male
+10.1021/acsami.1c11710,Filippos Perdikos,3.0,middle,False,4210093216.0,ES,True,ICN2,Filippos,male
+10.1039/d4nh00282b,Fikret Taygun Duvan,1.0,first,False,4210093216.0,ES,True,ICN2,Fikret,male
+10.12688/f1000research.74502.2,Ferrán Sanz,45.0,middle,True,170486558.0,ES,True,ResearchMar,Ferrán,unknown
+10.1111/1346-8138.15662,Ferran Olmos‐Alpiste,1.0,first,True,4210133106.0,ES,True,ResearchMar,Ferran,male
+10.3390/cancers14204972,Fernando Gallardo,1.0,first,True,4210133106.0,ES,True,ResearchMar,Fernando,male
+10.1016/j.jclepro.2024.142546,Felipe S. Campos,2.0,middle,False,4210129656.0,ES,True,CREAF,Felipe,male
+10.1111/dmcn.15517,Federica Turrisi,3.0,middle,False,4210156109.0,ES,True,ResearchMar,Federica,female
+10.17235/reed.2022.8409/2021,Faust Riu,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Faust,unknown
+10.1016/j.watres.2023.119568,Fathelrahman Ibrahim,3.0,middle,False,4210148332.0,ES,True,ResearchMar,Fathelrahman,unknown
+10.1016/j.foreco.2024.121989,Faqrul Islam Chowdhury,1.0,first,True,123044942.0,ES,True,CREAF,Faqrul,unknown
+10.1186/s13075-022-02942-3,Fabiola Ojeda,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Fabiola,female
+10.1039/d0ra09687c,Fabiana Nador,1.0,first,True,4210125789.0,AR,True,ICN2,Fabiana,female
+10.1016/j.drugalcdep.2023.109822,F. Dinamarca,41.0,middle,False,4210164724.0,ES,True,ResearchMar,F.,unknown
+10.1039/d3na00862b,F Morabito,1.0,first,False,4210155236.0,IT,True,ICN2,F,unknown
+10.26508/lsa.202201692,Evelyn Andrades,1.0,first,False,4210136145.0,ES,True,ResearchMar,Evelyn,female
+10.1016/j.sajb.2021.06.035,Evan A.N. Marks,2.0,middle,False,115304662.0,ES,True,BETA,Evan,male
+10.1007/s41999-024-01106-7,Eva-Maria Amor Fernandez,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Eva-Maria,unknown
+10.1093/brain/awac080,Eva Giralt‐Steinhauer,36.0,middle,False,4210156109.0,ES,True,ResearchMar,Eva,female
+10.3390/jcm10215168,Eulàlia Solà-Porta,1.0,first,False,4210130874.0,ES,True,ResearchMar,Eulàlia,unknown
+10.26508/lsa.202201479,Eugènia Abella,1.0,first,True,170486558.0,ES,True,ResearchMar,Eugènia,unknown
+10.2337/dc20-2934,Eugenia Berlanga,5.0,middle,False,4210137168.0,ES,True,ResearchMar,Eugenia,female
+10.1093/jtm/taab100,Ethel Sequeira‐Aymar,1.0,first,False,4210160192.0,ES,True,ISGlobal,Ethel,female
+10.1007/s00406-022-01438-0,Esther Pousa,79.0,middle,False,4210156109.0,ES,True,ResearchMar,Esther,female
+10.1093/ckj/sfac159,Ester Marco,36.0,middle,False,4210111971.0,ES,True,ResearchMar,Ester,female
+10.1093/bjs/znab299,Estela Membrilla,45.0,middle,False,,,True,ResearchMar,Estela,female
+10.1016/j.rpsm.2021.09.005,Estanislao Mur,17.0,middle,False,4210136145.0,ES,True,ResearchMar,Estanislao,unknown
+10.1016/j.medcli.2022.03.005,Esperanza Cañas‐Ruano,1.0,first,False,4210130874.0,ES,True,ResearchMar,Esperanza,female
+10.3390/chemosensors9070162,Ernane de Freitas Martins,1.0,first,False,4210093216.0,ES,True,ICN2,Ernane,unknown
+10.3390/jcm11051166,Ermengol Vallés,1.0,first,True,123044942.0,ES,True,ResearchMar,Ermengol,unknown
+10.1093/ofid/ofac239,Erika Esteve-Palau,1.0,first,False,4210128981.0,ES,True,ResearchMar,Erika,female
+10.1186/s42408-023-00237-9,Erik de Boer,39.0,middle,False,4210129656.0,ES,True,CREAF,Erik,male
+10.1093/ije/dyab115,Eric J. Duell,51.0,middle,False,4210107147.0,ES,True,ResearchMar,Eric,male
+10.1038/s41597-023-02784-x,Enrique Doblas‐Miranda,35.0,middle,False,4210129656.0,ES,True,CREAF,Enrique,male
+10.1016/j.bios.2024.116315,Enric Calucho,1.0,first,False,4210093216.0,ES,True,ICN2,Enric,male
+10.1093/cid/ciab789,Emílio Letang,1.0,first,False,4210148332.0,ES,True,ISGlobal,Emílio,male
+10.1038/s43587-021-00139-y,Emre Güney,1.0,first,True,4210156109.0,ES,True,ResearchMar,Emre,male
+10.1016/j.reumae.2023.07.003,Emma Beltrán Catalán,1.0,first,False,4210130874.0,ES,True,ResearchMar,Emma,female
+10.1111/ijd.15515,Emilio López-Trujillo,1.0,first,True,4210133106.0,ES,True,ResearchMar,Emilio,male
+10.1002/smll.202207949,Emilia Renzi,1.0,first,False,4210093216.0,ES,True,ICN2,Emilia,female
+10.1183/13993003.01426-2022,Emili Dı́az,62.0,middle,False,4210137168.0,ES,True,ResearchMar,Emili,female
+10.3390/en16114509,Emigdio Chávez‐Ángel,1.0,first,False,4210093216.0,ES,True,ICN2,Emigdio,unknown
+10.1136/jnis-2023-021103,Elío Vivas,3.0,middle,False,4210119948.0,ES,True,ResearchMar,Elío,unknown
+10.3390/nano11123365,Elzbieta Pach,2.0,middle,False,4210093216.0,ES,True,ICN2,Elzbieta,unknown
+10.1016/j.msard.2024.105634,Elvira Munteis,1.0,first,False,4210156109.0,ES,True,ResearchMar,Elvira,female
+10.1089/hs.2020.0209,Ellen P. Carlin,1.0,first,False,2800056074.0,US,True,ISGlobal,Ellen,female
+10.1016/j.socscimed.2022.115634,Ella O’Neill,1.0,first,True,4210156109.0,ES,True,ResearchMar,Ella,female
+10.1186/s12877-022-02811-3,Elizabeth da Costa,7.0,middle,False,4210130874.0,ES,True,ResearchMar,Elizabeth,female
+10.3390/jcm10184049,Elisenda Climent,1.0,first,False,4210136145.0,ES,True,ResearchMar,Elisenda,female
+10.1016/j.jmoldx.2022.02.003,Elisabeth Gabau,54.0,middle,False,,,True,ResearchMar,Elisabeth,female
+10.1038/s41564-021-00940-w,Elisabet Tintó-Font,1.0,first,False,4210148332.0,ES,True,ISGlobal,Elisabet,female
+10.1093/jac/dkab321,Elisa Rubio,116.0,middle,True,4210115097.0,ES,True,ISGlobal,Elisa,female
+10.1002/ana.26881,Eleni Palpatzis,1.0,first,False,4210148332.0,ES,True,ResearchMar,Eleni,female
+10.1186/s12884-021-03742-4,Elena Perez,47.0,middle,False,4210133106.0,ES,True,ResearchMar,Elena,female
+10.1093/ajcn/nqab016,Eider M. Arenaza‐Urquijo,2.0,middle,False,4210128274.0,ES,True,ResearchMar,Eider,female
+10.1007/s40261-024-01379-7,Edurne Arriola,1.0,first,True,4210111366.0,ES,True,ResearchMar,Edurne,female
+10.1016/j.ijantimicag.2024.107202,Eduardo Padilla,60.0,middle,False,,,True,ResearchMar,Eduardo,male
+10.1016/j.avsg.2021.10.054,Eduard Casajuana Urgell,1.0,first,False,4210130874.0,ES,True,ResearchMar,Eduard,male
+10.1016/j.jallcom.2023.172713,E. Chikoidze,1.0,first,True,195731000.0,FR,True,ICN2,E.,unknown
+10.1136/ejhpharm-2021-002963,E González-Colominas,1.0,first,False,4210133106.0,ES,True,ResearchMar,E,unknown
+10.1016/j.neuroimage.2021.118150,Dídac Macià,3.0,middle,False,4210130874.0,ES,True,ISGlobal,Dídac,male
+10.3389/fmed.2022.988080,Dàlia Raϊch‐Regué,1.0,first,False,4210130874.0,ES,True,ResearchMar,Dàlia,unknown
+10.2340/actadv.v104.25576,Dulce Soto,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Dulce,female
+10.3390/nu14194142,Dora Romaguera,49.0,last,False,2801357902.0,ES,True,ResearchMar,Dora,female
+10.1021/jacs.4c09077,Dongsik Nam,1.0,first,False,4210093216.0,ES,True,ICN2,Dongsik,unknown
+10.1016/j.jmoldx.2022.02.003,Dolors Pelegrí-Sisó,50.0,middle,False,,,True,ResearchMar,Dolors,female
+10.1016/j.soilbio.2021.108424,Dolores Asensio,1.0,first,True,4210129656.0,ES,True,CREAF,Dolores,female
+10.1038/s41598-021-85945-5,Dilson Juan,1.0,first,False,4210093216.0,ES,True,ICN2,Dilson,unknown
+10.3390/biomedicines11071822,Diego A. Rodríguez,1.0,first,True,4210111366.0,ES,True,ResearchMar,Diego,male
+10.1186/s12890-021-01727-9,Diana Badenes‐Bonet,1.0,first,False,4210130874.0,ES,True,ResearchMar,Diana,female
+10.1016/j.rpsm.2019.12.002,Devi Treen,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Devi,female
+10.1002/joc.6744,Desislava Petrova,1.0,first,True,4210148332.0,ES,True,ISGlobal,Desislava,female
+10.1038/s41467-021-24673-w,Denise Naniche,34.0,middle,False,4210148332.0,ES,True,ISGlobal,Denise,female
+10.3390/nu16183053,Delky Meza-Valderrama,1.0,first,False,4210130874.0,ES,True,ResearchMar,Delky,unknown
+10.3390/antibiotics10050585,Dawid Rozenkiewicz,1.0,first,False,4210156109.0,ES,True,ResearchMar,Dawid,male
+10.1186/s12916-021-02155-6,Davide Rasella,1.0,first,False,4210148332.0,ES,True,ISGlobal,Davide,male
+10.1016/j.jaci.2023.07.019,David Pesqué,82.0,middle,False,170486558.0,ES,True,ResearchMar,David,male
+10.1016/j.bios.2024.116142,Danilo Echeverri,1.0,first,False,4210093216.0,ES,True,ICN2,Danilo,male
+10.1016/j.drugpo.2021.103320,Danielle Guy,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Danielle,female
+10.1007/s00330-022-08834-z,Daniela Perez-Leon,1.0,first,False,4210156109.0,ES,True,ResearchMar,Daniela,female
+10.1177/23969873231185213,Daniel Guisado‐Alonso,78.0,middle,False,2801795740.0,ES,True,ResearchMar,Daniel,male
+10.3390/ani12233236,Dani Villero,1.0,first,True,4210129656.0,ES,True,CREAF,Dani,male
+10.1038/s41565-023-01570-5,Damià Viana,1.0,first,False,4210093216.0,ES,True,ICN2,Damià,unknown
+10.3390/molecules26040973,Damaris Navio,5.0,middle,False,170486558.0,ES,True,ResearchMar,Damaris,female
+10.1016/j.foreco.2021.119970,Daijun Liu,1.0,first,False,4210129656.0,ES,True,CREAF,Daijun,unknown
+10.1016/j.nrleng.2020.11.008,D. Rodríguez Rubio,3.0,last,False,4210133106.0,ES,True,ResearchMar,D.,unknown
+10.1016/j.eururo.2023.04.020,Cònsol Serra,50.0,middle,False,,,True,ResearchMar,Cònsol,unknown
+10.1021/jacs.3c00173,César Moreno,1.0,first,True,13134134.0,ES,True,ICN2,César,male
+10.1021/acs.est.1c01452,Cyntia B. Manzano-Salgado,4.0,middle,False,4210148332.0,ES,True,ISGlobal,Cyntia,female
+10.1016/j.jpsychires.2022.02.009,Cristina Rius,126.0,middle,False,4210121328.0,ES,True,ResearchMar,Cristina,female
+10.1093/gbe/evae126,Covadonga Vara,1.0,first,False,4210130874.0,ES,True,ResearchMar,Covadonga,unknown
+10.1371/journal.pntd.0009831,Cornelius Benecke,2.0,middle,True,4210148332.0,ES,True,ISGlobal,Cornelius,male
+10.1021/jacs.4c00407,Cornelia von Baeckmann,1.0,first,False,4210093216.0,ES,True,ICN2,Cornelia,female
+10.3390/ijms24032580,Coral Ampurdanés,4.0,middle,False,4210136145.0,ES,True,ResearchMar,Coral,female
+10.1007/s10980-021-01347-y,Constantí Stefanescu,2.0,middle,False,4210129656.0,ES,True,CREAF,Constantí,unknown
+10.12961/aprl.2022.25.04.01,Consol Serra Pujadas,1.0,first,False,170486558.0,ES,True,ResearchMar,Consol,unknown
+10.1182/bloodadvances.2021005316,Concepción Fernández‐Rodríguez,1.0,first,False,4210130874.0,ES,True,ResearchMar,Concepción,mostly_female
+10.1016/j.trechm.2022.03.005,Cláudia Pereira,1.0,first,False,4210093216.0,ES,True,ICN2,Cláudia,female
+10.1016/j.ijchp.2022.100303,Clàudia Prats,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Clàudia,unknown
+10.3390/bs14020097,Clos Enríquez Montserrat,20.0,middle,False,4210156109.0,ES,True,ResearchMar,Clos,unknown
+10.1016/j.cmi.2020.07.006,Climent Casals‐Pascual,2.0,middle,False,4210115097.0,ES,True,ISGlobal,Climent,unknown
+10.1111/all.14687,Claudio Alberto Salvador Parisi,65.0,middle,False,2802359038.0,AR,True,ResearchMar,Claudio,male
+10.12961/aprl.2022.25.03.07,Claudia Palma-Vásquez,1.0,first,False,170486558.0,ES,True,ResearchMar,Claudia,female
+10.1016/j.ekir.2023.05.027,Clara Barrios,44.0,middle,False,4210130874.0,ES,True,ResearchMar,Clara,female
+10.4269/ajtmh.19-0783,Cinta Moraleda,1.0,first,False,4210148332.0,ES,True,ISGlobal,Cinta,female
+10.1186/s13063-021-05353-y,Cindry Ramírez-Fuentes,3.0,middle,False,4210111971.0,ES,True,ResearchMar,Cindry,unknown
+10.1186/s13063-021-05621-x,Chukwuemeka Onwuchekwa,3.0,middle,False,4210148332.0,ES,True,ISGlobal,Chukwuemeka,unknown
+10.1007/s00420-024-02057-z,Christophe Vanroelen,1.0,first,True,13469542.0,BE,True,ResearchMar,Christophe,male
+10.1063/5.0059930,Christina Stefani,1.0,first,True,4210093216.0,ES,True,ICN2,Christina,female
+10.1021/acs.chemmater.1c00646,Christian M. Schaefer,1.0,first,False,4210093216.0,ES,True,ICN2,Christian,male
+10.1016/j.tig.2023.02.001,Chris Papadopoulos,1.0,first,True,4210130874.0,ES,True,ResearchMar,Chris,mostly_male
+10.1039/d1ta10296f,Chloé Wulles,2.0,middle,False,899635006.0,FR,True,ICN2,Chloé,female
+10.1016/j.envint.2021.107069,Chelsea E. Langer,48.0,middle,False,4210148332.0,ES,True,ResearchMar,Chelsea,female
+10.3390/cells10092436,Charlotte Denhard,2.0,middle,False,2801864671.0,ES,True,ResearchMar,Charlotte,female
+10.1016/j.envint.2020.106174,Charline Warembourg,1.0,first,True,4210148332.0,ES,True,ISGlobal,Charline,female
+10.1002/adma.202006104,Celia Fuentes‐Chust,1.0,first,False,4210093216.0,ES,True,ICN2,Celia,female
+10.1038/s41598-021-86036-1,Celeste Azpiazu,1.0,first,False,9360294.0,IT,True,CREAF,Celeste,female
+10.1016/j.neuroimage.2024.120780,Cecília Persavento,3.0,middle,False,4210154894.0,ES,True,ResearchMar,Cecília,female
+10.1016/j.envres.2020.110482,Cathryn Tonne,1.0,first,True,4210148332.0,ES,True,ISGlobal,Cathryn,female
+10.1016/j.soilbio.2021.108453,Catherine Preece,1.0,first,True,4210129656.0,ES,True,CREAF,Catherine,female
+10.1371/journal.pone.0251593,Caterina Guinovart,3.0,middle,True,71999127.0,ES,True,ISGlobal,Caterina,female
+10.3389/fphar.2024.1340255,Catalina Lizano-Barrantes,1.0,first,False,4210130874.0,ES,True,ResearchMar,Catalina,female
+10.1016/j.ijheh.2021.113772,Carolyn Daher,2.0,middle,False,4210154894.0,ES,True,ISGlobal,Carolyn,female
+10.1186/s13071-021-04675-9,Caroline Kiuru,2.0,middle,False,71999127.0,ES,True,ISGlobal,Caroline,female
+10.1093/brain/awac080,Carolina Soriano‐Tárraga,35.0,middle,False,4210156109.0,ES,True,ResearchMar,Carolina,female
+10.1002/trc2.12155,Carol Minguillón,4.0,middle,False,4210149569.0,ES,True,ResearchMar,Carol,mostly_female
+10.1007/s11060-023-04513-1,Carmen Balañá,38.0,last,False,4210137002.0,ES,True,ResearchMar,Carmen,female
+10.1007/s11136-022-03327-4,Carme Miret,1.0,first,False,123044942.0,ES,True,ResearchMar,Carme,female
+10.1093/infdis/jiaa696,Carlota Dobaño,37.0,middle,True,4210154894.0,ES,True,ISGlobal,Carlota,female
+10.1088/2515-7639/acc893,Carlos Pereyra,38.0,middle,False,4210093216.0,ES,True,ICN2,Carlos,male
+10.1016/j.recot.2020.10.003,Carlo Gamba,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Carlo,male
+10.1016/j.jmoldx.2022.02.003,Carles Hernández-Ferrer,41.0,middle,False,,,True,ResearchMar,Carles,male
+10.1002/glia.24171,Carla Ramon‐Duaso,1.0,first,False,4210130874.0,ES,True,ResearchMar,Carla,female
+10.1039/d4ta03068k,Camilo A. Mesa,2.0,middle,False,4210093216.0,ES,True,ICN2,Camilo,male
+10.1093/ije/dyae063,Camille Lassale,46.0,middle,False,,,True,ResearchMar,Camille,mostly_female
+10.1038/s41598-021-01885-0,Camila A. Picchio,1.0,first,False,71999127.0,ES,True,ISGlobal,Camila,female
+10.1016/j.redare.2021.05.021,C.E. Moreno,3.0,middle,False,4210130874.0,ES,True,ResearchMar,C.E.,unknown
+10.1016/j.jinf.2022.12.027,C. Vilà,150.0,middle,False,4210130874.0,ES,True,ResearchMar,C.,unknown
+10.1093/cid/ciac314,C Gimenez Argente,29.0,middle,False,4210120947.0,ES,True,ResearchMar,C,unknown
+10.1016/j.rio.2022.100285,Bárbara D. Lisboa,2.0,middle,False,4210093216.0,ES,True,ICN2,Bárbara,female
+10.1016/j.jinf.2021.04.009,Bàrbara Baró,1.0,first,False,4210148332.0,ES,True,ISGlobal,Bàrbara,unknown
+10.1016/j.phrs.2024.107536,Busquets Garcia Arnau,9.0,middle,False,4210130874.0,ES,True,ResearchMar,Busquets,unknown
+10.1177/23259671221150632,Bruno Capurro,1.0,first,True,123044942.0,ES,True,ResearchMar,Bruno,male
+10.3390/biology12010033,Brigitte Beltrán-Mármol,14.0,middle,False,4210130874.0,ES,True,ResearchMar,Brigitte,female
+10.1186/s13063-023-07537-0,Bridget Hogg,40.0,middle,False,,,True,ResearchMar,Bridget,female
+10.1016/j.ejmech.2024.116616,Brian Medel-Lacruz,3.0,middle,False,170486558.0,ES,True,ResearchMar,Brian,male
+10.1039/d3sc04406h,Borja Ortín‐Rubio,1.0,first,False,4210093216.0,ES,True,ICN2,Borja,male
+10.1103/physrevb.110.094103,Bogdan Guster,1.0,first,False,4210130123.0,BE,True,ICN2,Bogdan,male
+10.1093/cercor/bhac239,Blanca Rodríguez‐Fernández,35.0,middle,False,,,True,ResearchMar,Blanca,female
+10.1021/acsestwater.1c00192,Bhawna Nagar,2.0,middle,False,4210093216.0,ES,True,BETA,Bhawna,unknown
+10.3390/agronomy14050935,Berta Singla Just,1.0,first,False,115304662.0,ES,True,BETA,Berta,female
+10.1109/jlt.2021.3118103,Bernat Bassols-Cornudella,1.0,first,False,4210105141.0,ES,True,ICN2,Bernat,unknown
+10.1016/j.jpsychires.2022.02.009,Benedikt L. Amann,39.0,middle,False,,,True,ResearchMar,Benedikt,male
+10.1016/j.pan.2022.07.007,Benedetto Ielpo,49.0,middle,False,4210130874.0,ES,True,ResearchMar,Benedetto,male
+10.1016/j.ultsonch.2020.105425,Belén Pepió,1.0,first,False,4210093216.0,ES,True,ICN2,Belén,female
+10.1016/j.rec.2021.12.001,Begoña Benito,1.0,first,False,4210102407.0,ES,True,ResearchMar,Begoña,female
+10.1038/s41375-020-01107-y,Beatríz Bellosillo,44.0,middle,False,4210130874.0,ES,True,ResearchMar,Beatríz,unknown
+10.3390/jcm11133760,Beatriz Puértolas-Gracia,1.0,first,False,4210154894.0,ES,True,ResearchMar,Beatriz,female
+10.1016/j.electacta.2021.138657,Batoul Hosseinzadeh,1.0,first,False,4210093216.0,ES,True,ICN2,Batoul,female
+10.3389/fimmu.2022.776917,Barbara N. Harding,1.0,first,True,4210148332.0,ES,True,ResearchMar,Barbara,female
+10.1093/nar/gkae950,Baldomero Oliva,2.0,middle,False,170486558.0,ES,True,ResearchMar,Baldomero,male
+10.1007/978-1-0716-3350-2_18,Baldo Oliva,2.0,middle,False,170486558.0,ES,True,ResearchMar,Baldo,male
+10.1016/j.nrl.2020.12.001,B. Bertrán Recasens,1.0,first,False,4210130874.0,ES,True,ResearchMar,B.,unknown
+10.1016/j.rec.2023.03.019,B Vaquerizo-Montilla,18.0,last,False,170486558.0,ES,True,ResearchMar,B,unknown
+10.1016/j.cmi.2024.07.002,Aída Ramirez,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Aída,unknown
+10.3389/fpubh.2021.583667,Azucena Bardají,2.0,middle,False,4210148332.0,ES,True,ISGlobal,Azucena,female
+10.3390/nano13060992,Aziz Genç,1.0,first,False,123044942.0,ES,True,ICN2,Aziz,male
+10.1111/tan.14231,Aura Muntasell,2.0,middle,False,123044942.0,ES,True,ResearchMar,Aura,female
+10.1016/j.ajem.2024.04.048,August Supervía,1.0,first,False,4210130874.0,ES,True,ResearchMar,August,male
+10.1016/j.envint.2020.106170,Asya Dimitrova,1.0,first,True,4210148332.0,ES,True,ISGlobal,Asya,female
+10.1007/s40121-020-00385-4,Asunción Moreno,5.0,middle,False,4210160192.0,ES,True,ISGlobal,Asunción,female
+10.1186/s12939-024-02112-8,Astrid Escrig-Piñol,3.0,middle,False,170486558.0,ES,True,ResearchMar,Astrid,female
+10.1002/aenm.202301959,Ashitha Paingott Parambil,2.0,middle,False,4210093216.0,ES,True,ICN2,Ashitha,unknown
+10.1016/j.mex.2024.102969,Ashby Lavelle Sachs,1.0,first,False,4210121328.0,ES,True,CREAF,Ashby,unknown
+10.1080/09581596.2019.1682124,Arsenii Alenichev,1.0,first,True,887064364.0,NL,True,ISGlobal,Arsenii,unknown
+10.1038/s42255-022-00600-1,Arnau Busquets-García,1.0,first,True,4210156109.0,ES,True,ResearchMar,Arnau,unknown
+10.1111/ecog.06025,Arnald Marcer,1.0,first,True,4210129656.0,ES,True,CREAF,Arnald,unknown
+10.1088/2053-1583/ac3378,Armando Pezo,1.0,first,False,4210093216.0,ES,True,ICN2,Armando,male
+10.1002/alz.13525,Armand González‐Escalante,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Armand,male
+10.1021/acsami.3c07188,Aritz Lafuente,2.0,middle,False,123044942.0,ES,True,ICN2,Aritz,unknown
+10.1039/d1cp03679c,Arindom Chatterjee,1.0,first,False,96673099.0,DK,True,ICN2,Arindom,unknown
+10.1093/ije/dyae063,Ariadna Pinar Martí,51.0,middle,False,170486558.0,ES,True,ResearchMar,Ariadna,female
+10.1016/j.redare.2022.07.005,Areli Montes-Pérez,3.0,middle,False,4210130874.0,ES,True,ResearchMar,Areli,unknown
+10.1039/d4nh00226a,Arben Merkoçi,34.0,middle,False,4210093216.0,ES,True,ICN2,Arben,male
+10.3390/ijerph182413306,Apolline Saucy,4.0,middle,False,4210148332.0,ES,True,ISGlobal,Apolline,female
+10.3390/ma16093439,Anukriti Pokhriyal,1.0,first,False,4210093216.0,ES,True,ICN2,Anukriti,unknown
+10.1016/j.arth.2021.02.005,Antônio Montes,3.0,last,False,4210136145.0,ES,True,ResearchMar,Antônio,unknown
+10.1093/ije/dyae063,Antònia Valentín,59.0,middle,False,,,True,ResearchMar,Antònia,unknown
+10.1111/ene.15312,Antía Moreira,1.0,first,False,4210156109.0,ES,True,ResearchMar,Antía,unknown
+10.3389/fmed.2023.1039223,Antonio Bulbena,1.0,first,False,2801357902.0,ES,True,ResearchMar,Antonio,male
+10.1007/s00394-020-02415-w,Antoni Pastor,322.0,middle,False,,,True,ResearchMar,Antoni,male
+10.1016/j.foreco.2022.120379,Anselm Rodrigo,3.0,middle,False,4210129656.0,ES,True,CREAF,Anselm,male
+10.1093/abm/kaac054,Anne‐Elie Carsin,2.0,middle,False,4210136145.0,ES,True,ResearchMar,Anne‐Elie,unknown
+10.3390/environments8090093,Annelies Broekman,2.0,middle,False,4210129656.0,ES,True,CREAF,Annelies,female
+10.1016/j.envint.2021.106933,Anne-Claire Binter,1.0,first,False,2801357902.0,ES,True,ResearchMar,Anne-Claire,unknown
+10.1021/acssensors.2c01782,Annalisa Scroccarello,1.0,first,False,4210093216.0,ES,True,ICN2,Annalisa,female
+10.1080/08037051.2024.2368800,Anna Oliveras,44.0,middle,False,4210136145.0,ES,True,ResearchMar,Anna,female
+10.1111/nyas.15238,Angélique Lebert,1.0,first,False,123044942.0,ES,True,ResearchMar,Angélique,female
+10.1111/nicc.13111,Angie Ramírez‐Ramon,10.0,middle,False,4210133106.0,ES,True,ResearchMar,Angie,female
+10.1016/j.tfp.2024.100668,Angham Daiyoub,1.0,first,True,4210129656.0,ES,True,CREAF,Angham,female
+10.1093/jtm/taab100,Angeline Cruz,2.0,middle,False,71999127.0,ES,True,ISGlobal,Angeline,female
+10.1177/17085381221078176,Andrés Galarza Tapia,1.0,first,False,4210130874.0,ES,True,ResearchMar,Andrés,male
+10.1002/smll.202207949,Andrew Piper,2.0,middle,False,4210093216.0,ES,True,ICN2,Andrew,male
+10.1038/s41588-021-00936-6,Andrea Alemany,158.0,middle,False,4210160872.0,ES,True,ISGlobal,Andrea,female
+10.1016/j.ijscr.2023.108257,Ander Zugazaga,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Ander,male
+10.1128/mbio.01636-21,Anastasia K. Pickford,1.0,first,False,4210148332.0,ES,True,ISGlobal,Anastasia,female
+10.3390/environments8090093,Anabel Sánchez,1.0,first,True,4210129656.0,ES,True,CREAF,Anabel,female
+10.1001/jamanetworkopen.2021.37277,Ana Siverio,64.0,middle,False,,,True,ResearchMar,Ana,female
+10.1038/s41598-023-33487-3,Amirhossein Sarreshtehdari,1.0,first,False,4210156109.0,ES,True,ResearchMar,Amirhossein,unknown
+10.1007/s00737-024-01431-7,Amira Trabsa,1.0,first,False,123044942.0,ES,True,ResearchMar,Amira,female
+10.1177/23969873211061027,Amer Ghrouz,1.0,first,True,4210133106.0,ES,True,ResearchMar,Amer,male
+10.1136/bmjopen-2020-040480,Amaya Ayala‐García,1.0,first,True,4210154894.0,ES,True,ISGlobal,Amaya,female
+10.1007/s13304-024-01859-7,Amalia Pelegrina,446.0,middle,False,,,True,ResearchMar,Amalia,female
+10.3389/fnut.2024.1379531,Amaia Ayala‐García,1.0,first,False,4210130874.0,ES,True,ResearchMar,Amaia,female
+10.1117/12.2590747,Amador Pérez‐Tomás,1.0,first,False,4210093216.0,ES,True,ICN2,Amador,male
+10.1002/admt.202101450,Amadeo Sena‐Torralba,1.0,first,False,4210093216.0,ES,True,ICN2,Amadeo,male
+10.1016/j.envres.2024.118195,Alícia Josa-Culleré,1.0,first,False,4210154894.0,ES,True,ResearchMar,Alícia,female
+10.1016/j.adro.2023.101177,Alvaro A. Martinez,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Alvaro,male
+10.1088/2053-1583/ac2e51,Aloïs Arrighi,1.0,first,True,4210093216.0,ES,True,ICN2,Aloïs,mostly_male
+10.1111/nph.19138,Alistair S. Jump,3.0,middle,False,12093191.0,GB,True,CREAF,Alistair,male
+10.1177/17085381221078176,Alina Velescu,2.0,middle,True,4210095014.0,ES,True,ResearchMar,Alina,female
+10.1080/14787210.2022.2122443,Alicia Rodríguez-Alarcón,1.0,first,False,4210156109.0,ES,True,ResearchMar,Alicia,female
+10.1016/j.envres.2022.114592,Alice Hinchliffe,1.0,first,False,4210148332.0,ES,True,ResearchMar,Alice,female
+10.1038/s41588-021-00936-6,Alfredo Mayor,149.0,middle,False,4210148332.0,ES,True,ISGlobal,Alfredo,male
+10.1016/j.rx.2021.06.006,Alfonso Rodríguez‐Baeza,3.0,middle,False,123044942.0,ES,True,ResearchMar,Alfonso,male
+10.1016/j.ijcard.2021.01.051,Alfons Aguirre,74.0,middle,False,4210157094.0,ES,True,ResearchMar,Alfons,male
+10.1093/jamia/ocad251,Alexia Giannoula,1.0,first,True,4210130874.0,ES,True,ResearchMar,Alexia,female
+10.1038/s41699-022-00311-x,Alexandros El Sachat,1.0,first,False,4210093216.0,ES,True,ICN2,Alexandros,male
+10.1038/s41565-021-00957-6,Alexander Block,1.0,first,False,4210093216.0,ES,True,ICN2,Alexander,male
+10.1093/jac/dkab321,Alex Almuedo-Riera,64.0,middle,False,4210148332.0,ES,True,ISGlobal,Alex,male
+10.1093/brain/awab362,Alessandro Príncipe,99.0,middle,False,,,True,ResearchMar,Alessandro,male
+10.1038/s41598-021-95263-5,Aleksandra Mas‐Stachurska,1.0,first,True,4210156109.0,ES,True,ResearchMar,Aleksandra,female
+10.1080/02656736.2021.1894358,Aleksandar Radosevic,1.0,first,False,170486558.0,ES,True,ResearchMar,Aleksandar,male
+10.1016/j.clgc.2022.08.006,Alejo Rodríguez‐Vida,36.0,middle,False,4210130874.0,ES,True,ResearchMar,Alejo,male
+10.1016/j.cireng.2021.06.016,Alejandro Lusilla,44.0,middle,False,170486558.0,ES,True,ResearchMar,Alejandro,male
+10.1016/j.medin.2021.03.013,Alejandra Fernández Trujillo,1.0,first,True,4210115578.0,ES,True,ResearchMar,Alejandra,female
+10.1080/01431161.2023.2217982,Aleixandre Verger,2.0,middle,False,4210129656.0,ES,True,CREAF,Aleixandre,unknown
+10.1093/cercor/bhac239,Aleix Sala‐Vila,36.0,middle,False,,,True,ResearchMar,Aleix,unknown
+10.1088/2053-1583/abc7f8,Aleandro Antidormi,1.0,first,True,4210093216.0,ES,True,ICN2,Aleandro,male
+10.1093/infdis/jiaa696,Alberto L. García‐Basteiro,38.0,last,False,4210154894.0,ES,True,ISGlobal,Alberto,male
+10.1002/alz.12545,Albert Puig‐Pijoan,54.0,middle,False,4210136145.0,ES,True,ResearchMar,Albert,male
+10.1016/j.sjpmh.2023.07.002,Alba Toll,55.0,middle,False,,,True,ResearchMar,Alba,female
+10.3390/ijgi10030141,Alaitz Zabala,1.0,first,True,4210129656.0,ES,True,CREAF,Alaitz,female
+10.1002/adfm.202312166,Akim Khobotov‐Bakishev,1.0,first,False,123044942.0,ES,True,ICN2,Akim,male
+10.1016/j.ecolind.2022.109653,Akash Tariq,1.0,first,True,4210103115.0,CN,True,CREAF,Akash,male
+10.3389/fmicb.2022.935378,Aitziber Zufiaurre,1.0,first,False,4210129656.0,ES,True,CREAF,Aitziber,unknown
+10.2196/31565,Aitana García-Estela,1.0,first,False,4210156109.0,ES,True,ResearchMar,Aitana,female
+10.1016/j.nedt.2023.106009,Ainoa Biurrún-Garrido,1.0,first,False,4210130874.0,ES,True,ResearchMar,Ainoa,unknown
+10.1111/jdv.17498,Ainhoa Vidal-Navarro,2.0,middle,False,4210156109.0,ES,True,ResearchMar,Ainhoa,female
+10.3389/fneur.2020.589901,Ainara Barguilla,1.0,first,True,4210130874.0,ES,True,ResearchMar,Ainara,female
+10.1111/1755-0998.13862,Aina Garcia‐Raventós,1.0,first,True,4210129656.0,ES,True,CREAF,Aina,female
+10.3389/fendo.2021.754347,Aida Cuenca‐Royo,47.0,middle,False,2801724371.0,ES,True,ResearchMar,Aida,female
+10.1002/ueg2.12325,Agustín Seoane,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Agustín,male
+10.26508/lsa.202201692,Agustí Toll,2.0,middle,False,4210115097.0,ES,True,ResearchMar,Agustí,unknown
+10.1016/j.jinf.2022.12.027,Adrián Tormos,204.0,middle,False,2799803557.0,ES,True,ResearchMar,Adrián,male
+10.1080/01431161.2023.2217982,Adrià Descals,1.0,first,True,4210129656.0,ES,True,CREAF,Adrià,unknown
+10.3390/jcm11051431,Adriana Sierra,1.0,first,False,4210156109.0,ES,True,ResearchMar,Adriana,female
+10.1038/s41380-024-02531-7,Adrian Morales Pastor,6.0,middle,False,4210130874.0,ES,True,ResearchMar,Adrian,male
+10.1007/s00402-021-03991-0,Adolfo Díez‐Pérez,2.0,middle,False,4210133106.0,ES,True,ResearchMar,Adolfo,male
+10.3390/antibiotics10060666,Adela Benítez-Cano,2.0,middle,True,4210130874.0,ES,True,ResearchMar,Adela,female
+10.1016/j.jhepr.2021.100234,Adam Palayew,2.0,middle,False,5023651.0,CA,True,ISGlobal,Adam,male
+10.1016/j.schres.2022.08.007,Ada I. Ruiz,4.0,middle,False,4210130874.0,ES,True,ResearchMar,Ada,female
+10.1016/j.surfin.2021.101494,Achille Francone,1.0,first,False,4210093216.0,ES,True,ICN2,Achille,male
+10.1111/jdv.19847,Abora Rial‐Villavecchia,2.0,middle,False,4210130874.0,ES,True,ResearchMar,Abora,unknown
+10.1016/j.nrleng.2020.10.004,Abel Alejandro Sanabria Sanchinel,1.0,first,False,4210130874.0,ES,True,ResearchMar,Abel,male
+10.18176/jiaci.0820,A.M. Giménez-Arnau,1.0,first,False,170486558.0,ES,True,ResearchMar,A.M.,unknown
+10.1016/j.ejca.2021.11.032,A. Reig,78.0,middle,False,2898336195.0,NL,True,ResearchMar,A.,unknown
+10.1016/j.recot.2024.11.015,A Portes,1.0,first,False,4210133106.0,ES,True,ResearchMar,A,unknown
