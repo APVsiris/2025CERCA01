@@ -1,0 +1,401 @@
+DISPLAY_NAME,COUNTRY_CODE,ID
+Ministerio de Economía y Competitividad,ES,12556
+Generalitat de Catalunya,ES,11147
+Ministerio de Ciencia e Innovación,ES,9757
+Instituto de Salud Carlos III,ES,9022
+Agència de Gestió d'Ajuts Universitaris i de Recerca,ES,5487
+"Ministerio de Ciencia, Innovación y Universidades",ES,4648
+Agencia Estatal de Investigación,ES,3402
+"Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",ES,3121
+Deutsche Forschungsgemeinschaft,DE,2255
+National Natural Science Foundation of China,CN,2119
+National Science Foundation,US,1781
+Institució Catalana de Recerca i Estudis Avançats,ES,1660
+National Institutes of Health,US,1533
+Federación Española de Enfermedades Raras,ES,1435
+Conselho Nacional de Desenvolvimento Científico e Tecnológico,BR,1313
+Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,CH,1248
+Agence Nationale de la Recherche,FR,1159
+“la Caixa” Foundation,ES,1142
+Fundação para a Ciência e a Tecnologia,PT,1124
+Fundació la Marató de TV3,ES,1106
+"Ministerio de Educación, Cultura y Deporte",ES,1059
+U.S. Department of Energy,US,1003
+Generalitat Valenciana,ES,960
+Consejo Superior de Investigaciones Científicas,ES,942
+"Secretaría de Estado de Investigación, Desarrollo e Innovación",ES,868
+China Scholarship Council,CN,824
+"Departament d'Innovació, Universitats i Empresa, Generalitat de Catalunya",ES,821
+European Cooperation in Science and Technology,BE,800
+Bundesministerium für Bildung und Forschung,DE,781
+Fundación Cellex,ES,765
+Australian Research Council,AU,760
+Science and Technology Facilities Council,GB,752
+Universitat Rovira i Virgili,ES,744
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,BR,738
+Narodowe Centrum Nauki,PL,734
+Universitat Autònoma de Barcelona,ES,723
+Consejo Nacional de Ciencia y Tecnología,MX,711
+Natural Sciences and Engineering Research Council of Canada,CA,709
+Fundação de Amparo à Pesquisa do Estado de São Paulo,BR,706
+Vetenskapsrådet,SE,673
+Engineering and Physical Sciences Research Council,GB,623
+Japan Society for the Promotion of Science,JP,616
+Nederlandse Organisatie voor Wetenschappelijk Onderzoek,NL,583
+Universitat de Girona,ES,563
+Medical Research Council,GB,545
+Centre National de la Recherche Scientifique,FR,530
+Universitat de Barcelona,ES,523
+Royal Society,GB,508
+Alexander von Humboldt-Stiftung,DE,487
+Centres de Recerca de Catalunya,ES,461
+Fundación Científica Asociación Española Contra el Cáncer,ES,456
+Comunidad de Madrid,ES,448
+Austrian Science Fund,AT,436
+Pfizer,US,434
+Eusko Jaurlaritza,ES,424
+Norges Forskningsråd,NO,406
+National Aeronautics and Space Administration,US,401
+"Ministry of Education, Culture, Sports, Science and Technology",JP,398
+Academy of Finland,FI,397
+"Departament de Salut, Generalitat de Catalunya",ES,395
+Max-Planck-Gesellschaft,DE,394
+Canadian Institutes of Health Research,CA,393
+Wellcome Trust,GB,393
+Instituto Nazionale di Fisica Nucleare,IT,382
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria,ES,374
+Leverhulme Trust,GB,368
+Comisión Nacional de Investigación Científica y Tecnológica,CL,368
+National Cancer Institute,US,364
+Ministerio de Ciencia y Tecnología,ES,362
+Chinese Academy of Sciences,CN,357
+Agencia Nacional de Promoción Científica y Tecnológica,AR,356
+National Institute for Health and Care Research,GB,354
+National Research Foundation of Korea,KR,349
+Fonds Wetenschappelijk Onderzoek,BE,332
+AstraZeneca,GB,331
+Fondo Nacional de Desarrollo Científico y Tecnológico,CL,326
+Consejo Nacional de Investigaciones Científicas y Técnicas,AR,322
+"Ministero dell’Istruzione, dell’Università e della Ricerca",IT,319
+Novartis,CH,314
+Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro,BR,310
+National Health and Medical Research Council,AU,304
+Ministry of Science and Technology of the People's Republic of China,CN,302
+Natural Environment Research Council,GB,301
+Israel Science Foundation,IL,301
+Danmarks Grundforskningsfond,DK,300
+Bill and Melinda Gates Foundation,US,297
+Universitat Politècnica de Catalunya,ES,297
+Roche,CH,293
+Canada Foundation for Innovation,CA,292
+Cancer Research UK,GB,292
+Fundación Ramón Areces,ES,291
+Knut och Alice Wallenbergs Stiftelse,SE,289
+Universitat de Lleida,ES,288
+"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",CO,285
+Javna Agencija za Raziskovalno Dejavnost RS,SI,281
+Russian Foundation for Basic Research,RU,277
+Russian Science Foundation,RU,273
+European Space Agency,FR,272
+Grantová Agentura České Republiky,CZ,264
+Ministerstwo Edukacji i Nauki,PL,262
+"Ministerstvo Školství, Mládeže a Tělovýchovy",CZ,262
+Fundación BBVA,ES,260
+Biotechnology and Biological Sciences Research Council,GB,258
+"Departament d'Universitats, Recerca i Societat de la Informació",ES,255
+Junta de Andalucía,ES,253
+Sociedad Española de Neumología y Cirugía Torácica,ES,252
+Eli Lilly and Company,US,248
+National Key Research and Development Program of China,CN,246
+Gilead Sciences,US,244
+Xunta de Galicia,ES,242
+Sanofi,US,239
+CERN,CH,235
+GlaxoSmithKline,GB,228
+Wellcome,GB,225
+"Centro de Investigación Biomédica en Red en Bioingeniería, Biomateriales y Nanomedicina",ES,224
+AbbVie,US,223
+Agencia Nacional de Investigación y Desarrollo,CL,223
+Ministry of Education and Science of the Russian Federation,RU,221
+Centro para el Desarrollo Tecnológico Industrial,ES,215
+"National Heart, Lung, and Blood Institute",US,204
+Helmholtz-Gemeinschaft,DE,203
+Bristol-Myers Squibb,US,194
+National Research Council Canada,CA,193
+Science Foundation Ireland,IE,188
+Fundamental Research Funds for the Central Universities,CN,188
+Centro de Investigación Biomédica en Red de Salud Mental,ES,186
+Fusion for Energy,ES,184
+Financiadora de Estudos e Projetos,BR,181
+Office of Science,US,180
+Amgen,US,178
+Gobierno de Aragón,ES,176
+Associazione Italiana per la Ricerca sul Cancro,IT,175
+Svenska Forskningsrådet Formas,SE,175
+Barcelona Supercomputing Center,ES,171
+"Ministry of Science and Technology, Taiwan",TW,169
+"Bundesministerium für Wissenschaft, Forschung und Wirtschaft",AT,167
+General Secretariat for Research and Technology,GR,167
+National Institute of Allergy and Infectious Diseases,US,167
+UK Research and Innovation,GB,165
+Innovative Medicines Initiative,BE,165
+Institut Català d'Investigació Química,ES,164
+Centre National pour la Recherche Scientifique et Technique,MA,159
+Euskal Herriko Unibertsitatea,ES,158
+"Ministarstvo Prosvete, Nauke i Tehnološkog Razvoja",RS,158
+National Institute on Aging,US,157
+Fonds De La Recherche Scientifique - FNRS,BE,157
+Merck Sharp and Dohme,GB,156
+"Ministerio de Sanidad, Servicios Sociales e Igualdad",ES,153
+Merck,US,151
+National Institute of Mental Health,US,149
+National Institute of General Medical Sciences,US,148
+Ministero della Salute,IT,144
+Centro de Investigación Biomédica en Red Enfermedades Cardiovasculares,ES,142
+Commissariat à l'Énergie Atomique et aux Énergies Alternatives,FR,142
+China Postdoctoral Science Foundation,CN,141
+Institut National de la Santé et de la Recherche Médicale,FR,140
+National Institute of Neurological Disorders and Stroke,US,138
+German-Israeli Foundation for Scientific Research and Development,IL,137
+Sociedad Española de Cardiología,ES,134
+"Research Grants Council, University Grants Committee",HK,132
+Fundación Mutua Madrileña,ES,132
+Fundación Séneca,ES,132
+Villum Fonden,DK,132
+National Research Foundation,ZA,131
+Joint Institute for Nuclear Research,RU,131
+ZonMw,NL,131
+Eidgenössische Technische Hochschule Zürich,CH,130
+"Departament d'Empresa i Coneixement, Generalitat de Catalunya",ES,130
+Ministry of Economy,IL,129
+Higher Education Funding Council for England,GB,129
+Universitat Pompeu Fabra,ES,127
+Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona,ES,127
+Lundbeckfonden,DK,126
+Gordon and Betty Moore Foundation,US,126
+British Columbia Knowledge Development Fund,CA,125
+University College London,GB,121
+Institut National de Physique Nucléaire et de Physique des Particules,FR,119
+Agència per a la Competitivitat de l’Empresa,ES,119
+F. Hoffmann-La Roche,CH,118
+"Ministério da Ciência, Tecnologia e Inovação",BR,118
+Sociedad Española de Medicina de Familia y Comunitaria,ES,118
+Deutsche Krebshilfe,DE,118
+Basic Energy Sciences,US,117
+Ohio State University,US,116
+University of Chicago,US,116
+Canarie,CA,116
+AXA Research Fund,FR,115
+Ministerstvo Průmyslu a Obchodu,CZ,114
+British Heart Foundation,GB,113
+Ligue Contre le Cancer,FR,113
+United States-Israel Binational Science Foundation,IL,111
+National Institute of Diabetes and Digestive and Kidney Diseases,US,111
+"Consejería de Economía, Innovación, Ciencia y Empleo, Junta de Andalucía",ES,111
+Simons Foundation,US,110
+Spanish National Plan for Scientific and Technical Research and Innovation,ES,108
+European Molecular Biology Organization,DE,107
+Junta de Castilla y León,ES,106
+Comisión Interministerial de Ciencia y Tecnología,ES,106
+University of Pennsylvania,US,106
+"Department of Science and Technology, Republic of South Africa",ZA,105
+Novo Nordisk Fonden,DK,105
+University of Nottingham,GB,104
+Celgene,US,104
+FUNDACIÓ Privada MIR-PUIG,ES,104
+Economic and Social Research Council,GB,104
+Deutscher Akademischer Austauschdienst,DE,104
+Karlsruhe Institute of Technology,DE,103
+"Consejería de Educación, Junta de Castilla y León",ES,102
+Stichting voor Fundamenteel Onderzoek der Materie,NL,102
+Bayer,DE,102
+"Ministerio de Ciencia, Tecnología e Innovación Productiva",AR,102
+Türkiye Atom Enerjisi Kurumu,TR,101
+Office of Naval Research,US,101
+Lawrence Berkeley National Laboratory,US,101
+Air Force Office of Scientific Research,US,100
+Danmarks Frie Forskningsfond,DK,100
+Brookhaven National Laboratory,US,99
+University of Edinburgh,GB,98
+University of Illinois at Urbana-Champaign,US,97
+Centro de Investigación Biomédica en Red-Fisiopatología de la Obesidad y Nutrición,ES,96
+World Cancer Research Fund,GB,96
+Alzheimer's Association,US,96
+Centro de Investigación Biomédica en Red Diabetes y Enfermedades Metabólicas Asociadas,ES,96
+"Department of Science and Technology, Ministry of Science and Technology, India",IN,96
+Canada Research Chairs,CA,95
+University of Portsmouth,GB,95
+Science and Engineering Research Board,IN,95
+Universitat Ramon Llull,ES,95
+Fundacja na rzecz Nauki Polskiej,PL,95
+Centro de Investigación Biomédica en Red de Cáncer,ES,95
+Medtronic,US,94
+U.S. Department of Defense,US,94
+Texas A and M University,US,93
+Universitat Oberta de Catalunya,ES,93
+Meso Scale Diagnostics,US,92
+John Templeton Foundation,US,92
+National Institute of Environmental Health Sciences,US,91
+Ministerio de Educación y Formación Profesional,ES,90
+Boehringer Ingelheim,US,89
+Albert Ellis Institute,US,89
+Argonne National Laboratory,US,89
+National Human Genome Research Institute,US,89
+Kræftens Bekæmpelse,DK,89
+University of Sussex,GB,88
+Türkiye Bilimsel ve Teknolojik Araştırma Kurumu,TR,88
+"Consellería de Cultura, Educación e Ordenación Universitaria, Xunta de Galicia",ES,88
+"Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",ES,88
+Stanford University,US,88
+Hrvatska Zaklada za Znanost,HR,87
+Fondation pour la Recherche Médicale,FR,87
+"Consejería de Salud y Familias, Junta de Andalucía",ES,87
+Boehringer Ingelheim,DE,86
+Genentech,US,85
+Agencia Española de Cooperación Internacional para el Desarrollo,ES,85
+Dirección General de Investigación Científica y Técnica,ES,84
+Universidad Complutense de Madrid,ES,84
+Banco Santander,ES,83
+Universitat Jaume I,ES,82
+Social Sciences and Humanities Research Council of Canada,CA,82
+Agenzia Spaziale Italiana,IT,82
+Centre International de Recherche sur le Cancer,FR,82
+"Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky",SK,82
+National Geographic Society,US,82
+University of Cambridge,GB,81
+"Conselleria d'Educació, Investigació, Cultura i Esport",ES,81
+Cancerfonden,SE,80
+Deutsches Elektronen-Synchrotron,DE,80
+University of Michigan,US,80
+TRIUMF,CA,80
+Novartis Pharmaceuticals Corporation,US,80
+"Secretaría de Educación Superior, Ciencia, Tecnología e Innovación",EC,80
+Alfred P. Sloan Foundation,US,80
+Minerva Foundation,DE,79
+Fundación Alicia Koplowitz,ES,79
+Army Research Office,US,78
+Janssen Research and Development,US,78
+"Direcció General de Recerca, Generalitat de Catalunya",ES,78
+Fonds National de la Recherche Luxembourg,LU,77
+Centre National d’Etudes Spatiales,FR,76
+Howard Hughes Medical Institute,US,76
+National Academy of Sciences of Ukraine,UA,76
+Israeli Centers for Research Excellence,IL,76
+Comissió Interdepartamental de Recerca i Innovació Tecnològica,ES,76
+Institutul de Fizică Atomică,RO,75
+European Science Foundation,FR,75
+Foundation for the National Institutes of Health,US,74
+James S. McDonnell Foundation,US,74
+SLAC National Accelerator Laboratory,US,74
+Narodowa Agencja Wymiany Akademickiej,PL,73
+Région Auvergne-Rhône-Alpes,FR,73
+King Abdullah University of Science and Technology,SA,71
+Università degli Studi di Padova,IT,71
+Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas,ES,71
+Universitat Politècnica de València,ES,71
+"Dirección General de Asuntos del Personal Académico, Universidad Nacional Autónoma de México",MX,71
+Human Frontier Science Program,FR,71
+Institut National Du Cancer,FR,70
+Fundação de Amparo à Pesquisa do Estado de Minas Gerais,BR,70
+"Secretaría de Estado de Investigacion, Desarrollo e Innovacion",ES,70
+Compute Canada,CA,69
+Agentúra na Podporu Výskumu a Vývoja,SK,69
+European and Developing Countries Clinical Trials Partnership,NL,68
+"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",BE,68
+High Energy Physics,US,68
+Fondo para la Investigación Científica y Tecnológica,AR,68
+Michael J. Fox Foundation for Parkinson's Research,US,67
+"Natur og Univers, Det Frie Forskningsråd",DK,67
+European Respiratory Society,CH,67
+National Science Council,TW,66
+Arizona-Nevada Academy of Science,US,65
+National Institute on Alcohol Abuse and Alcoholism,US,65
+Eesti Teadusagentuur,EE,65
+Helmholtz Association,DE,64
+Centro de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas,ES,64
+Servier,FR,64
+European Foundation for the Study of Diabetes,DE,64
+National Institute on Drug Abuse,US,63
+Natural Science Foundation of Jiangsu Province,CN,63
+Deutsches Krebsforschungszentrum,DE,63
+National Energy Research Scientific Computing Center,US,62
+Division of Materials Research,US,62
+Plan Nacional sobre Drogas,ES,62
+Consell Català de Recerca i Innovació,ES,62
+Nemzeti Kutatási Fejlesztési és Innovációs Hivatal,HU,62
+Junta de Comunidades de Castilla-La Mancha,ES,61
+Narodowym Centrum Nauki,PL,61
+Ministero dell'Università e della Ricerca,IT,61
+European Molecular Biology Laboratory,DE,60
+Division of Chemistry,US,60
+Medical Research Council Canada,CA,60
+Imperial College London,GB,60
+Hungarian Scientific Research Fund,HU,59
+Boston Scientific Corporation,US,59
+"Center for International Business Education and Research, University of Illinois at Urbana-Champaign",US,59
+Universidad Nacional Autónoma de México,MX,59
+Shota Rustaveli National Science Foundation,GE,59
+Biogen,US,58
+Novartis Pharma,DE,58
+Magyar Tudományos Akadémia,HU,58
+CAS Center for Excellence in Particle Physics,CN,58
+Australian Research Data Commons,AU,58
+KU Leuven,BE,58
+Sapienza Università di Roma,IT,57
+Brain and Behavior Research Foundation,US,57
+Universidad de Zaragoza,ES,56
+Regione Autonoma della Sardegna,IT,56
+Fundación Española para la Ciencia y la Tecnología,ES,56
+National Center for Advancing Translational Sciences,US,56
+Breast Cancer Research Foundation,US,56
+CYTED Ciencia y Tecnología para el Desarrollo,ES,56
+Leakey Foundation,US,56
+Universidad de Oviedo,ES,55
+Bergens Forskningsstiftelse,NO,55
+Janssen Pharmaceuticals,US,55
+Grifols,ES,55
+Abbott Laboratories,US,55
+"Staatssekretariat für Bildung, Forschung und Innovation",CH,55
+European Federation of Pharmaceutical Industries and Associations,BE,54
+"Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital, Generalitat Valenciana",ES,54
+Fonds Québécois de la Recherche sur la Nature et les Technologies,CA,54
+Sanofi España,ES,54
+Agencia Nacional de Investigación e Innovación,UY,54
+Eisai,JP,53
+Belgian Federal Science Policy Office,BE,53
+Ministry of Education,KR,53
+Novo Nordisk,DK,53
+Irish Research Council,IE,53
+Family Process Institute,US,53
+"Consejería de Educación, Juventud y Deporte, Comunidad de Madrid",ES,53
+Georgian National Science Foundation,GE,53
+"Key Research Program of Frontier Science, Chinese Academy of Sciences",CN,53
+Univerzita Karlova v Praze,CZ,52
+Merck KGaA,DE,52
+National Institute of Arthritis and Musculoskeletal and Skin Diseases,US,52
+King Saud University,SA,52
+National Research Foundation Singapore,SG,52
+Ontario Innovation Trust,CA,51
+Ludwig-Maximilians-Universität München,DE,51
+National Science Foundation of Sri Lanka,LK,51
+Fundación Carmen y Severo Ochoa,ES,51
+LIFE programme,BE,51
+Vifor Pharma,CH,51
+Volkswagen Foundation,DE,51
+Japan Science and Technology Agency,JP,50
+Ministerio de Ciencia Tecnología y Telecomunicaciones,CR,50
+Novartis Farmacéutica,ES,50
+Fundación General CSIC,ES,50
+Regeneron Pharmaceuticals,US,50
+Fundación Banco Santander,ES,50
+"Ministério da Ciência, Tecnologia e Ensino Superior",PT,49
+World Health Organization,CH,49
+"Department of Atomic Energy, Government of India",IN,49
+Marie Curie,GB,49
+Centers for Disease Control and Prevention,US,49
+Centro Nacional de Investigaciones Cardiovasculares,ES,49
+Universitat de València,ES,48
+Astellas Pharma US,US,48
+H. Lundbeck A/S,DK,48
+"Centro de Estudos Ambientais e Marinhos, Universidade de Aveiro",PT,48
+Fundación Alfonso Martín Escudero,ES,48
